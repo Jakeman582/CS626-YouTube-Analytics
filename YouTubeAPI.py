@@ -78,7 +78,7 @@ def call(file_name = "MrBeast", user_name = "MrBeast6000"):
 		print("Error response status code: {0}, reason: {1}".format(e.resp.status, e.error_details))
 
 
-	### Querying the API to get the channel's uploaded video IDs ###
+	### Querying the API to get the channel's uploaded video statistics ###
 
 	# Setting what content to get from the API
 	video_part = "snippet,statistics"
