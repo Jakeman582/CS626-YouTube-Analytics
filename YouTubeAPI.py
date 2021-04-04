@@ -9,7 +9,7 @@ def call(file_name = "MrBeast", user_name = "MrBeast6000"):
 	service = build("youtube", "v3", developerKey = "AIzaSyCtL1EJnBSOpsSfr0hPZAzbEJl9SXuMtmI")
 
 	# We need to store the data retrieved from the API
-	file_path = "C:\\data\youtube_api\\" + file_name + ".txt"
+	file_path = "C:\\data\youtube_api_data\\" + file_name + ".txt"
 	file_mode = "w"
 	file_encoding = "utf-8"
 
@@ -47,7 +47,6 @@ def call(file_name = "MrBeast", user_name = "MrBeast6000"):
 	
 	# Execute the new request
 	try:
-		
 		# Process each page of the response
 		for i in range(page_count):
 			# Construct and execute the request
@@ -78,7 +77,7 @@ def call(file_name = "MrBeast", user_name = "MrBeast6000"):
 		print("Error response status code: {0}, reason: {1}".format(e.resp.status, e.error_details))
 
 
-	### Querying the API to get the channel's uploaded video statistics ###
+	### Querying the API to get the channel's uploaded video IDs ###
 
 	# Setting what content to get from the API
 	video_part = "snippet,statistics"
@@ -126,11 +125,11 @@ def call(file_name = "MrBeast", user_name = "MrBeast6000"):
 					# Print the response for now, save in file later
 					print(
 						"{0} | {1} | {2} | {3} | {4}".format(
-							video['snippet']['title'], 
 							view_count, 
 							like_count, 
 							dislike_count, 
-							comment_count
+							comment_count,
+							video['snippet']['title'], 
 						),
 						file = output_file
 					)
