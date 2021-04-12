@@ -2,7 +2,7 @@ import java.io.IOException;
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Mapper;
 
-public class YouTubeAnalyserMapper extends Mapper<Text, Text, Text, Video> {
+public class VideoFilterMapper extends Mapper<Text, Text, Text, Video> {
 	
 	// Each part of the value can be split into 5 parts
 	private final int DATA_ITEMS = 5;
@@ -12,8 +12,6 @@ public class YouTubeAnalyserMapper extends Mapper<Text, Text, Text, Video> {
 	private final int DISLIKE_COUNT = 2;
 	private final int COMMENT_COUNT = 3;
 	private final int VIDEO_TITLE = 4;
-	
-	private String GLOBAL_NAME = "GLOBALYOUTUBECHANNEL";
 	
 	@Override
 	public void map(Text key, Text value, Context context) throws IOException, InterruptedException{
@@ -38,11 +36,8 @@ public class YouTubeAnalyserMapper extends Mapper<Text, Text, Text, Video> {
 		// Construct the video data
 		Video video = new Video(filename, videoData[VIDEO_TITLE], views, comments, ratio);
 		
-		// Write out the necessary data to the context for each channel
+		// Write to the output
 		context.write(new Text(filename), video);
-		
-		// Write out the same data for a global YouTubeChannel
-		context.write(new Text(GLOBAL_NAME), video);
 		
 	}
 

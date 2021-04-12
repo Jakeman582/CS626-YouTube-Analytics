@@ -1,5 +1,4 @@
 import java.io.IOException;
-
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.conf.Configured;
 import org.apache.hadoop.fs.Path;
@@ -59,7 +58,7 @@ public class SequenceFileToTextFileConverter extends Configured implements Tool 
 		FileInputFormat.addInputPath(job, new Path(args[0]));
 		FileOutputFormat.setOutputPath(job, new Path(args[1]));
 		
-		// We want to generate a SequenceFile from a bunch of smaller files
+		// We want to generate a text file from a SequenceFile
 		job.setInputFormatClass(SequenceFileAsTextInputFormat.class);
 		
 		// Make sure the class is set as the mapper

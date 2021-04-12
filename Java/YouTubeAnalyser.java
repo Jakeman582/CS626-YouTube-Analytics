@@ -43,7 +43,7 @@ public class YouTubeAnalyser extends Configured implements Tool {
 		// We want to get text data from the generated SequenceFile
 		job.setInputFormatClass(SequenceFileAsTextInputFormat.class);
 		
-		// We use the analyser classes to do this jib
+		// We use the analyzer classes to do this job
 		job.setMapperClass(YouTubeAnalyserMapper.class);
 		job.setReducerClass(YouTubeAnalyserReducer.class);
 		

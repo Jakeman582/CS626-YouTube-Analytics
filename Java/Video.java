@@ -1,5 +1,4 @@
 import java.io.*;
-
 import org.apache.hadoop.io.*;
 
 /**
@@ -66,7 +65,7 @@ public class Video implements WritableComparable<Video>{
 		this.ratio.write(out);
 	}
 	
-	/* We need to be able to read in each files for a video */
+	/* We need to be able to read in each field for a video */
 	@Override
 	public void readFields(DataInput in) throws IOException {
 		this.channel.readFields(in);
@@ -122,5 +121,6 @@ public class Video implements WritableComparable<Video>{
 		}
 		return this.title.compareTo(otherVideo.title);
 	}
+	
 
 }

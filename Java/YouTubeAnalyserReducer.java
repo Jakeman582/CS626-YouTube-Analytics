@@ -3,7 +3,6 @@ import org.apache.hadoop.io.NullWritable;
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Reducer;
 
-
 public class YouTubeAnalyserReducer extends Reducer<Text, Video, Channel, NullWritable>{
 	
 	@Override
