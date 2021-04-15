@@ -17,3 +17,45 @@ Jazza,DrawWithJazza
 Cinemassacre,JamesNintendoNerd
 CaseyNeistat,caseyneistat
 PhilipDeFranco,sxephil
+Chovies,Chovies
+The Real Johnny Bravo,TheRealJohnnyBravo
+Netflix,NewonNetflix
+Steven Schapiro, StevenSchapiro
+The Daily Dropout,TheDailyDropout
+BigDawsTV,BigDawsTV
+Warner Bros. Pictures,wbpictures
+Jimmy Kimmel Live,jkl
+House of Highlights,houseofhighlights
+beIN SPORTS USA,beinsportsusa
+FOX Soccer,Foxsoccer
+Handler,TheKnifeHandler
+Sean Go,SeanGo
+The Daily Show With Trevor Noah,TheDailyShow
+IGN,IGN
+WatchMojo.com,WatchMojo
+PlayStation,PlayStation
+Late Night With Seth Meyers,LateNightSeth
+NBC Sports,NBCSports
+CNN,CNN
+OWN,oprah
+ESPN FC,ESPNFC
+WORLDSTARHIPHOP,worldstarhiphop
+truly,BarcroftTV
+BT Sport,BTSport
+Xbox,xbox
+All Def,Alldef
+Harry Hesketh,HashtagHarryy
+BorasLegend,BorasLegend
+gameranx,gameranxTV
+Team Coco,TeamCoco
+ScooterMagruder,Cameron
+Football Daily,thefootballdaily
+Taras Kul,origami768
+Variant Comics,variant
+Marvel Entertainment,marvel
+Man City,mancity
+TheXclusiveAce,TheXclusiveAce
+Genius,rapgenius
+Howcast,howcast
+outsidexbox,outsidexbox
+CollegeHumor,collegehumor
