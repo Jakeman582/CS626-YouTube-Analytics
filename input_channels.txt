@@ -12,12 +12,21 @@ AdamKoralik,AdamKoralik
 ReviewTechUSA,ReviewTechUSA
 Arlo,ArloStuff
 KarlJobst,karljobst
+IGN,IGN
+Handler,TheKnifeHandle
+PlayStation,PlayStation
+Xbox,xbox
+HarryHesketh,HashtagHarryy
+BorasLegend,BorasLegend
+gameranx,gameranxTV
 SwitchForce,UC8wucBti_VxVFhUAzOLyMHw
 TheActMan,UC7WDD6yHgzdqijHluCi1z-Q
 EZScape,UC3YgOn-D_cbUb7QiFccV8mQ
 ApolloLegend,UC5t8u4kpE0WvLxkPWIp8n-g
 SummoningSalt,UCtUbO6rBht0daVIOGML3c8w
 SeeJayAre,SeeJayAre
+outsidexbox,outsidexbox
+TheXclusiveAce,TheXclusiveAce
 # Politics
 PhilipDeFranco,sxephil
 JimmyKimmelLive,jkl
@@ -51,8 +60,17 @@ MusicisWin,UCshiNtfJ7Dj3nlh41a6M-kg
 Vinheteiro,BrasilianMusician
 KarimKamar,KarimsyBOoBoOman
 JoeJenkins,UCaXKudqtVNM8pFvSx-ObYxQ
+Genius,rapgenius
 # Sports
 DudePerfect,corycotton
+ManCity,mancity
+NBCSports,NBCSports
+HouseofHighlights,houseofhighlights
+beINSPORTSUSA,beinsportsusa
+FOXSoccer,Foxsoccer
+ESPNFC,ESPNFC
+BTSport,BTSport
+FootballDaily,thefootballdaily
 # General entertainment
 Smosh,smosh
 JennaMarbles,JennaMarbles
@@ -62,9 +80,24 @@ JJOlatunji,KSIOlajidebtHD
 LoganPaul,UCG8rbF3g2AMX70yOd8vqIZg
 JonTronShow,JonTronShow
 CollegeHumor,collegehumor
+MarvelEntertainment,marvel
 FilthyFrank,TVFilthyFrank
 iDubbbz,iDubbbzTV
 DolanDark,BlackIceShredder
+Howcast,howcast
+CaseyNeistat,caseyneistat
+TheRealJohnnyBravo,TheRealJohnnyBravo
+AllDef,Alldef
+OWN,oprah
+WORLDSTARHIPHOP,worldstarhiphop
+truly,BarcroftTV
+TarasKul,origami768
+Netflix,NewonNetflix
+WarnerBrosPictures,wbpictures
+WatchMojo,WatchMojo
+TeamCoco,TeamCoco
+ScooterMagruder,Cameron
+VariantComics,variant
 # Cooking
 Babish,bgfilms
 SAMTHECOOKINGGUY,thesamlivecast
@@ -98,6 +131,7 @@ JohnMalecki,UCVUSDq6-oSpWAAPUppHFtZQ
 TatsianaPaulava,UCOptW0CseKUyCxIXJav7R7g
 ElizabethRabbit,UCDk-4HNuwyy4A_wEhcSRzqw
 ModelMouth,UCLzv47lNemLiNC_5QlmMFig
+SeanGo,SeanGo
 JasonMaaki,UCIJPUfUJWCrbgM1tfWHk63A
 AdamSaaks,AdamSaaks
 # Math
@@ -139,41 +173,13 @@ Proko,ProkoTV
 EmilyArtful,TheRetroFaceYT
 BayleeJae,BayleeCreations
 ChloeRoseArt,MsChlosey
-# Uncategorized
-CaseyNeistat,caseyneistat
-TheRealJohnnyBravo,TheRealJohnnyBravo
-Netflix,NewonNetflix
+# Pranks
 StevenSchapiro, StevenSchapiro
 TheDailyDropout,TheDailyDropout
 BigDawsTV,BigDawsTV
-WarnerBrosPictures,wbpictures
-HouseofHighlights,houseofhighlights
-beINSPORTSUSA,beinsportsusa
-FOXSoccer,Foxsoccer
-Handler,TheKnifeHandler
-SeanGo,SeanGo
-IGN,IGN
-WatchMojo,WatchMojo
-PlayStation,PlayStation
-NBCSports,NBCSports
-OWN,oprah
-ESPNFC,ESPNFC
-WORLDSTARHIPHOP,worldstarhiphop
-truly,BarcroftTV
-BTSport,BTSport
-Xbox,xbox
-AllDef,Alldef
-HarryHesketh,HashtagHarryy
-BorasLegend,BorasLegend
-gameranx,gameranxTV
-TeamCoco,TeamCoco
-ScooterMagruder,Cameron
-FootballDaily,thefootballdaily
-TarasKul,origami768
-VariantComics,variant
-MarvelEntertainment,marvel
-ManCity,mancity
-TheXclusiveAce,TheXclusiveAce
-Genius,rapgenius
-Howcast,howcast
-outsidexbox,outsidexbox
+
+
+
+
+
+
