@@ -1,3 +1,5 @@
+package Utils;
+
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
@@ -27,7 +29,6 @@ public class ChannelParser {
 		try {
 			
 			// Open the file for reading each channel line
-			
 			BufferedReader reader = new BufferedReader(new FileReader(path.getName()));
 			
 			// Try reading from the file, and make sure to close

@@ -1,6 +1,10 @@
+package Filter;
 import java.io.IOException;
+
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Mapper;
+
+import Utils.Video;
 
 public class VideoFilterMapper extends Mapper<Text, Text, Text, Video> {
 	

@@ -1,3 +1,4 @@
+package Filter;
 import java.io.IOException;
 import java.net.URI;
 import org.apache.hadoop.fs.Path;
@@ -5,6 +6,9 @@ import org.apache.hadoop.io.NullWritable;
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Reducer;
 import org.apache.hadoop.mapreduce.lib.output.MultipleOutputs;
+
+import Utils.ChannelParser;
+import Utils.Video;
 
 public class VideoFilterReducer extends Reducer<Text, Video, Text, NullWritable> {
 	
