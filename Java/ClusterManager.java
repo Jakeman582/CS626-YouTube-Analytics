@@ -54,16 +54,13 @@ public class ClusterManager {
 	/**
 	 * 
 	 */
-	public static ArrayList<Point> readClusterCenters(int numberOfClusters, Configuration config) {
+	public static ArrayList<String> readClusterCenters(int numberOfClusters, Configuration config) {
 		
-		ArrayList<Point> centers = new ArrayList<Point>();
+		ArrayList<String> centers = new ArrayList<String>();
 		for(int index = 0; index < numberOfClusters; index++) {
 			String label = "" + index;
 			String center = config.get(label);
-			centers.add(new Point(
-					label, 
-					Point.parseCoordinateString(center)
-			));
+			centers.add(label + Point.LABEL_DELIMITER + center);
 		}
 		
 		return centers;
