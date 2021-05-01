@@ -1,4 +1,5 @@
 package Cluster;
+import java.io.FileWriter;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
@@ -15,7 +16,7 @@ import org.apache.hadoop.util.ToolRunner;
 
 import Utils.ClusterManager;
 import Utils.HDFSReader;
-//import Utils.Point;
+import Utils.Point;
 
 public class ChannelCluster extends Configured implements Tool{
 	
@@ -83,6 +84,7 @@ public class ChannelCluster extends Configured implements Tool{
 				// If we are not on the first iteration, then previous cluster data
 				// has been saved, so we can compare to see if convergence was achieved
 				if(count > 0) {
+					
 					// Read the results from the previous iteration and the current iteration
 					ArrayList<String> previousClusters = HDFSReader.readFile(previousPath, config);
 					ArrayList<String> currentClusters = HDFSReader.readFile(currentPath + "/part-r-00000", config);
@@ -113,6 +115,54 @@ public class ChannelCluster extends Configured implements Tool{
 				count++;
 				
 			}
+			
+			// For this number of clusters, compute the average distance from each point 
+			// to it's assigned cluster's center
+			double squareDistance = 0.0;
+			
+			// Get the cluster assignments from the previous procedure
+			String resultsFile = args[1] + numberOfClusters + "/" + (count - 1) + "/part-r-00000";
+			ArrayList<String> points = HDFSReader.readFile(resultsFile, config);
+			Map<String, String> clusterAssignments = new HashMap<String, String>();
+			for(String assignment : points) {
+				clusterAssignments.put(assignment.split("\t")[0], assignment.split("\t")[1]);
+			}
+			
+			// We also need the word vectors for each YouTuber args[0]
+			ArrayList<String> vectors = HDFSReader.readFile(args[0], config);
+			Map<String, String> wordVectors = new HashMap<String, String>();
+			for(String vector : vectors) {
+				wordVectors.put(vector.split(Point.LABEL_DELIMITER)[0], vector.split(Point.LABEL_DELIMITER)[1]);
+			}
+			
+			// For each YouTuber
+			for(String youtuber : wordVectors.keySet()) {
+				
+				// Get the assigned cluster
+				String cluster = clusterAssignments.get(youtuber);
+				
+				// Get the cluster center from the configuration
+				ArrayList<Double> center = Point.getCoordinateListFromCoordinateString(config.get(cluster));
+				
+				// Get the YouTuber's word vector
+				ArrayList<Double> vector = Point.getCoordinateListFromCoordinateString(wordVectors.get(youtuber));
+				
+				// Compute the squared distance
+				for(int index = 0; index < vector.size(); index++) {
+					squareDistance += Math.pow(vector.get(index) - center.get(index), 2);
+				}
+				
+			}
+			
+			int numberOfYouTubers = wordVectors.keySet().size();
+			double averageDistance = squareDistance / numberOfYouTubers;
+			
+			// Save the average square distance, along with the number of clusters
+			// used, to a local file
+			String localFile = "AverageSquareDistance.txt";
+			FileWriter writer = new FileWriter(localFile, true);
+			writer.write("" + numberOfClusters + "\t" + averageDistance + "\n");
+			writer.close();
 			
 		}
 		
