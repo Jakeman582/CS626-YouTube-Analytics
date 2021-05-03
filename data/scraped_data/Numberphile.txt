@@ -1,0 +1,603 @@
+485751 | 10872 | 74 | 782 | WARNING: Contains Numbers
+1976578 | 57003 | 398 | 3161 | The 'Everything' Formula - Numberphile
+257061 | 7192 | 152 | 663 | Pi Prog Rock - Numberphile
+128030 | 6776 | 125 | 353 | Nightingale Diagrams - Numberphile
+1375049 | 20861 | 296 | 1571 | Sloane's Gap - Numberphile
+946829 | 15494 | 173 | 657 | Liar Numbers - Numberphile
+143016 | 3083 | 121 | 320 | How to Check Election Results (feat. Pólya's Urn) - Numberphile
+3957437 | 74905 | 1275 | 8389 | Zero Factorial - Numberphile
+280151 | 9232 | 308 | 940 | Strings and Loops within Pi - Numberphile
+835303 | 18642 | 152 | 877 | Inventing Game of Life (John Conway) - Numberphile
+538670 | 16775 | 273 | 876 | An unexpected way to inflate a balloon - Numberphile
+291996 | 3672 | 51 | 496 | 400 and Gamebooks - Numberphile
+132386 | 2968 | 55 | 311 | How DNA unties its own knots - Numberphile
+860627 | 12222 | 380 | 753 | Stable Marriage Problem - Numberphile
+5512921 | 151692 | 2069 | 5557 | The Josephus Problem - Numberphile
+936163 | 23761 | 600 | 2235 | The Daddy of Big Numbers (Rayo's Number) - Numberphile
+184053 | 3892 | 103 | 769 | Was YOUR vote counted? (feat. homomorphic encryption) - Numberphile
+192140 | 5236 | 146 | 695 | Numbers with Meaning - Numberphile
+558113 | 32110 | 250 | 1587 | Russian Multiplication - Numberphile
+420208 | 14737 | 171 | 1097 | A Surprising Pi and 5 - Numberphile
+5045026 | 69451 | 1473 | 14344 | Problems with Zero - Numberphile
+747046 | 21743 | 519 | 1811 | Navier-Stokes Equations - Numberphile
+356862 | 9675 | 445 | 1179 | Calculator Unboxing #4 (Bamboo Calculator) - Numberphile
+480713 | 6653 | 340 | 777 | Monkeys and Coconuts - Numberphile
+365292 | 11334 | 126 | 961 | Casting Out Nines - Numberphile
+2118472 | 34875 | 487 | 1124 | How to always win at Dots and Boxes - Numberphile
+1500542 | 25151 | 671 | 1596 | The Moving Sofa Problem - Numberphile
+1187303 | 27456 | 549 | 3244 | Why do people hate mathematics?
+3890687 | 41369 | 1997 | 7042 | 666 - Numberphile
+161773 | 4021 | 111 | 284 | Floating Bodies - Numberphile
+1503855 | 58264 | 1055 | 3266 | How to Fill a Klein Bottle - Numberphile
+1787995 | 28843 | 578 | 3693 | Transcendental Numbers - Numberphile
+1622798 | 19918 | 1985 | 6186 | Infinity Paradoxes - Numberphile
+191119 | 4743 | 57 | 233 | Little Fibs - Numberphile
+690703 | 7867 | 115 | 958 | Superflip and Rubik's Cube - Numberphile
+870021 | 17412 | 218 | 1278 | What's special about 196?
+387451 | 7968 | 236 | 458 | The Coin Hexagon - Numberphile
+2729297 | 42374 | 955 | 2153 | Billionaire Mathematician - Numberphile
+242986 | 3890 | 91 | 751 | 16 - Numberphile
+732053 | 20190 | 141 | 940 | Perplexing Paperclips - Numberphile
+405454 | 7925 | 200 | 804 | What do Mathematicians Eat for Breakfast?
+632133 | 16388 | 646 | 1695 | Golden Ratio Song - Numberphile
+200058 | 4675 | 114 | 550 | Stars and Bars (and bagels) - Numberphile
+845352 | 20092 | 155 | 854 | Unexpected Shapes (Part 1) - Numberphile
+1134132 | 16415 | 390 | 4745 | Do numbers EXIST? - Numberphile
+155198 | 2496 | 169 | 465 | Tau of Phi - Numberphile
+367685 | 5188 | 63 | 878 | Gaps between Primes (extra footage) - Numberphile
+270900 | 9155 | 104 | 784 | Superhero Triangles - Numberphile
+785617 | 28866 | 598 | 2237 | A New Discovery about Dodecahedrons - Numberphile
+608368 | 9663 | 102 | 529 | Brady Numbers - Numberphile
+252865 | 2566 | 50 | 479 | 29 and Leap Years - Numberphile
+278063 | 8787 | 142 | 634 | Pancake Numbers - Numberphile
+572898 | 14057 | 418 | 827 | When do clock hands overlap? - Numberphile
+304705 | 14477 | 207 | 1262 | A proof that e is irrational - Numberphile
+488999 | 10150 | 238 | 912 | g-conjecture - Numberphile
+594289 | 13091 | 98 | 955 | Dragon Curve - Numberphile
+201205 | 4144 | 47 | 248 | Prime Knots - Numberphile
+702181 | 11851 | 165 | 1621 | Avogadro's Number (Mole) - Numberphile
+309277 | 16188 | 164 | 1332 | 2.920050977316 - Numberphile
+663725 | 9149 | 1328 | 950 | Kakeya's Needle Problem  - Numberphile
+740498 | 15680 | 154 | 969 | Pi and the Mandelbrot Set - Numberphile
+2906285 | 48462 | 2360 | 2978 | The 10,958 Problem - Numberphile
+207297 | 4347 | 94 | 349 | The Shape of DNA - Numberphile
+1555607 | 38390 | 779 | 2624 | The Problems with Secret Santa - Numberphile
+903104 | 24877 | 528 | 1507 | Math vs Physics - Numberphile
+947116 | 20918 | 155 | 781 | Does John Conway hate his Game of Life?
+1576996 | 17657 | 222 | 616 | Round Peg in a Square Hole - Numberphile
+501785 | 7340 | 268 | 350 | Mobius Bridges and Buildings - Numberphile
+984879 | 15603 | 583 | 4157 | Tau replaces Pi - Numberphile
+172518 | 3556 | 138 | 774 | Fibonacci Tartan and Bagpipes - Numberphile
+225704 | 3834 | 64 | 865 | Pi with Pies (director's slice) - Numberphile
+491446 | 13045 | 168 | 753 | Triangles have a Magic Highway - Numberphile
+1762305 | 29731 | 810 | 2280 | The mystery of 0.577 - Numberphile
+3967873 | 33466 | 8422 | 6443 | Did Usain Bolt REALLY run 100m in 9.63 seconds?
+230539 | 6344 | 78 | 424 | Kissing Numbers - Numberphile
+2430840 | 32461 | 553 | 6930 | Graham's Number - Numberphile
+287885 | 5071 | 49 | 273 | Should you catch a tossed coin? - Numberphile
+3477188 | 86043 | 1149 | 4851 | e (Euler's Number) - Numberphile
+209871 | 8014 | 620 | 620 | Poncelet's Porism - Numberphile
+212687 | 9245 | 94 | 352 | Pentagons and the Golden Ratio - Numberphile
+1936413 | 53130 | 432 | 3305 | The man with 1,000 Klein Bottles UNDER his house - Numberphile
+311103 | 8215 | 157 | 1323 | Cicada 17 - Numberphile
+301409 | 4249 | 123 | 520 | Vampire Numbers - Numberphile
+2378178 | 66669 | 1875 | 6079 | Klein Bottles - Numberphile
+120167 | 2839 | 41 | 358 | Numberphile in Nepal - Numberphile
+1278649 | 24299 | 244 | 2794 | UNCRACKABLE? The Collatz Conjecture - Numberphile
+720461 | 13085 | 123 | 2733 | Infinite Primes - Numberphile
+337245 | 11120 | 288 | 1047 | Calculator Unboxing #6 (Staples collection) - Numberphile
+704980 | 14023 | 217 | 12923 | Favourite Numbers - Numberphile
+2198246 | 36333 | 465 | 2973 | Squaring the Circle - Numberphile
+208921 | 8208 | 70 | 542 | Floating Balls and Lift - Numberphile
+794125 | 33634 | 166 | 1509 | Chaos Game - Numberphile
+547671 | 7791 | 548 | 1481 | How to Win a Guessing Game - Numberphile
+419350 | 22588 | 411 | 1262 | The Forgotten Number System - Numberphile
+1593017 | 45366 | 584 | 4584 | The Most Mathematical Flag - Numberphile
+161631 | 8819 | 64 | 453 | Mesolabe Compass and Square Roots - Numberphile
+151952 | 5496 | 78 | 346 | Introducing the Numberphile Podcast
+153072 | 5977 | 112 | 587 | Colouring Knots - Numberphile
+209222 | 7125 | 382 | 578 | The Girl with the Hyperbolic Helicoid Tattoo - Numberphile
+5470211 | 48103 | 1417 | 3284 | The problem in Good Will Hunting - Numberphile
+267160 | 6223 | 83 | 391 | 210 is VERY Goldbachy - Numberphile
+552918 | 10320 | 123 | 806 | Embedding a Torus (John Nash) - Numberphile
+555887 | 13853 | 136 | 1040 | The Fields Medal (with Cédric Villani) - Numberphile
+602725 | 8861 | 139 | 591 | Perfect Number Proof - Numberphile
+278432 | 10307 | 136 | 532 | 1010011010 - Numberphile
+717615 | 22127 | 317 | 1383 | Randomness is Random - Numberphile
+488599 | 13091 | 182 | 1323 | 357686312646216567629137 - Numberphile
+1936570 | 61462 | 711 | 4179 | 58 and other Confusing Numbers - Numberphile
+240146 | 4150 | 73 | 158 | Log Tables (extra bit) - Numberphile
+1191941 | 33681 | 319 | 1760 | The Feigenbaum Constant (4.669)  - Numberphile
+329785 | 5285 | 93 | 1363 | Random Numbers (the next bit) - Numberphile
+559642 | 14218 | 219 | 916 | 383 is cool - Numberphile
+600386 | 26239 | 184 | 1272 | Beautiful Trigonometry - Numberphile
+614507 | 9826 | 710 | 2552 | 19 out of 20 - Numberphile
+779622 | 10023 | 203 | 2167 | The Internet is FULL - Numberphile
+1414002 | 45890 | 379 | 1806 | What's so special about the Mandelbrot Set? - Numberphile
+490700 | 16171 | 225 | 1126 | Golden Ratio BURN (Internet Beef) - Numberphile
+152816 | 8496 | 66 | 618 | The Math of Being a Pig - Numberphile
+102877 | 1660 | 19 | 342 | More One-Roll Yahtzees - Numberphile
+1123428 | 21796 | 271 | 1485 | Skewes' Massive Number - Numberphile
+121812 | 1994 | 10 | 288 | 32 and Truncated Icosahedron - Numberphile
+1016519 | 14722 | 177 | 2503 | Pi and the size of the Universe - Numberphile
+445500 | 8463 | 101 | 870 | Cyclic Numbers - Numberphile
+221402 | 4566 | 156 | 415 | Lace Knot Trick - Numberphile
+1334833 | 26655 | 596 | 1357 | Catalan's Conjecture - Numberphile
+913737 | 15817 | 160 | 1382 | What do 5, 13 and 563 have in common?
+610788 | 11367 | 619 | 1193 | Calculator Unboxing #3 (Casio Watch) - Numberphile
+154293 | 8675 | 205 | 446 | The Levine Sequence - Numberphile
+1020159 | 13719 | 224 | 440 | Binder Clip Climber - Numberphile
+310539 | 7436 | 67 | 596 | Too Many Triangles - Numberphile
+746723 | 26563 | 352 | 1482 | Weber's Law - Numberphile
+1518683 | 41692 | 769 | 3016 | A 10,958 Solution - Numberphile
+290424 | 7047 | 117 | 331 | Borromean Ribbons - Numberphile
+353494 | 10108 | 146 | 1030 | River Crossings (and Alcuin Numbers) - Numberphile
+389328 | 9996 | 142 | 2856 | Monty Hall Problem for Dummies - Numberphile
+3148318 | 48579 | 995 | 13222 | Zeno's Paradox - Numberphile
+429147 | 10516 | 1757 | 1326 | What Number Comes Next? - Numberphile
+188544 | 4383 | 62 | 313 | Telescope Time without Tears - Numberphile
+387042 | 9848 | 58 | 604 | Infinite Fractions - Numberphile
+1684725 | 34850 | 1387 | 4161 | Why 1980 was a great year to be born... but 2184 will be better
+374660 | 10921 | 167 | 686 | Random Fibonacci Numbers - Numberphile
+1621595 | 28106 | 384 | 2185 | How they found the World's Biggest Prime Number - Numberphile
+195122 | 4782 | 61 | 441 | Dragon Curve to Music - Numberphile
+501040 | 11825 | 129 | 706 | Life, Death and the Monster (John Conway) - Numberphile
+166570 | 9014 | 141 | 745 | How to make a Klein Bottle from an old pair of jeans - Numberphile
+411366 | 4484 | 83 | 227 | Borromean Olympic Rings - Numberphile
+340925 | 5527 | 184 | 772 | Golden Ratio - Making a Math Metal Anthem - Numberphile
+1237776 | 31028 | 421 | 2249 | Squaring Primes - Numberphile
+662688 | 18826 | 254 | 2275 | TREE vs Graham's Number - Numberphile
+178672 | 2729 | 109 | 235 | I washed my passport - Numberphile
+155444 | 2023 | 25 | 445 | 23 and Football Birthdays - Numberphile
+238371 | 7799 | 119 | 474 | Hat Problems - Numberphile
+361129 | 10936 | 82 | 598 | Balancing a Ruler - Numberphile
+429358 | 15564 | 160 | 775 | Impossible Squares - Numberphile
+2409389 | 15613 | 1450 | 1905 | 13,983,816 and the Lottery - Numberphile
+1203578 | 41349 | 440 | 2745 | Darts in Higher Dimensions (with 3blue1brown) - Numberphile
+1252010 | 14375 | 280 | 2325 | 43,252,003,274,489,856,000 Rubik's Cube Combinations - Numberphile
+271239 | 6132 | 156 | 491 | Spider-Man (Cédric Villani) - Numberphile
+431243 | 14220 | 383 | 1129 | Don Bradman's Duck - Numberphile
+185460 | 3877 | 187 | 482 | Let's Talk About Sets - Numberphile
+1107363 | 16402 | 227 | 1035 | The Key to the Riemann Hypothesis - Numberphile
+1602445 | 33830 | 589 | 3435 | What's special about 277777788888899? - Numberphile
+474958 | 8752 | 272 | 656 | The Heart of Fermat's Last Theorem - Numberphile
+1046574 | 20700 | 233 | 1128 | Partitions - Numberphile
+467867 | 7685 | 373 | 590 | Cannons and Sparrows - Numberphile
+2940875 | 63650 | 1242 | 3106 | The Golden Ratio (why it is so irrational) - Numberphile
+661689 | 13446 | 287 | 1418 | 10! - Numberphile
+1231670 | 17166 | 436 | 3202 | 42 and Douglas Adams - Numberphile
+381700 | 4480 | 139 | 514 | 3/4 and Kleiber's Law - Numberphile
+544645 | 16660 | 171 | 754 | Apéry's constant (calculated with Twitter) - Numberphile
+511757 | 6227 | 111 | 1227 | New Largest Known Prime Number - Numberphile
+366792 | 10201 | 121 | 529 | Mathematics: Beauty vs Utility - Numberphile
+1124546 | 11513 | 695 | 1008 | Log Tables - Numberphile
+403298 | 10433 | 76 | 750 | Fair Dice (Part 2) - Numberphile
+1557601 | 17627 | 1368 | 3113 | Sum of Natural Numbers (second proof and extra footage)
+298137 | 6437 | 47 | 394 | 52-Card Perfect Shuffles - Numberphile
+-1 | 907 | 29 | 11 | Quick chat with Brady - Numberphile Live
+148008 | 2681 | 47 | 390 | 15 bumfit - Numberphile
+3208985 | 47436 | 1015 | 3529 | How Pi was nearly changed to 3.2 - Numberphile
+673257 | 11089 | 778 | 3733 | All Triangles are Equilateral - Numberphile
+777343 | 15342 | 192 | 581 | The Greatest Ever Infographic - Numberphile
+179401 | 3275 | 36 | 402 | Keith Numbers - Numberphile
+457137 | 9254 | 243 | 963 | Measuring Coastline - Numberphile
+428394 | 13817 | 188 | 855 | Don't Know (the Van Eck Sequence) - Numberphile
+185237 | 2048 | 34 | 378 | Advent Calendar - Numberphile
+375679 | 13738 | 60 | 549 | The Secret of Floppy Paper - Numberphile
+362418 | 10137 | 324 | 1315 | Calculator Unboxing #7 (Gaxio) - Numberphile
+497335 | 12548 | 622 | 1949 | Googol Song - Numberphile
+214187 | 10820 | 216 | 978 | How to build a Giant Dome - Numberphile
+457650 | 5471 | 371 | 576 | 1729 and Taxi Cabs - Numberphile
+287886 | 8358 | 56 | 380 | A Strange Change of Rotation - Numberphile
+211143 | 10246 | 207 | 810 | Bomb Blast Radius - Numberphile
+733258 | 15656 | 218 | 1304 | Tree Gaps and Orchard Problems - Numberphile
+1653030 | 36846 | 431 | 1100 | Fifth Root Trick - Numberphile
+1601004 | 17230 | 706 | 1533 | 163 and Ramanujan Constant - Numberphile
+777552 | 13951 | 170 | 633 | Fool-Proof Test for Primes - Numberphile
+268184 | 5801 | 34 | 767 | Transcendental Numbers (extra footage) - Numberphile
+197186 | 10445 | 372 | 676 | Taking a Turkey’s Temperature - Numberphile
+257882 | 6587 | 150 | 663 | Frog Jumping - Numberphile
+2147249 | 36379 | 838 | 6746 | 1 and Prime Numbers - Numberphile
+875124 | 16462 | 202 | 753 | Knight's Tour - Numberphile
+171297 | 4454 | 222 | 533 | Card Flipping Proof - Numberphile
+894553 | 8405 | 235 | 2024 | Pi - Numberphile
+1318352 | 42769 | 250 | 2271 | The Parker Square - Numberphile
+477014 | 5794 | 123 | 1149 | 3435 - Numberphile
+706651 | 18888 | 278 | 1941 | Cutting a Klein Bottle in Half - Numberphile
+148160 | 5818 | 148 | 486 | Squares and Tilings - Numberphile
+2371319 | 34685 | 968 | 2891 | Why -1/12 is a gold nugget
+2128191 | 26949 | 780 | 1166 | Poincaré Conjecture - Numberphile
+4255648 | 65661 | 918 | 4200 | Riemann Hypothesis - Numberphile
+540363 | 8781 | 52 | 412 | Money Catching - Numberphile
+1321384 | 23441 | 238 | 3649 | How Big is Graham's Number? (feat Ron Graham)
+165230 | 3407 | 39 | 437 | Special Magic Square - Numberphile
+1399713 | 31337 | 533 | 1868 | Glitch Primes and Cyclops Numbers - Numberphile
+854625 | 21376 | 728 | 3913 | Calculator Unboxing #1 - Numberphile
+883358 | 13936 | 238 | 2131 | 11.11.11 - Numberphile
+216321 | 7822 | 206 | 589 | The Brussels Choice - Numberphile
+6940244 | 33149 | 3467 | 1363 | 6174 - Numberphile
+1719240 | 23760 | 1072 | 1230 | Pi is Beautiful - Numberphile
+600170 | 9537 | 287 | 5099 | Is it Math or Maths? - Numberphile
+309117 | 9521 | 100 | 587 | Peaceable Queens - Numberphile
+1190730 | 25935 | 661 | 1422 | The Problem with 7825 - Numberphile
+255395 | 10997 | 60 | 456 | A final game with Elwyn Berlekamp (Amazons) - Numberphile
+252665 | 5325 | 317 | 1550 | Number Line - Numberphile
+220453 | 5844 | 273 | 615 | A Million Simulated Seasons - Numberphile
+347793 | 12302 | 143 | 776 | The Forgotten Flexagon - Numberphile
+551809 | 8635 | 194 | 657 | Numbery Card Trick - Numberphile
+411444 | 9123 | 77 | 373 | Magic Square Party Trick - Numberphile
+658005 | 20722 | 358 | 1837 | EVERY baby is a ROYAL baby - Numberphile
+222106 | 5299 | 102 | 485 | How many panels on a soccer ball? - Numberphile
+2949495 | 50096 | 684 | 4513 | 998,001 and its Mysterious Recurring Decimals - Numberphile
+212040 | 4695 | 127 | 340 | The Brain of John Conway (and his Amazing Tongue) - Numberphile
+362287 | 9906 | 107 | 1027 | The Six Triperfect Numbers - Numberphile
+440450 | 13795 | 145 | 1105 | Every Number is the Sum of Three Palindromes - Numberphile
+748514 | 16058 | 115 | 1720 | Amazing Old Calculator (Curta) - Numberphile
+2758445 | 40959 | 1964 | 7858 | How to order 43 Chicken McNuggets - Numberphile
+2035385 | 21951 | 2700 | 5523 | 69! - Numberphile
+523045 | 15372 | 236 | 1504 | How many particles in the Universe? - Numberphile
+699499 | 12814 | 173 | 1270 | The Last Digit of Prime Numbers - Numberphile
+2943085 | 48367 | 1520 | 1933 | The Illumination Problem - Numberphile
+206701 | 11249 | 79 | 5697 | Kids get their money - Numberphile
+725334 | 10724 | 145 | 1180 | Primes are like Weeds (PNT) - Numberphile
+379843 | 9797 | 250 | 721 | Braids in Higher Dimensions - Numberphile
+290281 | 7087 | 103 | 453 | Spheres and Code Words - Numberphile
+696920 | 22054 | 316 | 1342 | The Slightly Spooky Recamán Sequence - Numberphile
+313856 | 5479 | 56 | 316 | Perfect Numbers and Mersenne Primes - Numberphile
+133737 | 5717 | 104 | 502 | Counting Outtakes (from our Pi Million video) - Numberphile
+199506 | 5915 | 184 | 741 | Antipodal Points - Numberphile
+1144857 | 32688 | 378 | 3292 | All the Numbers - Numberphile
+236666 | 14117 | 261 | 965 | Tentacles Akimbo (with Cliff Stoll) - Numberphile
+868792 | 13779 | 237 | 2923 | End of Time (Unix) - Numberphile
+364131 | 9425 | 107 | 1711 | Politics and Numbers - Numberphile
+288598 | 8477 | 340 | 916 | Speed Unboxing - Calculator Unboxing #9
+196765 | 4964 | 81 | 635 | Six Dice One-Roll Yahtzee (in super slow motion) - Numberphile
+655952 | 17403 | 147 | 692 | Stable Rollers - Numberphile
+2046802 | 26792 | 668 | 1901 | 63 and -7/4 are special - Numberphile
+155222 | 8332 | 135 | 676 | Statistics, Storks, and Babies - Numberphile
+349951 | 9292 | 262 | 924 | Calculator Unboxing #5 (Little Professor) - Numberphile
+307749 | 9765 | 154 | 549 | Tribonacci Numbers (and the Rauzy Fractal) - Numberphile
+1940994 | 36238 | 2926 | 3967 | Equally sharing a cake between three people - Numberphile
+365985 | 6458 | 210 | 700 | Playing Sports in Hyperbolic Space - Numberphile
+4319117 | 65042 | 2854 | 16615 | One minus one plus one minus one - Numberphile
+787644 | 10894 | 242 | 528 | Math and Movies (Animation at Pixar) - Numberphile
+342387 | 6178 | 53 | 588 | Pi me a River - Numberphile
+820481 | 16886 | 258 | 2167 | New World's Biggest Prime Number (PRINTED FULLY ON PAPER) - Numberphile
+599396 | 15902 | 253 | 682 | The Ideal Auction - Numberphile
+604271 | 6628 | 221 | 1754 | Sounds of Pi  - Numberphile
+464238 | 10223 | 143 | 684 | Large Gaps between Primes - Numberphile
+315029 | 5836 | 130 | 423 | Powers of 2 - Numberphile
+262411 | 2618 | 100 | 625 | 14 Super Bowl Coin Tosses - Numberphile
+167664 | 6569 | 168 | 727 | The Drag Equation (Empire State Building v Eiffel Tower) - Numberphile
+2448731 | 23381 | 1000 | 1365 | Connect Four - Numberphile
+2673234 | 40854 | 1555 | 7098 | Math Jokes Explained - Numberphile
+503192 | 7622 | 304 | 828 | Speed Solve of a Rubik's Cube in Slow Motion - Numberphile
+5332863 | 74265 | 1319 | 4246 | 158,962,555,217,826,360,000 (Enigma Machine) - Numberphile
+3140852 | 50672 | 1499 | 3097 | Winning at Rock Paper Scissors - Numberphile
+2083406 | 21721 | 443 | 2248 | Mile of Pi - Numberphile
+1448631 | 19478 | 1183 | 1591 | Number Trick - Numberphile
+586374 | 15340 | 183 | 1024 | A Colorful Unsolved Problem - Numberphile
+1212582 | 21199 | 330 | 2023 | Encryption and HUGE numbers - Numberphile
+220492 | 5398 | 58 | 296 | Crank Files - Numberphile
+478760 | 11414 | 187 | 704 | The Mathematician's Office - Numberphile
+282465 | 8697 | 185 | 590 | The Cross Ratio - Numberphile
+237818 | 5949 | 272 | 550 | Is the "hot hand" real? - Numberphile
+706209 | 28518 | 230 | 1700 | An astonishing old calculator - Numberphile
+471892 | 10268 | 122 | 622 | 74 is cracked - Numberphile
+410040 | 6060 | 112 | 283 | Strong Law of Small Numbers - Numberphile
+209873 | 8336 | 59 | 561 | Earthquakes, Circles and Spheres - Numberphile
+1641275 | 32371 | 886 | 10785 | How big is a billion? - Numberphile
+249300 | 8937 | 247 | 584 | Dungeon Numbers - Numberphile
+272904 | 9340 | 121 | 709 | A Quick Cake Conundrum - Numberphile
+534587 | 9022 | 208 | 813 | How random is a coin toss? - Numberphile
+71102 | 1816 | 19 | 599 | Message from Numberphile
+457683 | 11054 | 263 | 1085 | Sandpiles - Numberphile
+340612 | 5303 | 155 | 1070 | 98 and Grafting Numbers - Numberphile
+726517 | 21527 | 305 | 1185 | The Trapped Knight - Numberphile
+554875 | 18360 | 208 | 1230 | 90,525,801,730 Cannon Balls - Numberphile
+300149 | 11986 | 116 | 543 | Matrix Factorization - Numberphile
+402185 | 9410 | 128 | 643 | Derangements - Numberphile
+1010089 | 18893 | 294 | 3741 | Random Numbers - Numberphile
+957516 | 15580 | 183 | 738 | Safe Cracking with Feynman - Numberphile
+1238640 | 20749 | 269 | 1202 | Fundamental Theorem of Algebra - Numberphile
+227744 | 5159 | 171 | 365 | Mathematics and Coronavirus - Numberphile
+236889 | 4720 | 74 | 251 | More about Pebbling a Chessboard - Numberphile
+313183 | 8806 | 205 | 992 | Calculator Unboxing #8 (Printing Digits) - Numberphile
+291214 | 10710 | 152 | 778 | The Archimedes Number - Numberphile
+3124897 | 38206 | 1972 | 12093 | Monty Hall Problem - Numberphile
+181895 | 7243 | 131 | 434 | 3 Ways to Draw Squares Inside Triangles - Numberphile
+690496 | 12447 | 169 | 824 | Goldbach Conjecture - Numberphile
+244563 | 4711 | 97 | 345 | Friedman Numbers - Numberphile
+375641 | 13870 | 144 | 787 | Catching Kendama - Numberphile
+736652 | 20176 | 287 | 1223 | The Silver Ratio - Numberphile
+272543 | 7652 | 160 | 704 | Juggling by Numbers - Numberphile
+396083 | 5484 | 90 | 1016 | 15 and Hexadecimal - Numberphile
+586705 | 18111 | 343 | 1073 | Pascal's Triangle - Numberphile
+222452 | 6433 | 129 | 414 | Planar Graphs - Numberphile
+369738 | 6266 | 164 | 2230 | Synesthesia - Numberphile
+997610 | 17891 | 578 | 1443 | The Three Square Geometry Problem - Numberphile
+199195 | 3477 | 40 | 448 | 220 and 284 (Amicable Numbers) - Numberphile
+348504 | 14050 | 368 | 1344 | Does Hollywood ruin books? - Numberphile
+366240 | 6855 | 255 | 590 | Friends and Strangers Theorem - Numberphile
+338773 | 16789 | 251 | 1317 | The 17-Klein Bottle - Numberphile
+335806 | 4320 | 90 | 605 | 145 and the Melancoil - Numberphile
+357221 | 5684 | 227 | 295 | Imaginary Erdős Number - Numberphile
+749632 | 20741 | 338 | 1039 | A Fascinating Thing about Fractions - Numberphile
+829852 | 17357 | 200 | 2441 | Number 1 and Benford's Law - Numberphile
+1347952 | 42312 | 1179 | 4097 | The Remarkable Way We Eat Pizza - Numberphile
+4869363 | 64862 | 4480 | 27863 | British Numbers confuse Americans - Numberphile
+788099 | 10314 | 109 | 699 | Golden Proof - Numberphile
+257290 | 2161 | 139 | 530 | Rubik's Cube Solvers - Numberphile
+552239 | 12266 | 183 | 712 | Fold and Cut Theorem - Numberphile
+323938 | 3818 | 62 | 474 | Base 60 (sexagesimal) - Numberphile
+872494 | 20987 | 724 | 1535 | Ham Sandwich Problem - Numberphile
+467389 | 14865 | 169 | 1256 | The Dehn Invariant - Numberphile
+413835 | 10613 | 192 | 566 | The Kolakoski Sequence - Numberphile
+615701 | 6294 | 202 | 1265 | Pi and Bouncing Balls - Numberphile
+2018557 | 31771 | 482 | 1378 | The Shortest Ever Papers - Numberphile
+122387 | 1694 | 113 | 314 | Underwater Yahtzee - Numberphile
+273122 | 8484 | 113 | 420 | Frieze Patterns - Numberphile
+224121 | 3938 | 68 | 162 | Order from Chaos (the math bit) - Numberphile
+398256 | 10118 | 210 | 563 | The Graceful Tree Problem - Numberphile
+446794 | 9349 | 232 | 606 | Secrets of 3-Board Tic-Tac-Toe - Numberphile
+851721 | 20028 | 325 | 2112 | The Making of a Mile of Pi - Numberphile
+2314562 | 32760 | 341 | 1715 | Who was the REAL Good Will Hunting? - Numberphile
+1092002 | 13778 | 374 | 1198 | Fix a Wobbly Table (with Math)
+211411 | 3889 | 79 | 860 | Mathematical Music - Numberphile Interview
+664658 | 12696 | 122 | 1753 | Awesome Prime Number Constant (Mills' Constant) - Numberphile
+227528 | 1727 | 130 | 495 | Rubik's Tube (or YouCube) - Numberphile
+387530 | 9737 | 1180 | 1360 | Primes on the Moon (Lunar Arithmetic) - Numberphile
+365672 | 7478 | 159 | 719 | Consecutive Coin Flips - Numberphile
+862967 | 26083 | 381 | 1767 | The Coronavirus Curve - Numberphile
+208964 | 4272 | 134 | 539 | Dice Bucket - Numberphile
+260532 | 6251 | 80 | 365 | Brussels Sprouts - Numberphile
+1270411 | 21405 | 497 | 4927 | Tau vs Pi Smackdown - Numberphile
+119504 | 1462 | 80 | 301 | Numbers Man - Numberphile
+274716 | 15601 | 143 | 631 | 569936821221962380720 - Numberphile
+389134 | 9748 | 320 | 688 | The Plastic Ratio - Numberphile
+429977 | 10530 | 116 | 978 | Funny Fractions and Ford Circles - Numberphile
+157252 | 4403 | 203 | 312 | Colouring Numbers - Numberphile
+1449305 | 21206 | 565 | 1656 | Pi and Four Fingers - Numberphile
+3416532 | 47077 | 1003 | 5182 | Root 2 - Numberphile
+388513 | 9846 | 153 | 350 | Wrong Turn on the Dragon - Numberphile
+2393717 | 50421 | 1013 | 4194 | How many chess games are possible?
+800253 | 18316 | 303 | 1084 | The Relationship Equation - Numberphile
+368800 | 6681 | 148 | 609 | The Prime Problem with a One Sentence Proof - Numberphile
+1139312 | 30487 | 646 | 2076 | Game of Cat and Mouse - Numberphile
+8097577 | 97884 | 16986 | 16528 | ASTOUNDING: 1 + 2 + 3 + 4 + 5 + ... = -1/12
+1877904 | 33348 | 469 | 2609 | Fermat's Last Theorem - Numberphile
+224006 | 5454 | 56 | 460 | Little Professor (Dr Grime's Toy Story) - Numberphile
+142767 | 3850 | 105 | 516 | The Math (and money) of Soccer Stickers - Numberphile
+381754 | 6310 | 860 | 2357 | Point about Points - Numberphile
+332453 | 10199 | 176 | 639 | 4D MONKEY DUST
+105834 | 1307 | 35 | 313 | Problematic Sunflower - Numberphile
+452733 | 11563 | 160 | 715 | Space-Filling Curves - Numberphile
+194629 | 3370 | 50 | 284 | Lunes - Numberphile
+1073926 | 37523 | 182 | 1272 | Freaky Dot Patterns - Numberphile
+401852 | 11781 | 106 | 618 | 13532385396179 - Numberphile
+295084 | 5781 | 189 | 524 | The Curse of Lane 8 - Numberphile
+920588 | 20737 | 277 | 1535 | Fantastic Quaternions - Numberphile
+456737 | 8423 | 94 | 679 | Wobbly Circles - Numberphile
+464774 | 24706 | 302 | 1266 | Secrets to measuring a piece of paper - Numberphile
+828273 | 10846 | 455 | 899 | Ricci Flow - Numberphile
+521843 | 11210 | 189 | 835 | The iPhone of Slide Rules - Numberphile
+144411 | 6676 | 183 | 409 | Eureka Sequences - Numberphile
+234223 | 3884 | 82 | 1863 | Spaghetti Numbers - Numberphile
+1958162 | 40056 | 582 | 3326 | 5040 and other Anti-Prime Numbers - Numberphile
+377135 | 6658 | 697 | 1390 | Philosophy of Numbers - Numberphile
+2034687 | 38033 | 1051 | 4562 | Epic Circles - Numberphile
+255009 | 8103 | 88 | 536 | 3 as the sum of the 3 cubes - Numberphile
+325380 | 9055 | 188 | 838 | Imagining Numbers as Shapes - Numberphile
+357277 | 10781 | 174 | 761 | Collatz Conjecture in Color - Numberphile
+539337 | 12811 | 230 | 1159 | The Dollar Game - Numberphile
+162440 | 3389 | 45 | 317 | Can Fish Count? - Numberphile
+598612 | 10700 | 270 | 887 | Super Bottle - Numberphile
+1465920 | 19641 | 330 | 1965 | abc Conjecture - Numberphile
+94535 | 1734 | 37 | 311 | Numberphile Preview
+1975070 | 20361 | 481 | 2571 | 17 and Sudoku Clues - Numberphile
+1530137 | 23735 | 378 | 1431 | The Mandelbrot Set - Numberphile
+504068 | 13469 | 745 | 2035 | Numbers and Free Will - Numberphile
+390297 | 9601 | 225 | 400 | 21-card trick - Numberphile
+373946 | 6058 | 1436 | 1227 | 10:10 in Watch Advertisements - Numberphile
+223858 | 7656 | 71 | 319 | Balls and Cones - Numberphile
+105159 | 1477 | 40 | 217 | 14 and Shakespeare the Numbers Man - Numberphile
+1051088 | 30769 | 618 | 2661 | A Strange Map Projection (Euler Spiral) - Numberphile
+381075 | 9793 | 209 | 1203 | Calculating a Car Crash - Numberphile
+1257975 | 8663 | 984 | 677 | What is a lucky number? - Numberphile
+475409 | 7758 | 382 | 980 | Can a number be boring? (feat 14972)
+1636211 | 40589 | 432 | 1743 | Incredible Formula - Numberphile
+491242 | 6938 | 115 | 887 | 5 Platonic Solids - Numberphile
+104792 | 4927 | 110 | 381 | Quasiperfect Numbers with Eric Lander - Numberphile
+1709488 | 29457 | 659 | 3658 | The Four Color Map Theorem - Numberphile
+189680 | 5138 | 23 | 508 | Numbers and Brains - Numberphile
+300448 | 4379 | 60 | 998 | Brown Numbers - Numberphile
+10042838 | 89375 | 3305 | 2059 | Elliptical Pool Table - Numberphile
+1872997 | 55379 | 1529 | 4310 | A Hole in a Hole in a Hole - Numberphile
+323569 | 9962 | 169 | 424 | Amazing Graphs II (including Star Wars)  - Numberphile
+519929 | 12969 | 117 | 894 | The Square-Sum Problem - Numberphile
+724960 | 18339 | 312 | 1356 | Why is this Puzzle Impossible? - Numberphile
+486205 | 19232 | 548 | 3655 | Gabriel's Horn Paradox - Numberphile
+524748 | 12723 | 112 | 349 | Cute Paper Trick - Numberphile
+289769 | 5340 | 56 | 216 | NSA Surveillance (an extra bit) - Numberphile
+251058 | 4761 | 134 | 734 | 37 - Numberphile
+323994 | 5789 | 82 | 344 | Rock Paper LIZARDS - Numberphile
+705067 | 19245 | 217 | 1084 | Fibonacci Numbers hidden in the Mandelbrot Set - Numberphile
+299980 | 3607 | 121 | 661 | Perfect Games - Numberphile
+243054 | 4662 | 1836 | 801 | 1 to 200 on Google Image Search - Numberphile
+280022 | 2776 | 301 | 615 | 7 and Happy Numbers - Numberphile
+784940 | 24255 | 523 | 1427 | The Seven Bridges of Königsberg - Numberphile
+297433 | 15599 | 197 | 1013 | How do brains count? - Numberphile
+1963949 | 31837 | 487 | 1385 | The Best (and Worst) Ways to Shuffle Cards - Numberphile
+363085 | 9731 | 181 | 860 | Approximating Irrational Numbers (Duffin-Schaeffer Conjecture) - Numberphile
+648279 | 15383 | 174 | 1083 | 42 is the new 33 - Numberphile
+3682507 | 57669 | 1090 | 7073 | The Opposite of Infinity - Numberphile
+341192 | 3613 | 187 | 857 | AMAZING Dice Rolls - Numberphile
+370914 | 7978 | 111 | 411 | A Mysterious Math Doodle - Numberphile
+1369131 | 22565 | 217 | 1860 | Prime Spirals - Numberphile
+302720 | 6807 | 83 | 570 | Gödel's Incompleteness (extra footage 1) - Numberphile
+173682 | 2296 | 38 | 353 | Sunflowers and Fibonacci - Numberphile
+529399 | 14716 | 178 | 913 | The Best Way to Pack Spheres - Numberphile
+883567 | 13395 | 238 | 1952 | Why 381,654,729 is awesome - Numberphile
+699861 | 12646 | 368 | 1408 | Divisibility Tricks - Numberphile
+710097 | 8051 | 228 | 1557 | 4937775 - Numberphile
+1217269 | 23223 | 442 | 1728 | The Amazing Heptadecagon (17-gon) - Numberphile
+862815 | 11033 | 234 | 1220 | Gaps between Primes - Numberphile
+153544 | 2361 | 39 | 512 | One-Roll Yahtzee Fever - Numberphile
+16662740 | 49194 | 4178 | 3871 | The Scientific Way to Cut a Cake - Numberphile
+4336841 | 21397 | 1951 | 2031 | 8128 and Perfect Numbers - Numberphile
+452075 | 13678 | 92 | 837 | Coffee Cup Vibrations - Numberphile
+603418 | 9114 | 65 | 959 | Pi and Buffon's Matches - Numberphile
+256466 | 7248 | 101 | 401 | Chinese Remainder Theorem and Cards - Numberphile
+561789 | 11411 | 100 | 649 | Shapes and Solids of Constant Width - Numberphile
+1042819 | 7232 | 606 | 638 | 31 and Mersenne Primes - Numberphile
+367190 | 7792 | 61 | 558 | Look-and-Say Numbers (feat John Conway) - Numberphile
+386476 | 9275 | 199 | 848 | Will your name become extinct? - Numberphile
+424110 | 7963 | 187 | 560 | Super Egg - Numberphile
+384178 | 12593 | 360 | 757 | Reynolds Number - Numberphile
+195733 | 6120 | 253 | 408 | Combinatorics and Higher Dimensions - Numberphile
+870199 | 15074 | 466 | 2816 | Calculating Pi with Real Pies - Numberphile
+221818 | 7439 | 94 | 381 | James ❤️ A Card Trick - Numberphile
+1141829 | 21464 | 490 | 3019 | The Enormous TREE(3) - Numberphile
+827977 | 22409 | 523 | 1367 | A Breakthrough in Graph Theory - Numberphile
+1763236 | 31324 | 373 | 1788 | Beautiful Card Trick - Numberphile
+633749 | 12071 | 335 | 1099 | Pebbling a Chessboard - Numberphile
+3889093 | 87509 | 1252 | 6875 | Perfect Shapes in Higher Dimensions - Numberphile
+757866 | 17655 | 244 | 1261 | The Mathematics of Crime and Terrorism  - Numberphile
+168933 | 8191 | 113 | 605 | Inca Knot Numbers - Numberphile
+259673 | 3821 | 80 | 368 | 8848 - Numberphile
+684146 | 7887 | 290 | 1970 | 255 and Pac-Man - Numberphile
+364389 | 7954 | 87 | 374 | Problems with Periodic Orbits - Numberphile
+430519 | 7914 | 85 | 540 | How to Trisect an Angle with Origami - Numberphile
+288964 | 5016 | 101 | 404 | Something special about 399 (and 2015) - Numberphile
+259350 | 5561 | 29 | 185 | How to make a Klein Bottle (in three dimensions) - Numberphile
+627570 | 17892 | 204 | 822 | Terrific Toothpick Patterns - Numberphile
+220042 | 7229 | 39 | 266 | Subtracting Paperclips - Numberphile
+166427 | 2673 | 112 | 311 | More Hyperbolic Sports - Numberphile
+827113 | 14365 | 115 | 982 | Batman Equation - Numberphile
+153977 | 4927 | 112 | 217 | Number Sticks - Numberphile
+456428 | 9555 | 95 | 575 | RSA-129 - Numberphile
+6910976 | 93095 | 4125 | 17703 | Infinity is bigger than you think - Numberphile
+1463613 | 29549 | 695 | 2161 | That Viral Math Problem (Cheryl's Birthday) - Numberphile
+315230 | 3718 | 123 | 654 | 153 and Narcissistic Numbers - Numberphile
+221693 | 6182 | 62 | 371 | Conway Checkers - Numberphile
+1173519 | 17313 | 406 | 975 | How did the NSA hack our emails?
+1239667 | 24691 | 2160 | 2882 | The Four 4s - Numberphile
+314210 | 12167 | 83 | 486 | Amazing Graphs III - Numberphile
+245146 | 5749 | 97 | 367 | The Pentomino Puzzle (and Tetris) - Numberphile
+299237 | 8639 | 79 | 327 | The Trinity Hall Prime - Numberphile
+876254 | 13980 | 217 | 1248 | Hunt for the Elusive 4th Klein Bottle - Numberphile
+554411 | 11251 | 110 | 794 | Magic Hexagon - Numberphile
+1635984 | 37647 | 616 | 2793 | Gödel's Incompleteness Theorem - Numberphile
+3415384 | 47049 | 2735 | 2974 | The Legend of Question Six - Numberphile
+509168 | 13708 | 368 | 788 | Aaron Numbers - Numberphile
+2011943 | 43866 | 1035 | 10827 | Base 12 - Numberphile
+254430 | 12921 | 112 | 772 | Neon Knots and Borromean Beer Rings - Numberphile
+366442 | 9854 | 89 | 563 | Langton's Ant - Numberphile
+1438324 | 30712 | 511 | 8211 | Problems with French Numbers - Numberphile
+672789 | 11211 | 159 | 652 | 87,539,319 - Numberphile
+1035243 | 20037 | 218 | 1121 | Squared Squares - Numberphile
+563652 | 14121 | 102 | 1064 | Topology of a Twisted Torus - Numberphile
+866438 | 12934 | 204 | 1876 | One to One Million - Numberphile
+211455 | 5811 | 122 | 508 | Necklace Splitting (a lesson for jewel thieves) - Numberphile
+1115731 | 13356 | 246 | 1227 | God's Number and Rubik's Cube - Numberphile
+1154459 | 19113 | 220 | 1227 | What is Graham's Number? (feat Ron Graham)
+1472613 | 18206 | 277 | 1100 | Homer Simpson vs Pierre de Fermat - Numberphile
+2473617 | 31940 | 381 | 2100 | Fibonacci Mystery - Numberphile
+989048 | 12578 | 288 | 855 | The Bridges to Fermat's Last Theorem - Numberphile
+203875 | 4201 | 119 | 979 | Zequals and Estimation - Numberphile
+441815 | 10280 | 284 | 1244 | Calculator Unboxing #2 (Casio fx) - Numberphile
+1946864 | 80347 | 1222 | 6244 | 5-Sided Square - Numberphile
+457092 | 10045 | 407 | 1115 | Surreal Numbers (writing the first book) - Numberphile
+262232 | 4433 | 121 | 810 | Anatomy of a Goal - Numberphile
+444427 | 8425 | 176 | 629 | Mondrian Puzzle - Numberphile
+187298 | 2224 | 519 | 811 | 27 the Favourite Number - Numberphile
+407688 | 13116 | 247 | 912 | The Electric Slide Rule - Numberphile
+2335412 | 26520 | 835 | 1426 | A Game for the Elliptical Pool Table - Numberphile
+318298 | 10124 | 169 | 966 | Primes without a 7 - Numberphile
+381573 | 6696 | 51 | 1008 | Brown's Criterion - Numberphile
+2658281 | 38882 | 1989 | 6917 | 3 is everywhere - Numberphile
+162461 | 4568 | 38 | 1250 | Brady's Videos and Benford's Law - Numberphile
+884452 | 16064 | 274 | 1772 | Phone Buttons - Numberphile
+905837 | 24107 | 433 | 1809 | The Centrifuge Problem - Numberphile
+184305 | 2463 | 76 | 424 | 6,000,000 and Abel Prize - Numberphile
+656118 | 18919 | 319 | 1446 | The Mystery of 42 is Solved - Numberphile
+549117 | 12216 | 420 | 683 | A Mathematical Fable - Numberphile
+351666 | 11098 | 105 | 884 | Superpermutations - Numberphile
+546116 | 11991 | 114 | 866 | What is a Knot? - Numberphile
+1192844 | 20120 | 329 | 1438 | Why 82,000 is an extraordinary number - Numberphile
+478306 | 5809 | 207 | 1863 | Chinese Lucky Numbers - Numberphile
+324635 | 5556 | 61 | 487 | 5 and Penrose Tiling - Numberphile
+377197 | 13194 | 1095 | 1340 | The Neverending Story (and Droste Effect) - Numberphile
+564999 | 16897 | 219 | 1331 | A Prime Surprise (Mertens Conjecture) - Numberphile
+929363 | 19410 | 168 | 1156 | Domino Addition - Numberphile
+481075 | 12223 | 87 | 570 | Strange Spinning Tubes - Numberphile
+301 | 1312214 | 21741 | 176691 | Why do YouTube views freeze at 301?
+305008 | 9742 | 87 | 533 | Heesch Numbers and Tiling - Numberphile
+314380 | 6218 | 282 | 455 | Are you REALLY sick? (false positives) - Numberphile
+3090170 | 38014 | 1317 | 2735 | Professors React to 2048 - Numberphile
+-1 | 6524 | 76 | 297 | Meet James Grime - Numberphile Live
+1513850 | 17663 | 423 | 1440 | Euclid's Big Problem - Numberphile
+2329109 | 25852 | 1369 | 1723 | The Useless Number - Numberphile
+3100647 | 46664 | 1246 | 5472 | Illegal Numbers - Numberphile
+189010 | 7127 | 146 | 923 | All the World's Coronavirus fits in a Coke Can  - Numberphile
+541475 | 10892 | 138 | 900 | Twin Prime Conjecture - Numberphile
+1743354 | 22790 | 430 | 2306 | The Uncracked Problem with 33 - Numberphile
+797427 | 25899 | 307 | 1204 | Amazing Graphs - Numberphile
+1325470 | 26859 | 490 | 1705 | How many ways can circles overlap? - Numberphile
+312404 | 6431 | 51 | 248 | A Nice Square - Numberphile
+240190 | 4244 | 87 | 363 | Leyland Numbers - Numberphile
+398248 | 8368 | 903 | 663 | Paper Calculator - Numberphile
+482169 | 11477 | 195 | 696 | 78557 and Proth Primes - Numberphile
+1054587 | 17187 | 359 | 1081 | Weird But Fair Dice (plus the D120) - Numberphile
+328815 | 7034 | 295 | 1192 | The Infinitesimal Monad - Numberphile
+158868 | 4275 | 53 | 294 | Dealing Cards with Cryptography (with Ron Rivest) - Numberphile
+1374231 | 24016 | 546 | 1372 | The 8 Queen Problem - Numberphile
+184139 | 7353 | 194 | 666 | Predators and Prey - Numberphile
+372612 | 11758 | 365 | 1066 | Lewis Carroll's Pillow Problem - Numberphile
+292154 | 4902 | 59 | 1272 | 1,296 and Yahtzee - Numberphile
+772783 | 14829 | 167 | 1231 | Base Number Jokes Explained - Numberphile
+206841 | 3449 | 166 | 541 | Statistics on Match Day - Numberphile
+314530 | 10028 | 213 | 479 | Reflected Cats - Numberphile
+257725 | 18378 | 115 | 1322 | Pi Million Subscribers - Numberphile
+987108 | 13543 | 306 | 825 | Odd Equations - Numberphile
+615568 | 18266 | 319 | 1255 | A Miraculous Proof (Ptolemy's Theorem) - Numberphile
+1223346 | 13821 | 680 | 922 | Mathematical Way to Choose a Toilet - Numberphile
+380438 | 5694 | 88 | 318 | Happy Ending Problem - Numberphile
+3605653 | 72130 | 1293 | 14135 | Googol and Googolplex - Numberphile
+482980 | 14247 | 161 | 932 | Super-fast way to tie Shoelaces - Numberphile
+601081 | 11683 | 132 | 800 | Monster Group (John Conway) - Numberphile
+357894 | 10281 | 204 | 784 | Infinite Series - Numberphile
+386593 | 10214 | 487 | 729 | The Most Evil Number - Numberphile
+202621 | 2432 | 67 | 354 | 5, 13 and 137 are Pythagorean Primes - Numberphile
+606366 | 9553 | 95 | 659 | Lucas Numbers - Numberphile
+429599 | 12098 | 81 | 674 | Penney's Game - Numberphile
+473830 | 8187 | 138 | 402 | Order from Chaos - Numberphile
+417324 | 8116 | 260 | 1696 | Graham's Number Escalates Quickly - Numberphile
+634289 | 11194 | 140 | 2345 | Dyscalculia - Numberphile
+447311 | 5319 | 118 | 1017 | Sexy Primes - Numberphile
+457468 | 7036 | 393 | 2600 | What colour is 27? - Numberphile
+1115366 | 20042 | 304 | 936 | Fair Dice (Part 1) - Numberphile
+459024 | 7801 | 80 | 793 | 41 and more Ulam's Spiral - Numberphile
+4087971 | 70644 | 831 | 3523 | Flaw in the Enigma Code - Numberphile
+3731727 | 69394 | 1100 | 2285 | Three Gears are Possible - Numberphile
+392510 | 9921 | 53 | 385 | Unexpected Shapes (Part 2) - Numberphile
+382737 | 7137 | 156 | 537 | Ditching the Fifth Axiom - Numberphile
+1663410 | 25876 | 2878 | 1706 | Tic-Tac-Toe (with Xs only) - Numberphile
+148590 | 8727 | 90 | 700 | Cuneiform Numbers - Numberphile
+180928 | 8305 | 718 | 1337 | Annoying Puzzles (and Cognitive Reflection Problems) - Numberphile
+4882423 | 80749 | 1396 | 4949 | The World's Best Mathematician (*) - Numberphile
+409024 | 14360 | 117 | 930 | Euler Squares - Numberphile
+439327 | 7360 | 445 | 929 | ViHart on Tetrahedral Dice - Numberphile
+389840 | 5198 | 150 | 546 | Six Sequences - Numberphile
+311940 | 6348 | 103 | 309 | Shuffling Card Trick - Numberphile
+166093 | 2918 | 84 | 140 | Looking at Perfect Shuffles - Numberphile
+538574 | 20268 | 106 | 885 | The Most Powerful Dice - Numberphile
+117422 | 5081 | 255 | 356 | Butterflies and Gyroids - Numberphile
+250548 | 5037 | 50 | 1595 | The Most Favourite Number - Numberphile
+2910680 | 44402 | 862 | 6516 | Is Zero Even? - Numberphile
+638181 | 17841 | 226 | 1589 | Strange Spheres in Higher Dimensions - Numberphile
+752275 | 21926 | 247 | 1816 | The Millionaire Machine - Numberphile
+219758 | 3759 | 49 | 290 | Möbius Knots and Roller Coasters - Numberphile
+251957 | 9211 | 193 | 753 | Where Does River Water Go? - Numberphile
+174416 | 3975 | 55 | 243 | Shapes and Hook Numbers - Numberphile
+1339833 | 16760 | 370 | 3197 | The LONGEST time - Numberphile

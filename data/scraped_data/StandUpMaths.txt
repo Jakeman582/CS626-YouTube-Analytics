@@ -1,0 +1,207 @@
+171441 | 4326 | 35 | 315 | Calculating pi by weighing a circle
+86357 | 2028 | 22 | 693 | James Grime's Maths Puzzle: The self descriptive number
+102756 | 1555 | 16 | 281 | What is this shape I'm destroying called?
+150276 | 11504 | 37 | 587 | Eclipses can be approximated the same way as π. [ONE TAKE!]
+281585 | 7864 | 469 | 2196 | Milk first or last? The correct method for hot tea. (GONE MATHEMATICAL)
+96958 | 4237 | 33 | 335 | Stats of CERN: How many Higgs per second?
+97475 | 3012 | 30 | 356 | Matt & Hugh: Euler Disk III, The Correctioning
+143752 | 3476 | 22 | 349 | The maths of spherical video (aka "360 camera")
+58566 | 1998 | 26 | 249 | Postcards from backstage: Katie and Semi-Eulerian Graphs
+390086 | 8058 | 141 | 551 | Matt & Hugh: The Euler Disk Which Spins Forever
+357319 | 15199 | 357 | 5014 | Why is the Apple Calendar so broken?
+137380 | 3533 | 81 | 369 | Solar Eclipse Maths and the Cosmic Coincidence of the Saros Cycle
+255634 | 11303 | 344 | 1335 | Can you solve the banana puzzle?
+514010 | 9986 | 338 | 1467 | The Brick Balancing Challenge
+251048 | 15037 | 97 | 1115 | Orbital Maths at NASA with Chris Hadfield
+314292 | 16899 | 188 | 815 | Can we film a stroboscopic helicopter?
+468830 | 15779 | 295 | 1644 | The almost impossible chessboard puzzle
+231129 | 10794 | 96 | 696 | How to keep an open secret with mathematics.
+142079 | 3457 | 20 | 350 | Polygons of New York
+1314912 | 49545 | 1246 | 6382 | Why do calculators get this wrong? (We don't know!)
+253537 | 10512 | 120 | 801 | Happy Thirdsday: finding a third using only halves
+99665 | 2912 | 93 | 340 | Strictly Come Dancing is Strictly Unfair
+73043 | 2892 | 26 | 151 | NAND Cat [original]
+140757 | 6593 | 42 | 1006 | The Rug Puzzle: how many triangles?
+133249 | 5697 | 41 | 553 | The Tuning Fork Mystery: an unexpected update
+479729 | 13231 | 710 | 1558 | How fast is a Fidget Spinner?
+176260 | 7178 | 31 | 469 | NYC: The Linear Equation of Broadway
+659164 | 12168 | 521 | 3256 | The A4 Paper Puzzle
+149176 | 5161 | 73 | 1390 | Ordinals vs Cardinals (and how many algebraic numbers are there?)
+1234520 | 30532 | 372 | 2473 | The 10,000 Domino Computer
+2030995 | 18839 | 1339 | 1897 | How to Cheat and Look Like You Can Solve the Rubik's Cube
+238914 | 9671 | 64 | 606 | Bayesian Statistics with Hannah Fry
+230645 | 9786 | 90 | 947 | Ellipsoids and The Bizarre Behaviour of Rotating Bodies
+618052 | 24841 | 716 | 1520 | Rolling Shutter Explained on the Cheap
+208098 | 9207 | 53 | 895 | The Spherical Droste Effect, with added twist and recursion.
+276253 | 4158 | 161 | 1669 | Prisoners in Hats Puzzle: two variations
+325061 | 16774 | 204 | 1904 | Why 02/02/2020 is the most palindromic date ever.
+438168 | 10671 | 117 | 896 | The Maths of Spinning Coins and Euler's Disk
+183522 | 4165 | 28 | 97 | The story of Matt Parker vs The Phone Thief
+967877 | 25064 | 461 | 2235 | Superpermutations: the maths problem solved by 4chan
+151664 | 4876 | 64 | 597 | De-beep Your Appliances: removing a piezo buzzer from a kettle
+593454 | 19192 | 339 | 979 | What's the story with log(1 + 2 + 3)?
+188532 | 2379 | 40 | 1055 | The Castle and the Princess Puzzle
+180939 | 6267 | 122 | 621 | 17 Number Facts about 2017 in 2:17
+169055 | 7190 | 138 | 855 | Are Matt and James anti-psychic?
+67614 | 2574 | 23 | 188 | How many different World Cup results can a team have?
+560552 | 32904 | 431 | 2762 | What was the first (known) maths mistake?
+737453 | 45860 | 3208 | 11015 | Do these scatter plots reveal fraudulent vote-switching in Michigan?
+164294 | 5053 | 192 | 660 | Vector: my new robot maths buddy
+325336 | 16336 | 1029 | 2200 | All UK football road signs are wrong! Join the petition for geometric change!
+168316 | 6727 | 72 | 359 | How to detect bank fraud with maths
+503174 | 10881 | 149 | 935 | Ramanujan, 1729 and Fermat's Last Theorem
+840767 | 10663 | 753 | 8594 | The Three Indistinguishable Dice Puzzle
+210451 | 5717 | 112 | 3095 | Can you solve The Frog Problem?
+115599 | 2898 | 90 | 299 | Dodecaplex: the puzzle from the fourth dimension!
+3218944 | 210127 | 2623 | 23431 | How lucky is too lucky?: The Minecraft Speedrunning Dream Controversy Explained
+75317 | 2835 | 41 | 190 | Curvahedra: how many faces make a polyhedron
+178686 | 6157 | 110 | 725 | Spinning Egg Trick (feat. Tippe Top)
+68610 | 2998 | 23 | 251 | Humble Pi: Los Angeles crime and Null Island
+413602 | 11433 | 119 | 1327 | The Fractal Menger Sponge and Pi
+303910 | 17383 | 122 | 1386 | The Difference of Two Squares
+130702 | 4725 | 63 | 598 | How fast is a bullet? [featuring: pendulum calculation]
+794289 | 13739 | 709 | 1495 | Impossible Rubik's Cubes
+46027 | 675 | 15 | 220 | The Near-Impossible Matching Matches Card Trick
+45861 | 1526 | 32 | 145 | Doing Nothing on Platform Zero
+239396 | 13673 | 167 | 791 | What is a Vampire Matrix?
+36532 | 1378 | 14 | 111 | The equations behind my live spherical footage
+54885 | 1778 | 11 | 158 | Postcards from backstage: Rob and the Anti-Monty-Hall Problem
+376900 | 12101 | 127 | 969 | MENACE: the pile of matchboxes which can learn
+1456393 | 42968 | 730 | 3003 | What does i^i = ?
+1299388 | 39478 | 574 | 3027 | There is only One True Parabola
+6243606 | 113730 | 4280 | 4933 | The Unbeatable Game from the 60s: Dr NIM
+1285304 | 25456 | 694 | 3225 | Calculating π by hand
+80740 | 8026 | 62 | 991 | Infinite DVD unboxing video: Festival of the Spoken Nerd
+124320 | 6015 | 38 | 588 | The Raising of Chicago: the windy city
+52608 | 2890 | 38 | 345 | Psychic Pets: can your pet predict the World Cup results?
+53515 | 2644 | 17 | 237 | How to make a fold-and-cut bat for Halloween!
+203509 | 7011 | 89 | 734 | Making a physical Lissajous curve
+89354 | 3427 | 22 | 329 | Matt Explains: Binomial Coefficients [featuring: choose function, pascal's triangle]
+855475 | 25622 | 366 | 2456 | Leap Years: we can do better
+297892 | 14002 | 241 | 1350 | Exploring the mysteries of the Prime (gaps!) Line.
+175347 | 6174 | 51 | 575 | How to find a square root
+3903673 | 51449 | 1305 | 1100 | The Brick Double-Domino Effect Explained
+897141 | 48941 | 4724 | 10088 | Why was Biden's win calculated to be ONE IN A QUADRILLION?
+150080 | 7489 | 50 | 540 | The Parker Machine: it's 80% accurate.
+52625 | 1596 | 25 | 135 | Postcards from backstage: Hugh and the Wall of Death Units
+112074 | 3676 | 52 | 398 | Exploring Hyperbolic Space with VR (and crochet)
+1053642 | 22892 | 364 | 1400 | How to build a Hexastix in 72 easy steps
+293623 | 10131 | 138 | 1035 | Inside an Antimatter Factory
+89165 | 4645 | 11 | 697 | A new Rhombic Dodecahedron from Croatia!
+207282 | 6100 | 28 | 599 | The Fairest Sharing Sequence Ever
+241688 | 9727 | 198 | 1062 | Pi Day 2019: calculating π with a balancing beam
+358733 | 8964 | 142 | 972 | Calculating the optimal sphere packing density: with oranges
+424113 | 29945 | 228 | 3313 | Does "land area" assume a country is perfectly flat?
+124923 | 5349 | 31 | 402 | Romantic Mathematical Shape: möbius-loop hearts
+1136030 | 48941 | 1444 | 4120 | Why π^π^π^π could be an integer (for all we know!).
+468119 | 24427 | 177 | 1833 | I wired my tree with 500 LED lights and calculated their 3D coordinates.
+20984 | 385 | 19 | 44 | Pterofractal - it's a fractal pterodactyl
+15393 | 508 | 6 | 44 | Matt Parker's Micro-Month: MARCH 2015
+132163 | 5518 | 44 | 675 | How many calendars are there?
+266499 | 7902 | 173 | 852 | Will a falling pencil hit the table? We do the maths!
+139849 | 5046 | 82 | 888 | Visiting every Platform Zero in the UK in one day!
+2602766 | 51606 | 1530 | 4693 | The Mathematics of Winning Monopoly
+426940 | 19246 | 187 | 1191 | Recursive PowerPoint Presentations [Gone Fractal!]
+70668 | 2621 | 31 | 157 | When Buildings Wobble: with Paul Shepherd
+152377 | 6763 | 35 | 514 | Recreating Asteroids with Lasers
+2211653 | 93975 | 7729 | 12991 | Why do Biden's votes not follow Benford's Law?
+778113 | 19470 | 229 | 2453 | Generating π from 1,000 random numbers
+198949 | 5121 | 51 | 702 | SOLUTION: 10 coin flips in a row! (for 10^5 subscribers)
+309144 | 6832 | 254 | 782 | Mind-boggling Card Trick (you can try at home)
+126796 | 2393 | 28 | 1381 | Puzzle: Is 36 the only triangle-square number?
+47879 | 1432 | 3 | 157 | The Share the Power Puzzle
+190138 | 6008 | 117 | 799 | Is the London Underground knotted?
+388713 | 12814 | 370 | 2229 | How many different Youtube videos are possible?
+280743 | 3718 | 186 | 414 | How to make Instant Icecream using a Fire Extinguisher
+844393 | 19443 | 481 | 5462 | Four has Four Letters
+566238 | 8509 | 131 | 305 | Matt Parker: Stand-up Maths Routine (about barcodes)
+133595 | 4344 | 87 | 567 | The Stack Folding Challenge
+263233 | 8820 | 195 | 578 | Brilliant Geometry: a physical 3D zoetrope of a 4D cube
+259409 | 11109 | 132 | 645 | Calculator Number Trick: rectangle patterns
+197147 | 7990 | 83 | 821 | Why do whole oranges float, but peeled oranges sink?
+323523 | 14092 | 435 | 1197 | Bad Rounding: ⌊Trump vs Obamacare⌋
+339736 | 9207 | 166 | 500 | Back to the Fax Machine
+347033 | 13658 | 256 | 1528 | The Coriolis Effect Test: two hemispheres, one sink
+231964 | 8872 | 118 | 380 | Stand-up comedy routine using a live spherical camera
+924281 | 21468 | 668 | 3152 | How thick is a three-sided coin?
+197897 | 9840 | 121 | 1972 | Landmark Numbers and Bad Number Analogies
+622408 | 22755 | 375 | 2010 | Help, our train home is making 9 quintillion stops.
+121993 | 5666 | 71 | 373 | The Datasaurus Dozen
+124650 | 5740 | 52 | 773 | New Superpermutations Discovered!
+168518 | 4684 | 37 | 484 | Sam's Home-made Disco Calculator
+116589 | 5286 | 79 | 783 | Does daylight savings kill people?
+184825 | 6871 | 63 | 745 | The Actual Mathematics of Popping Champagne Corks
+122413 | 3026 | 20 | 344 | Killing Maths Mosquitoes with Atomic Proofs: roots of two, Fermat and prime numbers
+33954 | 853 | 14 | 63 | In Defiance of Wadsworth's Constant
+155067 | 3977 | 71 | 365 | How to get infinitely many lottery tickets
+57325 | 2005 | 15 | 165 | MathsJam 2016: Letterwise Magic Squares
+156286 | 5730 | 69 | 526 | Alphamagic vs Letterwise Magic Squares
+508924 | 16159 | 146 | 600 | Stand-up comedy about Equations That Correspond to Vortex Motions (aka "smoke rings”).
+57767 | 2398 | 12 | 194 | How to Make a Paper Snowflake
+191399 | 7922 | 76 | 821 | Measuring the Berlin TV Tower with a ruler
+359260 | 27545 | 204 | 3025 | UK Government loses data because of Excel mistake.
+245246 | 9489 | 204 | 1221 | Checking the exact angle of parking bays.
+1216609 | 48864 | 840 | 5284 | Why is there no equation for the perimeter of an ellipse‽
+131624 | 5481 | 31 | 9320 | 10 coin flips in a row! (for 10^5 subscribers)
+410395 | 8982 | 123 | 1346 | SOLUTION: Three Indistinguishable Dice Puzzle
+124116 | 3069 | 33 | 352 | Mind-boggling Card Trick: REVEALED
+140006 | 5429 | 68 | 709 | Can you crack the face-down card game?
+237202 | 6999 | 66 | 856 | The Best Square Square in New York
+648772 | 23029 | 416 | 1815 | THE SCUTOID: did scientists discover a new shape?
+103587 | 5089 | 23 | 393 | Humble Pi: plane wrong
+53775 | 802 | 14 | 44 | The 27 Card Trick
+477629 | 15051 | 103 | 1112 | Paraboloids and The Building which Set Things on Fire
+1432271 | 63683 | 1000 | 9867 | Why do people keep getting this wrong‽
+464177 | 12776 | 156 | 1958 | How to mathematically calculate a fall through the Earth
+328154 | 11616 | 98 | 1072 | How to mathematically hang a picture (badly).
+239700 | 6803 | 179 | 503 | Matt & Hugh: the mystery of two balls in a can
+1523485 | 23145 | 406 | 1591 | Matt meets Feliks Zemdegs: Rubik's Cube World Champion
+145305 | 3855 | 45 | 615 | Matt & Hugh play with a Brick and derive Centripetal Acceleration
+187918 | 4971 | 60 | 577 | UK Rubik’s Cube Championship 2016 PART I
+2717954 | 60807 | 2215 | 1386 | Stand-up comedy routine about Spreadsheets
+243838 | 12428 | 116 | 1203 | What is the biggest tangent of a prime?
+154408 | 3488 | 64 | 334 | Manchester Mega Pixel: world's largest analogue digital image
+59608 | 1468 | 11 | 174 | The Curious Incident of the Maths in the Stage-show: Part 2
+111911 | 5711 | 66 | 455 | 2019 facts in 2 mins 19 seconds
+291416 | 6073 | 126 | 950 | New Rubik's Cube World Record! 4.74 seconds (interview and breakdown)
+197203 | 6229 | 40 | 417 | Calculating pi with a pendulum
+361745 | 13023 | 147 | 994 | Calculating π by hand the Isaac Newton way: Pi Day 2020
+123263 | 1525 | 45 | 113 | Sun Explosion compared to the Destruction of Planet Alderaan
+52944 | 2311 | 46 | 318 | Can animals predict the future? Meet Barry the Psychic Labrador!
+346526 | 10766 | 271 | 873 | Why didn't GPS crash?
+306959 | 9552 | 89 | 1353 | Geometry of Footballs and the Cube-shaped Ball
+339835 | 19107 | 190 | 1902 | How did the 'impossible' Perfect Bridge Deal happen?
+194559 | 3001 | 33 | 459 | New World-Record Largest Prime Ever Found!
+128316 | 2286 | 19 | 108 | Accuracy vs Precision
+46840 | 1105 | 7 | 76 | Transit of Venus - Why it comes in pairs every 100ish years
+100952 | 3581 | 71 | 986 | MPMP: Can you play Scrabble over a video call?
+230705 | 10017 | 146 | 1379 | When Spreadsheets Attack!
+160202 | 3429 | 96 | 596 | Quick Mathematical Card Trick
+273118 | 12725 | 192 | 987 | Does The Average Person Exist?
+125957 | 3556 | 40 | 543 | UK Rubik’s Cube Championship 2016 PART II
+652425 | 28170 | 335 | 2053 | Complex Fibonacci Numbers?
+117836 | 4452 | 53 | 648 | MPMP: Can you spin the table?
+118858 | 3751 | 112 | 391 | Speed Rubik's Cubing for drunk people
+542068 | 12233 | 323 | 1147 | The unbelievable solution to the 100 prisoner puzzle.
+213432 | 5423 | 54 | 738 | How to make an edge-coloured origami dodecahedron
+223902 | 7994 | 38 | 839 | Matt Explains: The Lottery [featuring: Choose Function, Infinite Geometric Series]
+138878 | 5904 | 47 | 552 | How to estimate a population using statisticians
+214651 | 10178 | 87 | 785 | The Rocket Equation: Mathematician vs Astronaut
+726878 | 16355 | 1623 | 5262 | Australian Bank Notes are the Best in the World
+90068 | 2184 | 16 | 354 | Matt meets Jordan Ellenberg: BONUS FOOTAGE
+76110 | 2007 | 4 | 125 | Sydney: The Unsuccessful Hunt for Parabolas
+159114 | 2439 | 58 | 156 | The Curious Incident of the Maths in the Stage-show: Part 1
+125549 | 4612 | 34 | 350 | The Tuning Fork Mystery: unexpected vibrations
+369262 | 11522 | 160 | 1064 | Calculating π by hand: the Chudnovsky algorithm
+247808 | 4935 | 101 | 1650 | Matt meets Jordan Ellenberg: 0.999999... = ?
+214648 | 5605 | 68 | 754 | The Numbers in Dice Stacking and Balancing
+1893590 | 63383 | 887 | 5202 | Why is TV 29.97 frames per second?
+326171 | 19641 | 193 | 2402 | Calculating π with Avogadro's Number
+238166 | 17386 | 66 | 1772 | How does Dobble (Spot It) work?
+258794 | 10627 | 106 | 942 | Synchronising Metronomes in a Spreadsheet
+281138 | 7050 | 191 | 933 | There are SIX Platonic Solids
+512983 | 19513 | 321 | 2620 | General Relativity: Top 05 Mishaps [inc INTERSTELLAR]
+54407 | 1965 | 37 | 319 | Live Q + A with Matt Parker
+218037 | 12656 | 255 | 871 | Are odd-numbered mobius-loop cogs possible?
+467047 | 18839 | 190 | 1471 | The bridge which is measured in smoots
+113641 | 5356 | 38 | 593 | The 1890 US Census and the history of punchcard computing [feat. Grant of 3blue1brown fame]

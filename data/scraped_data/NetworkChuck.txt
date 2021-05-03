@@ -1,0 +1,242 @@
+451736 | 20503 | 368 | 1310 | the Raspberry Pi PHONE SYSTEM! (3CX PBX at home)
+53934 | 1628 | 69 | 156 | giving away my home network
+806456 | 26557 | 1455 | 2412 | Hacking (redacted) PUBLIC WiFi with a Raspberry Pi and Kali Linux
+128120 | 4036 | 73 | 193 | hack the box
+22050 | 781 | 10 | 54 | what is Cisco DevNet? SD-WAN? SD-Access? // ft Jason Gooley
+66479 | 1783 | 56 | 271 | CCNA 200-301: Complete Video Training Course from CBT Nuggets
+77143 | 1113 | 85 | 285 | No Future for Network Engineers? - CCNA | CCNP
+15652 | 414 | 5 | 195 | Should I Get the CCNP After the CCNA?
+107057 | 4369 | 37 | 386 | why Power over Ethernet (PoE) is amazing!! // FREE CCNA // EP 12
+345981 | 12426 | 212 | 805 | you need to learn Ansible RIGHT NOW!! (Linux Automation)
+16377 | 442 | 13 | 44 | we’re saving the internet (and the world) // IT Engineers Discussion
+923050 | 40035 | 557 | 2046 | you need to learn Docker RIGHT NOW!! // Docker Containers 101
+54190 | 1292 | 17 | 254 | How Long Does It Take to Become a Network Engineer? - CCNA | CCNP
+131634 | 2886 | 56 | 411 | I PASSED THE CCENT EXAM!! - ICND1 Exam Tips
+55601 | 1714 | 44 | 226 | The FUTURE of Information Security Engineers - Cisco Security Automation (DNA CENTER)
+126930 | 6891 | 83 | 551 | Python......when should you learn it?
+1034237 | 50989 | 568 | 3729 | learning hacking? DON'T make this mistake!! (hide yourself with Kali Linux and ProxyChains)
+15658 | 493 | 12 | 163 | i just turned 30.....5 thoughts
+5038 | 163 | 0 | 73 | GIVEAWAY!! - INE CCNP Routing & Switching COMPLETE Training Bundle
+59108 | 5644 | 76 | 594 | Twitter OSiNT (Ethical Hacking)
+33852 | 916 | 27 | 141 | I PASSED the AWS Solutions Architect Associate EXAM!!
+326070 | 8745 | 232 | 1144 | CompTIA or Cisco? - Should I get the CompTIA A+/Network+ OR the Cisco CCNA/CCENT - Microsoft MCSA?
+20422 | 467 | 14 | 73 | Python for the (new) CCNA....do you need it? - DevNet Associate?!? // CCNA 200-301
+15844 | 386 | 11 | 54 | Let's QoS My Home Network - LIVE NUGGET (Quality of Service) - CCNA - CCNP Collaboration
+51494 | 1514 | 46 | 171 | Moving my HOME NETWORK to a DATA CENTER w/ DMVPN - CCNA | CCNP
+170970 | 3251 | 754 | 448 | STOP Buying IT Certification Books - CCNA | CCNP | A+ | Network+
+81147 | 2140 | 99 | 400 | Learning Python is HARD!! - CCNA | CCNP Network Engineer
+139620 | 4364 | 84 | 547 | Juniper certifications are FREE?? (CCNA alternative)
+69338 | 1942 | 30 | 198 | Network Engineers and AWS (Amazon Web Services) FEAT. Anthony Sequeira | CCNA | CCENT
+54585 | 1209 | 29 | 241 | Network Engineer or Systems Engineer? CCNA or MCSA? VCA?
+12798 | 776 | 3 | 119 | What if you forgot EVERYTHING? - Re-Learning IT after MEMORY LOSS w/ Shawn Powers | Linux | CCNA
+22717 | 914 | 11 | 143 | Do You Need IT Certifications to Get Started in IT? ft. Jeremy Cioara
+187754 | 3391 | 162 | 630 | CCNA or Python? | Should I Become a Network Engineer or a Programmer?
+27561 | 717 | 11 | 235 | CCNA Exam: 2 Exams or 1? - ICND1 (CCENT) + ICND2 or CCNA Composite?
+2697 | 85 | 2 | 42 | You CAN Learn Python - 10 WINNERS!! - CCNA | CCNP Network Engineer
+132250 | 5688 | 79 | 738 | forcing my kids to make Ethernet cables // FREE CCNA // EP 11
+71813 | 2714 | 70 | 219 | in 2021, I'm doing NOTHING!!
+19327 | 281 | 15 | 25 | Cisco Call Manager (CUCM) - Route Groups, Route Lists, Route Patterns!! - Part 1
+11836 | 93 | 3 | 11 | Add a Hunt Group Login/Logout Button to a Cisco Phone - NetworkChuck
+15967 | 790 | 6 | 102 | 100k GIVEAWAY - Synology, Boson CCNA, David Bombal
+76463 | 2149 | 46 | 395 | CCNA Lab in the Azure Cloud for FREE! - GNS3 Setup in Microsoft Azure
+55319 | 2000 | 37 | 211 | Hack a Cisco Switch with a Raspberry Pi - CCNA Security - CCNP Security - Network+
+26999 | 657 | 13 | 180 | Is it still WORTH IT to become a Network Engineer? | CCNA CCNP
+37014 | 1107 | 25 | 168 | Can I really become an Ethical Hacker?
+47050 | 935 | 18 | 120 | CCNA Labs - Packet Tracer or GNS3?
+121211 | 5923 | 101 | 485 | your first Hacking certification (PenTest+)
+46109 | 1624 | 27 | 124 | how to become a Network Developer at Amazon (AWS)
+78397 | 3448 | 87 | 404 | this year....I'm going to become a HACKER!!
+107755 | 4222 | 71 | 851 | The ONE Skill You NEED in IT - Information Technology
+60162 | 808 | 88 | 239 | Should I Use a Brain Dump on my CCNA/CCNP/MCSA Exam?
+30726 | 566 | 53 | 74 | Voice VLANs - What are they and why do we need them?
+775455 | 31900 | 331 | 1104 | Nmap Tutorial to find Network Vulnerabilities
+35935 | 891 | 34 | 95 | FREE Linux Lab in the Azure Cloud - Linux+ - RedHat
+110001 | 6743 | 68 | 698 | HELP!! (for when you suck at Linux) // Linux for Hackers // EP3
+263306 | 9808 | 164 | 719 | block ADULT sites and other BAD STUFF on your home network (EASY)
+841958 | 20280 | 349 | 1355 | How to Setup a Raspberry Pi LEARNING Desktop (Linux, Hacking, Coding)
+1936 | 120 | 0 | 226 | NetworkChuck 10 Days of Christmas GIVEAWAY!! (CCNA Packet Tracer Labs)
+143688 | 11181 | 163 | 1042 | you need a website RIGHT NOW!! (create a website for FREE)
+368219 | 8794 | 321 | 590 | the UniFi Dream Machine Pro....the nerdiest home router
+347845 | 17874 | 210 | 1132 | 3 Hacking Skills EVERYONE has // FREE Security+ // EP 1
+92315 | 3013 | 32 | 154 | get started with Ansible Network Automation (FREE cisco router lab)
+23087 | 501 | 6 | 51 | CUCM Calling Search Spaces and Partitions: Explained with Star Wars
+18474 | 628 | 17 | 209 | Why do I work so hard?
+5920 | 215 | 5 | 371 | How Does Cisco Create Exams? + CCNA GiveAWAY - INE BUNDLE!!
+697901 | 16558 | 1035 | 1623 | WI-FI 6, Why it's the BIGGEST update to Wi-Fi EVER! - 802.11ax
+51084 | 1299 | 25 | 275 | I PASSED THE CCNA EXAM!! - ICND2 Exam Tips
+65414 | 1824 | 36 | 484 | What happened to the CCNA? CCNP? CCIE? - An Overview (2019)
+16689 | 389 | 4 | 53 | DevNet Associate - CHALLENGE ACCEPTED!!
+89405 | 2324 | 95 | 145 | Kali Linux on Windows 10 (it just got BETTER!!)
+75067 | 4340 | 39 | 262 | How Hackers hide files on Windows 10 and Linux
+78440 | 3122 | 63 | 179 | eJPT (a hacking certification for beginners)
+146502 | 8858 | 55 | 677 | FREE CompTIA Security+ Course // SY0-501 vs SY0-601 // EP 0
+376990 | 29342 | 359 | 1368 | find social media accounts with Sherlock (in 5 MIN)
+102178 | 2713 | 56 | 848 | The New CCNA - BIGGEST IT Certification updates EVER!
+157487 | 10852 | 96 | 828 | the Linux File System explained in 1,233 seconds // Linux for Hackers // EP 2
+22186 | 1024 | 9 | 253 | David Bombal and NetworkChuck - This is IT! EP 1 | Azure, CiscoLIVE, Devnet
+77534 | 6127 | 50 | 533 | installing my “FREE” cloud phone system (AWS and 3CX)
+24893 | 572 | 52 | 105 | Is MPLS DEAD?!? w/ Keith Barker and Jason Gooley | CCNA CCNP CCIE
+68692 | 1974 | 57 | 561 | CCNA in 84 days?
+147405 | 2810 | 53 | 560 | 7 CCNA CCNP Study Tips for the New Year - 2017!!
+127778 | 5445 | 23 | 351 | how the OSI model works on YouTube (Application and Transport Layers) // FREE CCNA // EP 5
+54437 | 2215 | 59 | 120 | let's hack Santa's website
+128481 | 5284 | 102 | 526 | you need to learn Hybrid-Cloud RIGHT NOW!!
+99138 | 5048 | 121 | 696 | 5G: what you DON'T know!! (3 things)
+26140 | 1595 | 16 | 288 | it is my birthday (giveaway) LIVE!
+893498 | 33779 | 440 | 4937 | Kali Linux on Windows in 5min (WSL 2 GUI)
+458908 | 21431 | 304 | 1243 | you need to learn HACKING RIGHT NOW!! // CEH (ethical hacking)
+131880 | 6911 | 88 | 607 | how HACKERS take down big companies (it's your code)
+38984 | 893 | 31 | 234 | should you get a Cisco certification? CCNA? CCNP? // A DEBATE (feat. the Packet Thrower)
+56546 | 1221 | 30 | 284 | WHY am I studying for the Linux+? // CompTIA Linux+ XK0-004
+11668 | 578 | 9 | 239 | I (FINALLY!) Scheduled Cisco CCNP Certification Exam TSHOOT | 300-135
+86545 | 2103 | 46 | 240 | Should I Self-Study for the CCNA? (Or any other IT Certification)
+370574 | 14367 | 324 | 2087 | UniFi Dream Machine - the BEST WiFi router (Review and Advanced Setup)
+65224 | 548 | 11 | 121 | How to Create a Hunt Group - CUCM 8/9/10
+9140 | 315 | 5 | 134 | 3 Ways to Get Out of a Study Slump - CCNA | CCNP Study
+12539 | 493 | 6 | 161 | What's next for NetworkChuck? *UPDATE* | CCNA | CCNP | Network Automation
+389197 | 7069 | 282 | 708 | What is SD-WAN? say GOODBYE to MPLS, DMVPN, iWAN... w/ SDN, Cisco and Viptela
+6210 | 234 | 0 | 532 | CBT Nuggets GIVEAWAY!! - Get Your CCNA, MCSA, VCP, Security+
+1597385 | 49147 | 1114 | 81187 | how to HACK a password // password cracking with Kali Linux and HashCat
+178204 | 4284 | 72 | 803 | How Much Money Do Network Engineers Make? - CCNA | CCNP
+498917 | 22199 | 299 | 1109 | how Hackers SNiFF (capture) network traffic // MiTM attack
+34705 | 178 | 4 | 32 | How to Upgrade/Activate a License on a Cisco ASA (Adaptive Security Appliance)
+55117 | 1470 | 76 | 298 | UNLIMITED CLOUD STORAGE - Synology + Crashplan - $10/month
+1764714 | 71427 | 1689 | 3994 | i bought a DDoS attack on the DARK WEB (don't do this)
+53333 | 1026 | 71 | 122 | Why you need to learn Azure RIGHT NOW!! (become a cloud engineer) ft. The Packet Thrower
+14466 | 506 | 7 | 90 | How WiFi 6 (REALLY) works --- Is it a SWITCH? Feat. the Clear to Send Podcast
+22019 | 394 | 10 | 138 | Should I start Learning AWS?? - NetworkChuck AMA - Ask Me Anything
+29492 | 1249 | 47 | 160 | you gotta be quick (win coffee and IT training)
+64682 | 1843 | 40 | 103 | i HATE network documentation....but NetBox might help // ft. Jeremy Cioara
+37251 | 1197 | 29 | 157 | Puppet for Network Engineers (CCNA and CCNP Automation)
+108105 | 2707 | 50 | 815 | CompTIA or Cisco? - Revisiting CCENT vs Network+ in 2019 | CCNA | MTA | MCSA
+132341 | 7884 | 88 | 746 | how to build a HACKING lab (to become a hacker)
+436303 | 21576 | 242 | 1750 | Google HACKING (use google search to HACK!)
+49472 | 1548 | 24 | 119 | studio tour (gear i use to make videos)
+43776 | 2523 | 40 | 333 | i'm giving away a TON of stuff!! (NetworkChuck 10 Days of Christmas)
+48135 | 1556 | 30 | 160 | The BEST way to study // CCNA - Linux+
+34672 | 1455 | 11 | 131 | Network Chuck
+55537 | 2027 | 82 | 480 | CCNA reddit doesn't like me (my reaction)
+307688 | 8501 | 268 | 955 | If I had to start over...which IT path would I take?
+414152 | 19716 | 283 | 1384 | setup a FREE VPN server in the cloud (AWS)
+41973 | 1836 | 63 | 373 | IT certifications: one thing I HATE! (but not anymore)
+24699 | 1483 | 65 | 157 | 5G will change gaming FOREVER
+121517 | 3609 | 80 | 808 | How To get a JOB with a CCNA (Network Engineer) |  CCNA Routing and Switching
+138697 | 5338 | 45 | 323 | WAN....it's not the internet!! (sometimes) // FREE CCNA // EP 8
+21878 | 510 | 9 | 60 | help me BREAK a network!! (Destroy a CCNA lab!!)
+13369 | 391 | 9 | 123 | Network Engineer for a School?? // Working in IT for a School District - CCENT/CCNA
+11895 | 302 | 21 | 41 | how AWS is messing up the Super Bowl (and all other sports)
+46572 | 1420 | 13 | 196 | 2 Steps to Getting Started in Networking (and IT!) | CCENT | CompTIA A+
+1023625 | 42508 | 722 | 3588 | let's hack your home network // FREE CCNA // EP 9
+206355 | 10194 | 53 | 520 | what is TCP/IP and OSI? // FREE CCNA // EP 3
+20109 | 669 | 14 | 93 | i don't have anything to talk about so....ASK ME ANYTHING (AMA)
+48030 | 1501 | 69 | 328 | UNLIMITED Google Drive Storage for $12/month
+43268 | 1206 | 27 | 74 | How to Study for IT Certifications (and KILL IT!!)
+57820 | 2106 | 23 | 315 | How to Stop Procrastinating and Study for Your CCNA CCNP
+52540 | 1032 | 23 | 190 | What happened to my CCNP? + Ask Me Anything feat. my WIFE!!
+196274 | 6992 | 110 | 1013 | Am I Smart Enough to Be a Network Engineer? - CCNA | CCNP Study
+325494 | 13884 | 394 | 1510 | VMware on a Raspberry Pi!?!?! (ESXi Install)
+67495 | 3220 | 30 | 363 | HACK your IT Study Habits - CCENT - CCNA - A+ | Atomic Habits
+100275 | 2761 | 44 | 234 | 3 skills you NEED for the CLOUD (AWS, Microsoft Azure)
+158566 | 4780 | 62 | 618 | new Kali Linux GUI on Windows 10 (WSL 2) // 2020.3 Release
+44348 | 3034 | 47 | 418 | OVERWHELMED with technology (IT)....what can I do?
+58866 | 1969 | 59 | 3185 | The tools to learn Python, Linux, Cisco 🔥🔥 HURRY
+29999 | 1195 | 30 | 274 | what am i doing?? (aws...security+.....ccna?)
+250500 | 19580 | 234 | 2766 | Instagram OSiNT
+99891 | 7037 | 73 | 764 | STRESSED OUT!! (you need to learn EVERYTHING RIGHT NOW!!)
+50053 | 4047 | 59 | 616 | i'm feeling stupid today
+3453 | 143 | 0 | 38 | 5 Tips for Studying at Social Gatherings - CCNA CCNP Study
+28889 | 1040 | 29 | 232 | you DO NOT need College / University!!
+119656 | 4102 | 64 | 631 | HELPDESK - how to get started in IT (your first job)
+255786 | 7315 | 102 | 437 | learn to HACK (the best way) // ft. John Hammond
+68971 | 1968 | 27 | 200 | the NEW certified ethical hacker (CEHv11) cert // feat. ITProTV's Daniel Lowrie
+1617252 | 69261 | 1716 | 5990 | EVERYONE needs to learn LINUX - ft. Raspberry Pi 4
+55179 | 1740 | 56 | 188 | Become an IT Project Manager (make a TON of money!) feat. Jeremy Cioara - PMP Certification
+56422 | 1690 | 24 | 699 | What is a VMware Engineer? | VMware Certified Professional - VCP | MCSA | CCNA
+38297 | 2550 | 46 | 235 | my beard isn’t real // FREE Security+ // EP 5
+7497 | 121 | 2 | 22 | Cisco Call Manager (CUCM) - Route Groups, Route Lists, Route Patterns!! - Part 2
+81728 | 2195 | 39 | 209 | how I became a Cloud Engineer! // AWS - Microsoft Azure
+19425 | 577 | 12 | 86 | 3 Cisco CLI (Command-line) Hacks (CCNA) + CBT Nuggets WINNER ANNOUNCEMENT!!
+17418 | 982 | 6 | 265 | I am officially a CBT Nuggets Trainer!! - NetworkChuck
+26653 | 816 | 30 | 324 | SCHEDULED THE CCIE EXAM!!
+24198 | 851 | 3 | 268 | Am I Too OLD to Become a Network Engineer? Study for CCNA | CCNP?
+33117 | 697 | 28 | 84 | From CCNA to CLOUD DevOps Engineer (the path) // AWS, Azure, Linux, Python
+47904 | 1676 | 33 | 211 | Raspberry Pi Halloween Automation - IFTTT, Alexa, REST API, Network Automation
+59314 | 1403 | 74 | 145 | Microsoft wants you to LEARN PYTHON (for FREE) -- Intro to Python
+62738 | 4242 | 45 | 341 | you’re about to get hacked!! (7 reasons why) // FREE Security+ // EP 6
+18600 | 689 | 41 | 214 | NetworkChuck Coffee
+40655 | 1085 | 21 | 200 | CCNA Lab BATTLE!! // GNS3 vs Physical - ft. Jeremy Cioara
+221736 | 17035 | 146 | 1619 | Linux for Hackers // EP 1 (FREE Linux course for beginners)
+133298 | 10917 | 88 | 909 | 5 Steps to Secure Linux (protect from hackers)
+124162 | 5753 | 86 | 510 | I PASSED the Linux+ (how to pass the CompTIA Linux+ Exam)
+37885 | 1847 | 17 | 340 | I'm not smart enough
+51773 | 1360 | 35 | 75 | reviewing your LinkedIn profiles (LIVE)
+260099 | 11863 | 69 | 979 | What is a ROUTER? // FREE CCNA // EP 2
+145538 | 6691 | 89 | 1499 | how a social engineering attack DESTROYED Twitter (feat. Marcus Hutchins) // Twitter Hack 2020
+37367 | 1348 | 32 | 174 | CCNA Tips Feat. Jeremy Cioara!! - CCENT | CCNP
+33767 | 971 | 33 | 208 | I PASSED THE TSHOOT EXAM!! - CCNP TSHOOT (I also failed)
+21435 | 929 | 9 | 558 | Fighting IMPOSTER SYNDROME in Information Technology - Network Engineer | System Engineer | CCNA
+112380 | 6371 | 78 | 862 | i quit my job...
+54568 | 2236 | 34 | 175 | How to Become a Hacker (top certifications) feat. The Cyber Mentor
+105731 | 3648 | 99 | 451 | Get your CCNA in 2019
+74533 | 2059 | 48 | 152 | How to become a DEVOPS Engineer feat. Shawn Powers | Linux+ | LPIC-1
+69522 | 3408 | 42 | 237 | How to grow as a HACKER // ft. NahamSec (a hacker)
+327201 | 18698 | 226 | 993 | you need to learn AWS RIGHT NOW!! (Amazon Web Services)
+17396 | 500 | 5 | 259 | Should I Learn LINUX with the CCNA | CCNP? - Network Engineer
+24258 | 821 | 10 | 819 | Planning for 2019 - Information Technology Goals - CCNA | AWS | MCSA
+142312 | 6683 | 120 | 1107 | i failed my exam
+30251 | 1166 | 11 | 202 | 7 CCNA CCNP Study Tips for the New Year - 2018!! w/ Keith Barker CCIE
+180686 | 5093 | 132 | 1182 | Get your CCNA RIGHT NOW!! (before the new CCNA 200-301)
+36326 | 1315 | 37 | 125 | i scheduled the OSCP exam / kenneth copeland got hacked / new Kali 2020.4 release
+38997 | 2686 | 32 | 594 | Do you REALLY want it? Why? CCENT, CCNA, A+, Security+
+65171 | 4497 | 57 | 844 | shut up and just DO it!! (IT certifications)
+690877 | 33508 | 335 | 3397 | Phishing attacks are SCARY easy to do!! (let me show you!) // FREE Security+ // EP 2
+116299 | 6324 | 120 | 579 | my favorite IT study tool - Notion
+32982 | 3083 | 15 | 522 | thank you
+889491 | 26025 | 1213 | 1801 | DO NOT design your network like this!! // FREE CCNA // EP 6
+70282 | 1749 | 84 | 326 | CCNA Cyber Ops vs CCNA Security
+8839 | 140 | 1 | 36 | Programmers Becoming Network Engineers? - Collab with SimpleProgrammer
+114275 | 4850 | 134 | 636 | i LOVE this switch!! // Cisco Enterprise Switch for SMALL business (Catalyst 1000 series)
+337350 | 8878 | 760 | 1025 | Using BAD Linux commands (DO NOT USE) on a VM and Cisco Router
+14449 | 680 | 12 | 149 | Is NetworkChuck Over!?!?!
+265153 | 6223 | 552 | 1567 | 5 Reasons You Shouldn't Become a Network Engineer | CCNA | Information Technology
+155999 | 5153 | 51 | 583 | WHY you need to study Python, Linux, CCNA 📚 AT THE SAME TIME! // ft. Cisco_Panther
+11076 | 564 | 2 | 127 | Trying to Study for my CCNA CCNP with KIDS!! - Study Tips for CCNA CCNP
+238641 | 12155 | 184 | 865 | hack like Mr. Robot
+175031 | 7870 | 31 | 453 | REAL LIFE example!! (TCP/IP and OSI layers) // FREE CCNA // EP 4
+268608 | 7183 | 156 | 1028 | CCNA or COLLEGE? - Become a Network Engineer
+5396 | 229 | 6 | 52 | I'm going to Cisco Live!!! - CiscoLIVE 2018 Orlando
+312962 | 9612 | 219 | 635 | BLOCK EVERYTHING w/ PiHole on Docker, OpenDNS and IFTTT
+49750 | 3309 | 48 | 410 | massive TWITTER HACK! (Elon Musk, Bill Gates, Mr. Beast, Kanye)
+1440 | 60 | 0 | 42 | WHO WON? - CCNA GiveAWAY - INE BUNDLE!!
+253813 | 9777 | 124 | 512 | Data Center NETWORKS (what do they look like??) // FREE CCNA // EP 7
+7687 | 260 | 9 | 70 | you didn't win...
+853267 | 16693 | 1794 | 1149 | The TOP 3 uses for a Raspberry Pi!!
+65045 | 2193 | 27 | 284 | HOW to Start Coding (RIGHT NOW!) as a Network Engineer - ICND1 | CCNA CCNP & Intent-Based Networking
+51891 | 1818 | 46 | 119 | stop DDoSiNg my website!! (and other SCARY IT stories) Pt. 1
+72910 | 1822 | 41 | 299 | How I'm Studying for the Linux+ XK0-004 Exam - Study Tools
+208363 | 10694 | 133 | 687 | i hacked my grandma (social engineering and pretexting) // FREE Security+ // EP 3
+445609 | 17309 | 111 | 1007 | FREE CCNA // What is a Network? // Day 0
+196960 | 5601 | 128 | 1138 | GOODBYE Microsoft certifications!! (killing off the MCSA, MCSE, MCSD)
+37767 | 798 | 27 | 187 | how I PASSED the DevNet Associate (should you get it?)
+67027 | 1595 | 45 | 147 | run Linux on Windows Docker containers!!
+57137 | 2094 | 30 | 151 | 6 STEPS to IT CAREER SUCCESS!! - ft. Kevin Wallace | CCNA | CCNP | CCIE | Network+
+6343 | 668 | 4 | 245 | NetworkChuck 10 Days of Christmas 2018 - CBT Nuggets | David Bombal | Kevin Wallace (and more!!)
+327005 | 13737 | 171 | 818 | you need to learn Kubernetes RIGHT NOW!!
+376423 | 19589 | 104 | 1454 | What is a SWITCH? // FREE CCNA // Day 1
+49629 | 1205 | 28 | 162 | we PASSED the CCNA!! (how to pass the CCNA in 2020)
+36508 | 1042 | 14 | 220 | I QUIT MY JOB TO TRAVEL - CCNA CCNP Success Story!!
+1397013 | 76563 | 984 | 5332 | you need to learn Virtual Machines RIGHT NOW!! (Kali Linux VM, Ubuntu, Windows)
+33252 | 1116 | 29 | 176 | Will there be a NEW CCNA in 2019? ft. Jeremy Cioara (interview)
+90561 | 4576 | 129 | 370 | learn Python, Hacking, Linux, CCNA.....hurry!! (6 deals you don't want to miss)
+103603 | 4232 | 51 | 240 | Bug Bounty (how to make money HACKING!!) // ft. STÖK
+47316 | 1471 | 32 | 137 | teach me Juniper (networks) // ft. the Packet Thrower
+506193 | 28028 | 358 | 1725 | find info on phone numbers with PhoneInfoga
+86826 | 6383 | 50 | 297 | your favorite websites can be HACKED! (watering holes, typo squatting) // FREE Security+ // EP 4
+61671 | 6946 | 100 | 743 | HUGE announcement!!
+35255 | 1142 | 17 | 136 | don't waste your quarantine
+41388 | 1916 | 22 | 259 | what's your DREAM job?
+265698 | 7412 | 131 | 703 | HOW TO get your CCNP in 2020 (no CCNA required)
+9071 | 395 | 2 | 73 | Build Your Team - IT Certification Motivation // ft. Jeremy Cioara / Bart Castle (CBT Nuggets)
+70997 | 5780 | 38 | 642 | Virtual Machines Pt. 2 (Proxmox install w/ Kali Linux)
+19620 | 730 | 26 | 373 | Using Arduino, Raspberry Pi and Python to Monitor Cisco Router - #DEVNET CCNA
+67668 | 1850 | 36 | 268 | Top 5 IT Skills in 2020
