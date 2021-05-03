@@ -1,0 +1,113 @@
+362548 | 16671 | 117 | 1267 | Q&A with Grant (3blue1brown), windy walk edition
+2432729 | 54423 | 766 | 2634 | All possible pythagorean triples, visualized
+788433 | 36345 | 231 | 1472 | Hamming codes and error correction
+3570005 | 79565 | 586 | 2370 | Gradient descent, how neural networks learn | Deep learning, chapter 2
+3040354 | 109412 | 1032 | 5310 | Why do prime numbers make these spirals? | Dirichlet’s theorem
+2350603 | 47993 | 436 | 2412 | Eigenvectors and eigenvalues | Essence of linear algebra, chapter 14
+2727219 | 50251 | 313 | 1852 | Linear combinations, span, and basis vectors | Essence of linear algebra, chapter 2
+1608058 | 46698 | 924 | 2864 | Why “probability of 0” does not mean “impossible” | Probabilities of probabilities, part 2
+448541 | 22840 | 105 | 1459 | Hamming codes part 2, the elegance of it all
+1330125 | 39827 | 436 | 1786 | The more general uncertainty principle, beyond quantum
+1030077 | 23526 | 205 | 1198 | Visualizing the chain rule and product rule | Essence of calculus, chapter 4
+6216421 | 170197 | 2270 | 4951 | The most unexpected answer to a counting puzzle
+719718 | 27228 | 348 | 2480 | The three utilities puzzle with math/science YouTubers
+483873 | 16827 | 130 | 1012 | Sneaky Topology | The Borsuk-Ulam theorem and stolen necklaces
+9061641 | 232844 | 2068 | 5501 | But what is a Neural Network? | Deep learning, chapter 1
+1049700 | 23948 | 243 | 1142 | Limits, L'Hôpital's rule, and epsilon delta definitions | Essence of calculus, chapter 7
+534872 | 20610 | 146 | 783 | Why 5/3 is a fundamental constant for turbulence
+811568 | 39143 | 217 | 2524 | How (and why) to raise e to the power of a matrix | DE6
+679512 | 21243 | 195 | 1169 | Trigonometry fundamentals | Lockdown math ep. 2
+439562 | 12328 | 141 | 970 | The power tower puzzle | Lockdown math ep. 8
+1148495 | 37149 | 503 | 2104 | Why slicing a cone gives an ellipse
+2772020 | 57556 | 2674 | 4966 | What does it feel like to invent math?
+1418953 | 36068 | 392 | 1628 | Some light quantum mechanics (with minutephysics)
+2642473 | 54498 | 401 | 2991 | Linear transformations and matrices | Essence of linear algebra, chapter 3
+2131811 | 59841 | 372 | 2944 | Differential equations, a tourist's guide | DE1
+5720354 | 176337 | 1493 | 7014 | But what is the Fourier Transform?  A visual introduction.
+349145 | 11289 | 92 | 436 | The quick proof of Bayes' theorem
+570121 | 15179 | 169 | 586 | Quaternions and 3d rotation, explained interactively
+1529933 | 34590 | 440 | 1949 | Pi hiding in prime regularities
+988610 | 15745 | 141 | 528 | Cross products | Essence of linear algebra, Chapter 10
+1445094 | 31918 | 467 | 1531 | Hilbert's Curve: Is infinite math useful?
+4178178 | 87820 | 1526 | 3843 | But why is a sphere's surface area four times its shadow?
+3565610 | 113033 | 1567 | 5554 | The unexpectedly hard windmill question (2011 IMO, Q2)
+828915 | 18514 | 212 | 704 | What does area have to do with slope? | Essence of calculus, chapter 9
+1336623 | 24212 | 288 | 1477 | Dot products and duality | Essence of linear algebra, chapter 9
+1334538 | 41384 | 233 | 1879 | But what is a partial differential equation?  | DE2
+682723 | 45772 | 229 | 2643 | Lockdown math announcement
+446972 | 9787 | 61 | 329 | Higher order derivatives | Essence of calculus, chapter 10
+897553 | 14401 | 102 | 536 | Nonsquare matrices as transformations between dimensions | Essence of linear algebra, chapter 8
+2119903 | 45369 | 273 | 2851 | The determinant | Essence of linear algebra, chapter 6
+1399508 | 33237 | 447 | 939 | Fractal charm: Space filling curves
+1019052 | 18524 | 177 | 970 | Change of basis | Essence of linear algebra, chapter 13
+1992541 | 66435 | 758 | 2587 | How secure is 256 bit security?
+366207 | 8020 | 91 | 308 | Euler's Formula and Graph Duality
+3152770 | 72798 | 1398 | 3607 | Why is pi here?  And why is it squared?  A geometric answer to the Basel problem
+483705 | 12573 | 130 | 627 | Binary, Hanoi and Sierpinski, part 1
+357989 | 10301 | 175 | 1072 | How to count to 1000 on two hands
+1020750 | 26045 | 363 | 1213 | Music And Measure Theory
+558924 | 30540 | 212 | 2255 | Why Bayes rule is nicer with odds
+1306750 | 57469 | 468 | 2086 | Binomial distributions | Probabilities of probabilities, part 1
+1576882 | 37698 | 385 | 2032 | Euler's formula with introductory group theory
+1742673 | 40145 | 362 | 2576 | Derivative formulas through geometry | Essence of calculus, chapter 3
+276677 | 6886 | 102 | 644 | Intuition for i to the power i | Lockdown math ep. 9
+642778 | 22772 | 543 | 1439 | Triangle of Power
+1294968 | 40592 | 325 | 1611 | e^(iπ) in 3.14 minutes, using dynamics | DE5
+539576 | 17045 | 153 | 1235 | Pure Fourier series animation montage
+1486527 | 74688 | 700 | 4667 | Group theory, abstraction, and the 196,883-dimensional monster
+1717354 | 33999 | 199 | 1980 | Matrix multiplication as composition | Essence of linear algebra, chapter 4
+8617362 | 214829 | 2767 | 24619 | But how does bitcoin actually work?
+1107811 | 22425 | 275 | 1007 | Implicit differentiation, what's going on here? | Essence of calculus, chapter 6
+1669347 | 27259 | 153 | 1099 | Essence of linear algebra preview
+2063980 | 58731 | 595 | 2986 | Who cares about topology?   (Inscribed rectangle problem)
+2547904 | 65174 | 858 | 4045 | Fractals are typically not self-similar
+719400 | 22742 | 210 | 1451 | Winding numbers and domain coloring
+841544 | 35903 | 319 | 2107 | The simpler quadratic formula | Lockdown math ep. 1
+651655 | 15213 | 111 | 645 | Cramer's rule, explained geometrically | Essence of linear algebra, chapter 12
+2025321 | 50658 | 562 | 2765 | The paradox of the derivative | Essence of calculus, chapter 2
+468721 | 9437 | 187 | 193 | A Curious Pattern Indeed
+1216201 | 50170 | 461 | 2163 | Bayes theorem
+2917295 | 72834 | 1163 | 2919 | The other way to visualize derivatives
+122112 | 3618 | 61 | 136 | Euler's Formula Poem
+140129 | 4632 | 106 | 333 | Q&A #2 + Net Neutrality Nuance
+1099776 | 23929 | 253 | 910 | Integration and the fundamental theorem of calculus | Essence of calculus, chapter 8
+503575 | 14211 | 205 | 964 | The Wallis product for pi, proved geometrically
+147037 | 4135 | 32 | 182 | Snell's law proof using springs
+475273 | 14096 | 94 | 661 | Circle Division Solution
+4507910 | 127274 | 949 | 4818 | The Essence of Calculus, Chapter 1
+372865 | 3217 | 62 | 128 | 3blue1brown channel trailer
+1474460 | 31688 | 244 | 1530 | Backpropagation calculus | Deep learning, chapter 4
+879918 | 20691 | 184 | 1183 | The Brachistochrone, with Steven Strogatz
+1073808 | 16903 | 101 | 468 | Three-dimensional linear transformations | Essence of linear algebra, chapter 5
+178168 | 10690 | 49 | 476 | Other math channels you'd enjoy
+2222709 | 55638 | 603 | 3538 | Visualizing quaternions (4d numbers) with stereographic projection
+2028100 | 46148 | 537 | 1622 | What's so special about Euler's number e? | Essence of calculus, chapter 5
+339772 | 9992 | 128 | 802 | Imaginary interest rates | Lockdown math ep. 5
+686840 | 11495 | 138 | 860 | Cross products in the light of linear transformations | Essence of linear algebra chapter 11
+890094 | 23479 | 339 | 1405 | How pi was almost 6.283185...
+1545061 | 30115 | 206 | 1480 | Inverse matrices, column space and null space | Essence of linear algebra, chapter 7
+650386 | 20091 | 279 | 988 | Tattoos on Math
+4384343 | 83006 | 551 | 2355 | Vectors | Essence of linear algebra, chapter 1
+381410 | 10099 | 150 | 641 | Logarithm Fundamentals | Lockdown math ep. 6
+2579943 | 53959 | 1259 | 3385 | Thinking outside the 10-dimensional box
+873976 | 21190 | 430 | 1610 | Complex number fundamentals | Lockdown math ep. 3
+2121369 | 72845 | 515 | 2862 | Divergence and curl:  The language of Maxwell's equations, fluid flow, and more
+487692 | 16432 | 150 | 1396 | What is Euler's formula actually saying? | Lockdown math ep. 4
+720109 | 19598 | 130 | 849 | Solving the heat equation | DE3
+770990 | 29427 | 173 | 1456 | How colliding blocks act like a beam of light...to compute pi.
+615328 | 14577 | 214 | 1107 | What makes the natural log "natural"? | Lockdown math ep. 7
+5731700 | 165694 | 1810 | 6755 | Exponential growth and epidemics
+2148320 | 61018 | 451 | 3057 | Taylor series | Essence of calculus, chapter 11
+5787313 | 82567 | 679 | 2832 | But what is a Fourier series?  From heat flow to drawing with circles | DE4
+672039 | 31123 | 111 | 2276 | Q&A with Grant Sanderson (3blue1brown)
+206232 | 6925 | 44 | 553 | Binary, Hanoi, and Sierpinski, part 2
+824733 | 29163 | 125 | 2382 | Abstract vector spaces | Essence of linear algebra, chapter 15
+773821 | 26649 | 489 | 1784 | The impossible chessboard puzzle
+2382151 | 44160 | 362 | 1096 | What is backpropagation really doing? | Deep learning, chapter 3
+310524 | 22052 | 436 | 1625 | The DP-3T algorithm for contact tracing (via Nicky Case)
+451603 | 15114 | 128 | 840 | Tips to be a better problem solver [Last lecture] | Lockdown math ep. 10
+4446565 | 147250 | 1258 | 6476 | Simulating an epidemic
+2945733 | 100251 | 704 | 3886 | Why do colliding blocks compute pi?
+2337973 | 34718 | 2593 | 2044 | e to the pi i, a nontraditional take (old version)
+2937242 | 61748 | 812 | 3238 | Visualizing the Riemann zeta function and analytic continuation
+9625674 | 254978 | 4150 | 16952 | The hardest problem on the hardest test

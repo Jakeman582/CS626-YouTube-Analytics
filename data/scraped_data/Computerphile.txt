@@ -1,0 +1,689 @@
+1000111 | 23985 | 437 | 1255 | Python Sudoku Solver - Computerphile
+55287 | 1535 | 62 | 103 | Commodore 16 & The Worst Video Game? - Computerphile
+46871 | 1482 | 30 | 84 | Privacy in Social Media - Computerphile
+495855 | 10742 | 196 | 426 | The Perfect Code - Computerphile
+79768 | 2485 | 68 | 228 | Email Endianness Problems - Computerphile
+316369 | 11033 | 76 | 618 | Diffie Hellman -the Mathematics bit- Computerphile
+242884 | 4908 | 302 | 464 | The Blockchain & Bitcoin - Computerphile
+53056 | 1383 | 12 | 74 | Computing & Radar Displays - Computerphile
+37856 | 739 | 86 | 58 | Wearables and Augmented Reality - Computerphile
+29052 | 799 | 87 | 115 | Driverless Pods - Computerphile
+155486 | 2700 | 61 | 178 | Arduino Hardware - Computerphile
+78619 | 1755 | 18 | 88 | The Dawn of Desktop Publishing - Computerphile
+282889 | 6312 | 96 | 287 | Inside the CPU - Computerphile
+748399 | 10978 | 544 | 641 | Turing Machines Explained - Computerphile
+95055 | 3296 | 75 | 184 | AI Safety Gym - Computerphile
+60130 | 2031 | 31 | 144 | Binary to BCD (Double Dabble Algorithm) - Computerphile
+399574 | 10494 | 185 | 427 | Von Neumann Architecture - Computerphile
+164096 | 4516 | 117 | 250 | Smack a Mac (25 years of stress relief) - Computerphile
+385986 | 9936 | 111 | 990 | AI Self Improvement - Computerphile
+147986 | 3213 | 34 | 351 | Should Everybody Learn to Code? - Computerphile
+58827 | 2027 | 34 | 132 | ZX Spectrum Prototype - Computerphile
+267935 | 6323 | 101 | 511 | Quantum Computing 'Magic' - Computerphile
+162524 | 4381 | 50 | 530 | Original Elite on the BBC B - Computerphile
+100719 | 2580 | 27 | 189 | Multiple Dimension Error Correction - Computerphile
+51959 | 1503 | 31 | 111 | 3D Scanning - Computerphile
+74330 | 2857 | 43 | 241 | Multi Programming - Computerphile
+272572 | 7830 | 70 | 315 | Crypto-jacking - Computerphile
+55053 | 2465 | 28 | 229 | Early Unix Computer Games - Computerphile
+266175 | 8706 | 115 | 1185 | GPT3: An Even Bigger Language Model - Computerphile
+76768 | 2314 | 38 | 287 | RegEx Roman Numerals - Computerphile
+224918 | 4049 | 49 | 478 | Programming BASIC and Sorting - Computerphile
+59760 | 1171 | 504 | 134 | Cellphones & Big Data - Computerphile
+56445 | 1212 | 112 | 163 | In Flight Virtual Reality - Computerphile
+103543 | 2275 | 100 | 157 | Sound Recognition - Computerphile
+27499 | 668 | 30 | 59 | Crowd-Sourced Sports Coverage - Computerphile
+51957 | 917 | 359 | 269 | Cloud Computing (Cloudy with a Chance of Pizza) - Computerphile
+45019 | 2169 | 18 | 218 | Pascal (Not Just Nickel & Dime) - Computerphile
+53190 | 1353 | 107 | 161 | Wildcards - Computerphile
+392434 | 6064 | 280 | 367 | Deep Learning - Computerphile
+64154 | 1771 | 44 | 161 | Essentials: Hidden Pointers - Computerphile
+156068 | 2654 | 53 | 173 | How Broadband ADSL Works - Computerphile
+57543 | 2178 | 85 | 252 | Brute Forcing The Countdown Numbers Game - Computerphile
+76701 | 2432 | 21 | 159 | 64 Shades of Martian Grey - Computerphile
+361250 | 7008 | 50 | 366 | Finding the Edges (Sobel Operator) - Computerphile
+45956 | 1705 | 8 | 89 | Brian Kernighan Q&A 2/3 - Computerphile
+471040 | 10717 | 164 | 1011 | Emoji and the Levitating Businessman - Computerphile
+137155 | 3197 | 48 | 280 | Reason for ARM (Acorn Archimedes at 30) - Computerphile
+67604 | 1400 | 135 | 116 | Funky Music from Functional Programming - Computerphile
+114742 | 2473 | 19 | 181 | 5 Hole Paper Tape - Computerphile
+208129 | 5049 | 45 | 186 | Securing Stream Ciphers (HMAC) - Computerphile
+789597 | 11112 | 239 | 742 | Chip & PIN Fraud Explained - Computerphile
+35983 | 1080 | 46 | 116 | GSM Phone on a Conference Badge - Computerphile
+85408 | 2484 | 110 | 280 | Code vs Data (Metaprogramming) - Computerphile
+117814 | 3002 | 54 | 286 | Hello World (Assemblers, Considered Harmful?!) - Computerphile
+293487 | 9792 | 84 | 702 | Sega Game Coding in Assembly - Computerphile
+67181 | 1496 | 36 | 192 | Credit Cards and Invisible Computing - Computerphile
+334588 | 7632 | 187 | 405 | Unicorn AI - Computerphile
+139130 | 5982 | 226 | 279 | Low Spec Gaming - Computerphile
+132336 | 3972 | 149 | 198 | Scaling Blockchains - Computerphile
+32328 | 958 | 11 | 64 | Porting Compilers - Computerphile
+1094693 | 26107 | 414 | 988 | Programming Loops vs Recursion - Computerphile
+79681 | 2150 | 15 | 134 | Reverse Polish Grows on Trees - Computerphile
+43882 | 2016 | 37 | 161 | Story of Mel - Computerphile
+100566 | 2105 | 25 | 245 | The Grid, CERN's Global Supercomputer - Computerphile
+56002 | 1407 | 41 | 77 | Brain Scanner - Computerphile
+244614 | 5460 | 51 | 240 | K-means & Image Segmentation - Computerphile
+177880 | 2835 | 89 | 229 | Apple's $200,000 Computer - Computerphile
+117317 | 3510 | 54 | 367 | Micropython Name Badge - Computerphile
+329361 | 8587 | 203 | 660 | Essentials: Pointer Power! - Computerphile
+572139 | 9346 | 309 | 2185 | Mac or PC? - Computerphile
+77798 | 2794 | 28 | 228 | Why My Computer Wants to Forget (How Dynamic Memory Works) - Computerphile
+96919 | 2595 | 40 | 283 | Program, Interrupted - Computerphile
+187848 | 3034 | 32 | 124 | Zig Zag Decryption - Computerphile
+73973 | 1750 | 27 | 154 | Software Defined Networking - Computerphile
+192937 | 3576 | 73 | 482 | The Interlaced Video Problem - Computerphile
+55288 | 1314 | 22 | 122 | Sinclair & The ZX Spectrum - Computerphile
+43885 | 891 | 150 | 89 | Reacting to Social Media - Computerphile
+65638 | 2445 | 134 | 126 | Prime Numbers & RSA Encryption Algorithm - Computerphile
+70307 | 2206 | 35 | 155 | Error Correction & International Book Codes - Computerphile
+289884 | 6147 | 109 | 442 | Computers Without Memory - Computerphile
+132230 | 2569 | 42 | 198 | Digital Images - Computerphile
+64903 | 1951 | 29 | 108 | Origins of the Web - Computerphile
+135022 | 6546 | 209 | 1065 | Discussing node.js - Computerphile
+210052 | 4625 | 111 | 438 | Computer Science ∩ Mathematics (Type Theory) - Computerphile
+336145 | 5560 | 185 | 345 | Fuzzy Logic - Computerphile
+177504 | 3611 | 47 | 189 | Exploiting the Tiltman Break - Computerphile
+122133 | 3047 | 41 | 179 | Unrolling the Loops - Computerphile
+94955 | 2830 | 46 | 258 | Secure Copy Vulnerability (SCP) - Computerphile
+574161 | 13840 | 174 | 454 | AES Explained (Advanced Encryption Standard) - Computerphile
+44658 | 2954 | 14 | 324 | Reflections on Trusting Trust - Computerphile
+95729 | 4043 | 69 | 639 | The Joys of Updating & Upgrading - Computerphile
+141379 | 3418 | 71 | 382 | Hello (World) Abstraction! - Computerphile
+44048 | 1777 | 18 | 93 | Videogame Legends - Computerphile
+276408 | 3919 | 113 | 530 | Home-Made Code - Computerphile
+73009 | 2905 | 176 | 282 | Festive Fractals - Computerphile
+757068 | 23269 | 636 | 1237 | Cracking Enigma in 2021 - Computerphile
+56267 | 1169 | 30 | 91 | Wobbly RAM & ZX81 Drawbacks - Computerphile
+35555 | 815 | 43 | 72 | Avatars & In-Flight VR - Computerphile
+209504 | 4522 | 172 | 467 | How Digital Audio Works - Computerphile
+137766 | 3690 | 204 | 301 | Zero Knowledge Proofs - Computerphile
+58453 | 1516 | 47 | 159 | Anti Bank-Fraud Technology - Computerphile
+271481 | 4777 | 30 | 169 | JPEG 'files' & Colour (JPEG Pt1)- Computerphile
+907152 | 32269 | 494 | 2547 | Internationalis(z)ing Code - Computerphile
+94624 | 3312 | 24 | 145 | Active (Machine) Learning - Computerphile
+78148 | 3223 | 20 | 380 | ALGOL 60 at 60 - Computerphile
+209032 | 3346 | 54 | 281 | Pushing the Atari Limits - Computerphile
+345916 | 6863 | 81 | 403 | AND OR NOT - Logic Gates Explained - Computerphile
+164457 | 5325 | 101 | 270 | What is Big Data? - Computerphile
+129177 | 3304 | 261 | 400 | Now Hiring? (What Computing Companies Look For) - Computerphile
+1127329 | 21840 | 329 | 361 | Hashing Algorithms and Security - Computerphile
+35027 | 901 | 199 | 163 | Virtual Humans (Embodied Conversational Agents) - Computerphile
+63012 | 2011 | 13 | 97 | Babbage's Puzzle - Computerphile
+75226 | 2449 | 91 | 298 | Curried Functions - Computerphile
+151914 | 7361 | 46 | 264 | Feistel Cipher - Computerphile
+223403 | 5926 | 187 | 448 | Coding Trees in Python - Computerphile
+624935 | 22618 | 146 | 862 | Where GREP Came From - Computerphile
+296373 | 5372 | 254 | 597 | How Intelligent is Artificial Intelligence? - Computerphile
+883349 | 16584 | 250 | 682 | TOR Hidden Services - Computerphile
+151414 | 4417 | 62 | 211 | Optical Character Recognition (OCR) - Computerphile
+526597 | 12832 | 201 | 660 | Physics of Computer Chips - Computerphile
+76272 | 989 | 18 | 87 | Empty Data Centre - Computerphile
+28025 | 960 | 63 | 77 | Ubicomp (Ubiquitous Computing) - Computerphile
+402712 | 12564 | 117 | 752 | Have You Been Pwned? - Computerphile
+85145 | 2318 | 25 | 284 | EXTRA BITS - Follow the Cookie Trail - Computerphile
+126545 | 2115 | 39 | 117 | Flip Flops, Latches & Memory Details - Computerphile
+132503 | 3240 | 190 | 178 | Raspberry Pi 4 on the Raspberry Pi 4 - Computerphile
+57058 | 2431 | 104 | 231 | Random Boolean Networks - Computerphile
+72166 | 1262 | 32 | 119 | Piracy, Pictures and Metadata - Computerphile
+101866 | 3199 | 133 | 324 | Atomic Processing - Computerphile
+251741 | 6431 | 59 | 544 | Getting Sorted & Big O Notation - Computerphile
+37120 | 1376 | 50 | 133 | Enhancing Video Conferencing - Computerphile
+993921 | 17222 | 210 | 833 | Cookie Stealing - Computerphile
+119839 | 3188 | 64 | 250 | GUI: Under the Hood - Computerphile
+52449 | 2032 | 262 | 246 | Program Correctness - Computerphile
+70091 | 1989 | 45 | 189 | What's Behind Port Smash? - Computerphile
+232273 | 6276 | 145 | 418 | AI & Logical Induction - Computerphile
+42758 | 1611 | 92 | 116 | Hacked Star Map - Computerphile
+561762 | 12593 | 231 | 350 | How Secure Shell Works (SSH) - Computerphile
+114701 | 2803 | 38 | 210 | Network Address Translation - Computerphile
+92929 | 3002 | 35 | 242 | Binary Coded Decimal (BCD) & Douglas Adams' 42 - Computerphile
+14179 | 389 | 18 | 36 | Mini Battle Robot - Computerphile
+82036 | 2058 | 94 | 282 | Bitcoin, Blockchain Forks & Lightning - Computerphile
+534869 | 13801 | 207 | 448 | Secret Key Exchange (Diffie-Hellman) - Computerphile
+93742 | 2422 | 52 | 221 | Video Streaming Problems - Computerphile
+102055 | 2882 | 92 | 239 | Using Regular Expressions - Computerphile
+64566 | 1632 | 184 | 328 | Video Editing with Free Software (Accompanies "Free Software" video) - Computerphile
+75534 | 1687 | 227 | 242 | A New Golden Age of Video Games - Computerphile
+42843 | 1703 | 80 | 139 | Gaming Museum - Computerphile
+208854 | 5282 | 41 | 272 | Bicubic Interpolation - Computerphile
+681781 | 10392 | 131 | 469 | CNN: Convolutional Neural Networks Explained - Computerphile
+62727 | 1841 | 41 | 145 | Mixed Reality Continuum - Computerphile
+176561 | 2933 | 151 | 209 | Where's the Money in Free Software? - Computerphile
+83664 | 2196 | 42 | 149 | OS Context Switching - Computerphile
+122188 | 3521 | 32 | 228 | Double Ratchet Messaging Encryption - Computerphile
+78270 | 2215 | 45 | 203 | Code Libraries - Computerphile
+834666 | 18068 | 174 | 755 | Man in the Middle Attacks & Superfish - Computerphile
+590966 | 10972 | 134 | 493 | Why Use Binary? - Computerphile
+87350 | 2512 | 156 | 246 | Immutability - Computerphile
+64872 | 1176 | 32 | 72 | Arduino Programs & Sketches- Computerphile
+414918 | 8044 | 186 | 510 | A Universe of Triangles - Computerphile
+696029 | 10807 | 360 | 763 | How Computer Memory Works - Computerphile
+1387412 | 15101 | 974 | 1129 | Secrets of the Deep Dark Web (Deep Dark Web Pt2) - Computerphile
+89597 | 2005 | 38 | 94 | Nuggets of Data Gold - Computerphile
+37710 | 1527 | 10 | 142 | Data Analysis 9: Data Regression - Computerphile
+53873 | 1800 | 8 | 124 | Hardware vs Software & Digital Video - Computerphile
+30010 | 436 | 54 | 88 | EXTRA BITS - Hacktop Real-Time Boot Comparison - Computerphile
+627876 | 16599 | 229 | 4404 | What's your Favourite Programming Language? (sound check Q) - Computerphile
+93757 | 2468 | 22 | 101 | Data Analysis 2: Data Visualisation - Computerphile
+1354163 | 28603 | 611 | 2084 | Wana Decrypt0r (Wanacry Ransomware) - Computerphile
+38249 | 703 | 70 | 42 | Fire Pong Details - Computerphile
+65998 | 1284 | 57 | 181 | Illegal Immigration & the Known Unknowns - Computerphile
+65338 | 2116 | 71 | 236 | MIDI & Digital Music Making - Computerphile
+59725 | 1724 | 64 | 103 | The Indie Advantage (and criticism) - Computerphile
+41139 | 1882 | 22 | 130 | RWALL (Remote Write to All) - Computerphile
+75832 | 1854 | 68 | 135 | Malware Overview - Computerphile
+79735 | 2158 | 97 | 170 | Satellite Navigation - Computerphile
+41276 | 1261 | 21 | 120 | 3D Rock Art Scanner - Computerphile
+31157 | 1145 | 37 | 110 | High Speed Internet in a Field - Computerphile
+99888 | 3995 | 83 | 434 | GOTO, Goto & Goto - Computerphile
+220020 | 4382 | 36 | 319 | Error Correction - Computerphile
+54819 | 1162 | 346 | 119 | Brain Controlled Movie - Computerphile
+223070 | 4014 | 59 | 249 | Fibonacci Programming - Computerphile
+240546 | 7189 | 38 | 347 | Reverse Polish Notation and The Stack - Computerphile
+333210 | 8265 | 72 | 308 | Elliptic Curves - Computerphile
+116261 | 2723 | 39 | 258 | 1966 Computing Power (Elliott 903) - Computerphile
+208074 | 6966 | 84 | 299 | TLS Handshake Explained - Computerphile
+17998 | 433 | 25 | 42 | 3D Light Cube - Computerphile
+214650 | 4347 | 49 | 208 | Programming in PostScript - Computerphile
+1051904 | 20114 | 226 | 628 | Secrets Hidden in Images (Steganography) - Computerphile
+220055 | 8432 | 62 | 514 | 128 Bit or 256 Bit Encryption? - Computerphile
+96441 | 3992 | 92 | 552 | Net Neutrality - Computerphile
+54105 | 998 | 216 | 167 | Texting Cabbage with a Recorder - Computerphile
+1108435 | 12802 | 272 | 530 | Turing's Enigma Problem (Part 1) - Computerphile
+116237 | 4004 | 44 | 279 | Code Checking Automation - Computerphile
+174517 | 5233 | 88 | 560 | AI Safety - Computerphile
+43697 | 1343 | 28 | 81 | Computers in Film & TV - Computerphile
+74222 | 772 | 99 | 60 | Blogging Guitar - Computerphile
+498177 | 9098 | 329 | 445 | The True Power of the Matrix (Transformations in Graphics) - Computerphile
+600973 | 13597 | 138 | 340 | Cross Site Request Forgery - Computerphile
+91192 | 1835 | 747 | 663 | The Future of Desktop Computing? - Computerphile
+98039 | 1711 | 17 | 73 | Faces & the Local Binary Pattern - Computerphile
+332844 | 7141 | 69 | 664 | Entropy in Compression - Computerphile
+105534 | 2346 | 122 | 215 | How Alexa Works (Probably!) - Computerphile
+30250 | 618 | 18 | 44 | EXTRA BITS - BBC Micro and Teletext - Computerphile
+44614 | 1198 | 10 | 109 | EXTRA BITS - More on E-Reader Text Layouts - Computerphile
+233520 | 7125 | 222 | 947 | AI? Just Sandbox it... - Computerphile
+65906 | 1838 | 60 | 133 | Sun Server Restoration (Update) - Computerphile
+88645 | 1970 | 191 | 149 | Digital Audio Compression - Computerphile
+798958 | 15683 | 388 | 654 | A* (A Star) Search Algorithm - Computerphile
+79428 | 1409 | 238 | 61 | Avoid the Middle-Man (Smart Contracts) - Computerphile
+105647 | 1882 | 58 | 89 | Why ARM Owes Apple - Computerphile
+177619 | 8298 | 74 | 322 | DNS Cache Poisoning - Computerphile
+31607 | 831 | 8 | 35 | Data Analysis 8: Classifying Data - Computerphile
+114212 | 4140 | 62 | 200 | Multi-Dimensional Data (as used in Tensors) - Computerphile
+159289 | 4780 | 316 | 291 | Lisp, The Quantum Programmer's Choice - Computerphile
+65647 | 1860 | 15 | 118 | Same Story, Different Notation - Computerphile
+110352 | 2410 | 29 | 134 | Home-Made Z80 Retro Computer - Computerphile
+43546 | 1213 | 7 | 37 | Data Analysis 7: Clustering - Computerphile
+316040 | 9874 | 257 | 818 | Spectre & Meltdown - Computerphile
+116559 | 2748 | 52 | 153 | Google Tango - Computerphile
+488248 | 12081 | 142 | 650 | Functional Programming & Haskell - Computerphile
+110193 | 2347 | 67 | 196 | Data Harvesting Problem - Computerphile
+34457 | 1875 | 17 | 156 | Laser Cut Music Box - Computerphile
+818724 | 18697 | 359 | 1859 | Deadly Truth of General AI? - Computerphile
+218810 | 7658 | 74 | 1914 | Favourite Shortcut Key? (Soundcheck Question) - Computerphile
+451943 | 11297 | 169 | 600 | End to End Encryption (E2EE) - Computerphile
+71349 | 1940 | 13 | 191 | People's Computer: Sinclair ZX81 - Computerphile
+296093 | 5828 | 69 | 132 | The Font Magicians - Computerphile
+1479685 | 39413 | 627 | 571 | Characters, Symbols and the Unicode Miracle - Computerphile
+188355 | 3174 | 36 | 125 | Fishy Codes: Bletchley's Other Secret - Computerphile
+387502 | 7131 | 256 | 718 | How Bitcoin Works - Computerphile
+360325 | 9986 | 177 | 951 | General AI Won't Want You To Fix its Code - Computerphile
+146264 | 4005 | 63 | 444 | Assembly Programming & Colour - Computerphile
+156998 | 4357 | 77 | 434 | Linked Lists - Computerphile
+38972 | 1214 | 37 | 91 | Games as Medicine - Computerphile
+19094 | 395 | 11 | 29 | EXTRA BITS: More on 3D X-Ray Imaging - Computerphile
+2717567 | 93779 | 885 | 1802 | The Problem with Time & Timezones - Computerphile
+173101 | 4557 | 32 | 325 | Near to the Metal - Computerphile
+406708 | 6348 | 159 | 294 | Web vs Internet (Deep Dark Web Pt1) - Computerphile
+156541 | 2874 | 31 | 197 | How Cell Phones Reveal Your Location - Computerphile
+421039 | 8164 | 83 | 308 | Elegant Compression in Text (The LZ 77 Method) - Computerphile
+138577 | 3018 | 97 | 563 | The Hair Algorithm - Computerphile
+63038 | 1133 | 16 | 61 | Computer That Changed Everything (Altair 8800) - AUDIO FIX - Computerphile
+65335 | 1428 | 30 | 77 | Sun Microsystems (Re-Encode) - Computerphile
+144876 | 3720 | 39 | 262 | Lights and Shadows in Graphics - Computerphile
+960701 | 20153 | 283 | 977 | Maze Solving - Computerphile
+121635 | 2557 | 17 | 180 | Inside the Computer (EDSAC) - Computerphile
+160242 | 4214 | 114 | 336 | What Happens When I Press a Key? - Computerphile
+59468 | 1277 | 109 | 83 | DJ Marco and Working for Apple - Computerphile
+148930 | 3887 | 203 | 435 | Halting Problem in Python - Computerphile
+58046 | 1461 | 24 | 116 | Reed-Muller Code (64 Shades of Grey pt2) - Computerphile
+47353 | 1745 | 164 | 165 | Computing With Art - Computerphile
+74255 | 3572 | 43 | 230 | How the Computer Mouse Works - Computerphile
+67927 | 1630 | 44 | 92 | Slopes of Machine Learning - Computerphile
+112142 | 2852 | 41 | 177 | PDF Workflow - Computerphile
+43672 | 939 | 181 | 31 | Digital Theatre Props - Computerphile
+96913 | 1902 | 20 | 163 | Turing Meets Paradoxes (History of Undecidability Part 3) - Computerphile
+28147 | 677 | 44 | 31 | EXTRA BITS: The Danger Theory Explained - Computerphile
+22076 | 718 | 37 | 19 | Digital Storytelling - Computerphile
+198265 | 4744 | 191 | 445 | JSON, not Jason - Computerphile
+55474 | 2459 | 38 | 179 | RFC (Request For Comment) Explained - Computerphile
+54177 | 1510 | 21 | 108 | Parsing Bottom Up - Computerphile
+25790 | 739 | 57 | 131 | Autodrive Project - Computerphile
+74860 | 2121 | 7 | 89 | More from Numberphile's Pixar Video - Computerphile
+114213 | 2356 | 55 | 167 | Shellshock Code & the Bash Bug - Computerphile
+1236224 | 21877 | 244 | 2107 | The Most Difficult Program to Compute? - Computerphile
+196155 | 4480 | 135 | 80 | Botnets - Computerphile
+137270 | 3253 | 325 | 687 | GNU/Linux & Video Editing - Computerphile
+62005 | 2312 | 69 | 183 | Atomic Auto-focus - Computerphile
+71995 | 2173 | 27 | 112 | Computing & Air Traffic Control - Computerphile
+317785 | 6693 | 150 | 510 | Cracking Windows by Atom Bombing - Computerphile
+187547 | 3778 | 90 | 301 | Explaining Dirty Cow - Computerphile
+452735 | 13287 | 227 | 620 | Generative Adversarial Networks (GANs) - Computerphile
+1689236 | 41414 | 590 | 774 | Floating Point Numbers - Computerphile
+1411226 | 32106 | 304 | 493 | The Attack That Could Disrupt The Whole Internet - Computerphile
+61650 | 1446 | 60 | 137 | Technicalities of Net Neutrality - Computerphile
+99031 | 4617 | 44 | 278 | Vectoring Words (Word Embeddings) - Computerphile
+161957 | 3051 | 56 | 404 | TLU Three Letter Username Obsession - Computerphile
+112849 | 2747 | 202 | 271 | Marco's Set-Up - Computerphile
+42013 | 1329 | 19 | 164 | First Time on the Internet (Internet at 50) - Computerphile
+69560 | 2085 | 38 | 150 | Press Play on Tape (Bandersnatch) - Computerphile
+60259 | 2256 | 98 | 287 | "Real" Programmers & Drum Memory - Computerphile
+367935 | 8427 | 108 | 352 | 2FA: Two Factor Authentication - Computerphile
+112864 | 2965 | 140 | 274 | Hyper History and Cyber War - Computerphile
+330264 | 9522 | 132 | 570 | The Golden Key: FBI vs Apple iPhone - Computerphile
+97019 | 1594 | 23 | 82 | Addressing Memory (Pt1) - Computerphile
+38726 | 772 | 19 | 19 | EXTRA BITS - What Makes a Computer? - Computerphile
+2033676 | 58878 | 2459 | 5921 | Why Electronic Voting is a BAD Idea - Computerphile
+54576 | 1747 | 36 | 117 | Pong, Python & PyGame 01 - Computerphile
+478903 | 8220 | 110 | 480 | Holy Grail of AI (Artificial Intelligence) - Computerphile
+78553 | 1677 | 34 | 147 | Retro Computer Kit - Computerphile
+95309 | 3284 | 41 | 293 | Endianness Explained With an Egg - Computerphile
+69394 | 1447 | 8 | 116 | 3D & Multiple Dimensions in Digital Images - Computerphile
+274071 | 6384 | 59 | 328 | Why do CPUs Need Caches? - Computerphile
+156934 | 5244 | 127 | 370 | Regular Expressions - Computerphile
+90832 | 2414 | 59 | 329 | Email - Computerphile
+102318 | 5344 | 45 | 266 | How Traceroute Works (Building a Movie Scene 'Trace' Map) - Computerphile
+63872 | 2099 | 42 | 79 | Computer Science's Wonder Woman: Ada Lovelace - Computerphile
+75878 | 1881 | 40 | 144 | Anti-Counterfeiting & Conductive Inks - Computerphile
+48823 | 986 | 367 | 99 | Videogames with Simple Controls - Computerphile
+61142 | 1677 | 37 | 156 | How Software Deals with Key Presses - Computerphile
+43273 | 1008 | 58 | 179 | Radio Shack's TRS80 - Computerphile
+44075 | 1278 | 20 | 64 | Floating Point Numbers (Part2: Fp Addition) - Computerphile
+48400 | 1315 | 15 | 159 | Gesture Controls - Computerphile
+29371 | 547 | 36 | 76 | Swim Tracking App - Computerphile
+265981 | 8651 | 102 | 518 | Multithreading Code - Computerphile
+53513 | 1247 | 107 | 78 | Homotopy Type Theory: Vladimir Voevodsky  - Computerphile
+68474 | 1196 | 41 | 108 | Consensus & Organising Coffee - Computerphile
+85028 | 4004 | 24 | 165 | Mike Pound Q&A - Computerphile
+120033 | 3495 | 102 | 254 | Multiple Processor Systems - Computerphile
+79584 | 2349 | 109 | 197 | World's Biggest Drivable Hexapod Robot - Computerphile
+97178 | 2719 | 51 | 248 | Atari 2600 VCS Programming - Computerphile
+150691 | 3999 | 22 | 202 | Magic "Nothing Up My Sleeve" Numbers - Computerphile
+320550 | 8418 | 85 | 665 | How WanaCrypt Encrypts Your Files - Computerphile
+90367 | 2166 | 22 | 82 | Typesetters in the '80s - Computerphile
+239552 | 5827 | 107 | 652 | Follow the Cookie Trail - Computerphile
+145160 | 3010 | 43 | 141 | Angle Brackets - Computerphile
+98575 | 2501 | 28 | 231 | IBM PC - Computerphile
+45492 | 1863 | 4 | 186 | EXTRA BITS - Behind the scenes on Computerphile - Computerphile
+71190 | 1502 | 530 | 436 | Fake News Consumers - Computerphile
+64761 | 2462 | 46 | 221 | Hello World on Sega Megadrive - Computerphile
+47138 | 897 | 122 | 71 | Designing Software for Collaboration - Computerphile
+32781 | 1037 | 26 | 86 | Pong, Python & PyGame 11 - Computerphile
+116365 | 2790 | 449 | 198 | Parsing - Computerphile
+102453 | 2737 | 102 | 178 | Bluetooth & Sync - Computerphile
+63422 | 1822 | 41 | 75 | Optical Flow - Computerphile
+250697 | 6315 | 65 | 686 | Diceware & Passwords - Computerphile
+50351 | 1204 | 19 | 91 | "War Games" IMSAI 8080 - Computerphile
+237767 | 5187 | 334 | 503 | Essentials: Functional Programming's Y Combinator - Computerphile
+175098 | 2452 | 30 | 212 | Why Internet Slows Down When it's Busy - Computerphile
+116034 | 2801 | 29 | 124 | Stereo 3D Vision (How to avoid being dinner for Wolves) - Computerphile
+560808 | 8912 | 694 | 987 | Programming Paradigms - Computerphile
+337455 | 12727 | 169 | 682 | Deep Learned Super-Sampling (DLSS) - Computerphile
+102108 | 3361 | 69 | 215 | Ordered Dithering - Computerphile
+104373 | 2002 | 51 | 206 | Atari ST: Accidental Musical Workhorse - Computerphile
+156690 | 4511 | 182 | 364 | GUI Programming Introduction - Computerphile
+167846 | 4663 | 59 | 187 | Deep Learning - Computerphile
+308195 | 5302 | 599 | 807 | Bitcoin Problems - Computerphile
+772532 | 22240 | 1649 | 2674 | Why Asimov's Laws of Robotics Don't Work - Computerphile
+193080 | 3559 | 418 | 308 | Anti-Learning (So Bad, it's Good) - Computerphile
+85749 | 1592 | 25 | 130 | Geometric Face Recognition - Computerphile
+90258 | 3958 | 101 | 492 | Infinite Data Structures: To Infinity & Beyond! - Computerphile
+100471 | 3295 | 54 | 225 | How eBooks Work - Computerphile
+375967 | 5497 | 288 | 138 | What is Bootstrapping? - Computerphile
+122200 | 2749 | 25 | 292 | Barber & Russell Paradoxes (History of Undecidability Part 2) - Computerphile
+53629 | 2893 | 28 | 144 | ALOHAnet: Grandfather of All Computer Networks - Computerphile
+95529 | 6447 | 79 | 491 | How NOT to Sample Audio! - Computerphile
+237851 | 6287 | 79 | 416 | How Face ID Works... Probably - Computerphile
+149439 | 3155 | 32 | 229 | The Visibility Problem - Computerphile
+53796 | 1610 | 25 | 83 | A New Perspective (Multi-Person 3D system) - Computerphile
+69817 | 1627 | 41 | 113 | Search Engine Relevance - Computerphile
+71652 | 2428 | 30 | 218 | The UNCOL Problem - Computerphile
+73276 | 1692 | 6 | 78 | EXTRA BITS - Printing and Typesetting History - Computerphile
+166527 | 3377 | 52 | 260 | Opening up the 30yr old Mac - Computerphile
+161945 | 4117 | 98 | 311 | The Video Conferencing Problem - Computerphile
+48689 | 1103 | 35 | 142 | Using CP/M - Computerphile
+184513 | 4165 | 48 | 227 | Chomsky Hierarchy - Computerphile
+121805 | 2516 | 47 | 206 | IP Addresses and the Internet - Computerphile
+261136 | 5115 | 57 | 701 | Raspberry Pi Hardware - Computerphile
+70255 | 2344 | 48 | 171 | Web 3.0 & Privacy - Computerphile
+80578 | 1525 | 423 | 169 | Raspberry Pi Lego Robot - Computerphile
+43633 | 1390 | 58 | 99 | Robotic Fish - Computerphile
+432035 | 6784 | 100 | 384 | Heartbleed, Running the Code - Computerphile
+42542 | 848 | 38 | 91 | Augmented Reality (AR) - Computerphile
+63579 | 2186 | 14 | 105 | Error Diffusion Dithering - Computerphile
+80975 | 2941 | 17 | 166 | 50 Years of Computer Science: Professor Brailsford Q&A - Computerphile
+86670 | 2468 | 29 | 74 | Encoder Decoder Network - Computerphile
+285581 | 4889 | 53 | 391 | Busy Beaver Turing Machines - Computerphile
+183154 | 2999 | 195 | 213 | Why Don Knuth Doesn't Use Email - Computerphile
+68677 | 1634 | 78 | 78 | Artificial Immune Systems - Computerphile
+66833 | 2552 | 32 | 286 | More GPT-2, the 'writer' of Unicorn AI - Computerphile
+360356 | 11406 | 444 | 903 | Computing Limit - Computerphile
+98119 | 2253 | 42 | 250 | High Performance Computing (HPC) - Computerphile
+240880 | 7020 | 42 | 288 | Key Exchange Problems - Computerphile
+61331 | 1807 | 18 | 72 | Implementation - Computerphile
+103308 | 2866 | 12 | 292 | Error Detection and Flipping the Bits - Computerphile
+140794 | 3109 | 36 | 220 | Undecidability Tangent (History of Undecidability Part 1) - Computerphile
+68535 | 1970 | 46 | 198 | BEAST & The GPU Cluster - Computerphile
+260042 | 5225 | 45 | 723 | Silicon Brain: 1,000,000 ARM cores - Computerphile
+305786 | 5251 | 75 | 322 | Blindly Accepting Terms and Conditions? - Computerphile
+132207 | 4167 | 34 | 211 | Modes of Operation - Computerphile
+50902 | 1478 | 28 | 140 | Captain Buzz: Smartphone Pilot - Computerphile
+207010 | 7362 | 78 | 275 | Transport Layer Security (TLS) - Computerphile
+128741 | 2614 | 40 | 172 | Turing, Tutte & Tunny - Computerphile
+517031 | 9930 | 1302 | 1112 | Where HTML beats C? - Computerphile
+45416 | 1281 | 28 | 88 | Improving Intermediate Codes - Computerphile
+142449 | 3889 | 48 | 180 | Parsing Explained - Computerphile
+110683 | 3091 | 222 | 285 | Alderson Loop - Computerphile
+234904 | 3783 | 111 | 145 | The Tweeting Vending Machine Hack - Computerphile
+95904 | 2151 | 109 | 245 | Dirty Cow Demo - Computerphile
+217039 | 5874 | 65 | 184 | Data Analysis 0: Introduction to Data Analysis - Computerphile
+39276 | 1153 | 21 | 109 | Atari 2600 VCS & Adventure - Computerphile
+362267 | 10933 | 107 | 768 | How Password Managers Work - Computerphile
+68624 | 1724 | 31 | 131 | Bootstrapping EDSAC: Initial Orders - Computerphile
+240687 | 4110 | 45 | 332 | Space Carving - Computerphile
+230802 | 3695 | 506 | 679 | XP to Ubuntu with an 8yr old Hacktop - Computerphile
+65716 | 1492 | 19 | 107 | IT Crowd Altair - Lifting the Lid - Computerphile
+373995 | 7000 | 71 | 478 | Compression - Computerphile
+87190 | 2329 | 20 | 140 | Mobile Chip Design - Computerphile
+113789 | 3713 | 60 | 209 | Self Compiling Compilers - Computerphile
+71469 | 1396 | 57 | 86 | The Danger Theory - Computerphile
+149496 | 4675 | 77 | 411 | Erlang Programming Language - Computerphile
+242513 | 5446 | 58 | 392 | ARM Don't Make Computer Chips - Computerphile
+125526 | 1221 | 96 | 108 | Festive Flashing Lights - Computerphile
+1482823 | 20947 | 777 | 980 | "C" Programming Language: Brian Kernighan - Computerphile
+66940 | 1117 | 46 | 106 | The Trouble with Missing Data - Computerphile
+148357 | 2771 | 244 | 133 | EXTRA BITS - UTF-8 'nearly' works - Computerphile
+152542 | 5865 | 428 | 560 | What NOT to do: Self Modifying Code - Computerphile
+48131 | 1492 | 52 | 73 | Tanglewood Update - Computerphile
+158559 | 3789 | 37 | 280 | Babbage's Analytical Engine - Computerphile
+64293 | 1861 | 41 | 200 | Circuit Board Building Robot - Computerphile
+335190 | 11296 | 134 | 550 | How DNS Works - Computerphile
+207566 | 4568 | 134 | 673 | The Singularity & Friendly AI? - Computerphile
+70614 | 1494 | 8 | 98 | EXTRA BITS - Data Security and Flash Memory - Computerphile
+107401 | 3384 | 225 | 738 | Bitcoin Power Problem - Computerphile
+309930 | 4124 | 32 | 303 | Real Life Holodeck with an Oculus Rift - Computerphile
+30320 | 874 | 622 | 383 | Discussion, Consumer Tech Stasis? - Computerphile
+124758 | 2044 | 17 | 52 | Turing Machine Primer - Computerphile
+88091 | 2876 | 16 | 179 | Separable Filters and a Bauble - Computerphile
+121981 | 1543 | 94 | 105 | The Computer That Changed Everything (Altair 8800) - Computerphile
+63764 | 1536 | 19 | 88 | Correcting Those Errors - Computerphile
+85478 | 1789 | 181 | 144 | BGP: Border Gateway Protocol - Computerphile
+79904 | 2095 | 42 | 221 | Magnetic Media (Floppies and Tapes) - Computerphile
+62988 | 1717 | 33 | 277 | DEC PDP-11 & Zork - Computerphile
+210798 | 4136 | 101 | 202 | Triangles to Pixels - Computerphile
+168836 | 4339 | 86 | 197 | VPN & Remote Working - Computerphile
+574748 | 11983 | 291 | 554 | Krack Attacks (WiFi WPA2 Vulnerability) - Computerphile
+395224 | 8259 | 61 | 593 | Mainframes and the Unix Revolution - Computerphile
+310386 | 4492 | 354 | 422 | AlphaGo & Deep Learning - Computerphile
+202689 | 3905 | 24 | 223 | Security of Data on Disk - Computerphile
+45819 | 690 | 40 | 80 | Connecting Universities - Computerphile
+53451 | 1523 | 12 | 92 | EXTRA BITS: SGML HTML XML - Computerphile
+145473 | 4356 | 161 | 453 | eXploit X : "Give Me Root" - Computerphile
+151080 | 4014 | 27 | 414 | CERN Computing Centre (and mouse farm) - Computerphile
+972252 | 31356 | 268 | 1106 | Slow Loris Attack - Computerphile
+413228 | 6555 | 76 | 321 | The Problem with JPEG - Computerphile
+92910 | 2701 | 36 | 205 | 'Accidental' CrossCompiler - Computerphile
+121722 | 2533 | 21 | 147 | Virtual Machines Power the Cloud - Computerphile
+42969 | 848 | 19 | 59 | EXTRA BITS: Building a Supercomputer and Astrophysics - Computerphile
+86974 | 2798 | 92 | 324 | Functional Parsing - Computerphile
+254795 | 4674 | 48 | 241 | UNIX Special: Profs Kernighan & Brailsford - Computerphile
+194146 | 4839 | 62 | 230 | SGML HTML XML What's the Difference? (Part 1) - Computerphile
+162522 | 5059 | 104 | 492 | Quantum Instruction Set - Computerphile
+39601 | 1364 | 15 | 139 | The Archive (Centre For Computing History) - Computerphile
+43030 | 1166 | 345 | 137 | Saving Bletchley Park - Computerphile
+75047 | 1872 | 29 | 173 | Apple 2 Floppy Disk Codes - Computerphile
+290350 | 7185 | 54 | 403 | Binary: Plusses & Minuses (Why We Use Two's Complement) - Computerphile
+567506 | 16865 | 123 | 1158 | What on Earth is Recursion? - Computerphile
+74155 | 2185 | 38 | 162 | Additional Processors - Computerphile
+78852 | 2577 | 24 | 131 | Bell Labs' Research (Prof Brian Kernighan) - Computerphile
+43228 | 944 | 29 | 51 | The Portable 'Speccy' - Computerphile
+162291 | 6147 | 117 | 442 | GPT-2: Why Didn't They Release It? - Computerphile
+255842 | 3745 | 413 | 345 | Omnidirectional VR Treadmill - Computerphile
+1081177 | 25084 | 258 | 1113 | How TOR Works- Computerphile
+160509 | 4648 | 512 | 908 | HTML IS a Programming Language (Imperative vs Declarative) - Computerphile
+53498 | 2568 | 61 | 189 | "Anonymous" Location Data Problems - Computerphile
+52955 | 1455 | 11 | 152 | EXTRA BITS/TRITS - Huffman Trees - Computerphile
+36316 | 1920 | 25 | 163 | Why Files Become Bigger in Emails - Computerphile
+47912 | 1257 | 26 | 77 | Commodore 116 - Computerphile
+301698 | 6544 | 100 | 550 | Raspberry Pi Zero - the $5 Computer - Computerphile
+223369 | 6795 | 58 | 479 | Taming Kerberos - Computerphile
+57294 | 1936 | 397 | 514 | Inside a Crypto-Mining Operation - Computerphile
+33553 | 1147 | 18 | 94 | First Contact (Internet at 50) - Computerphile
+51622 | 1611 | 26 | 109 | Hackspace Tour - Computerphile
+307806 | 8573 | 114 | 361 | How Signal Instant Messaging Protocol Works (& WhatsApp etc) - Computerphile
+644250 | 11924 | 236 | 764 | AI's Game Playing Challenge - Computerphile
+97724 | 2793 | 209 | -1 | Stolen Bitcoin Tracing - Computerphile
+150295 | 3409 | 86 | 130 | "Code" Books (Prof Brian Kernighan) - Computerphile
+133314 | 3308 | 67 | 174 | Hardware Hacking - Computerphile
+176582 | 5683 | 136 | 581 | Millennium Bug (20yrs on) - Computerphile
+84634 | 2527 | 49 | 251 | Save our Software - Computerphile
+60853 | 1917 | 22 | 167 | Social Media Data - Computerphile
+374714 | 10009 | 190 | 1074 | Stop Button Solution? - Computerphile
+52822 | 1351 | 13 | 59 | EXTRA BITS - More on the Original Mac at 30 - Computerphile
+186991 | 4526 | 37 | 194 | Rabbits, Faces & Hyperspaces - Computerphile
+101078 | 4830 | 28 | 264 | Chacha Cipher - Computerphile
+74946 | 2365 | 30 | 245 | Wheeler Jump - Computerphile
+46340 | 1109 | 15 | 51 | EXTRA BITS: Big Data and T's & C's - Computerphile
+182778 | 5113 | 87 | 282 | Concrete Problems in AI Safety (Paper) - Computerphile
+109025 | 3166 | 76 | 133 | Reed Solomon Encoding - Computerphile
+86561 | 2363 | 28 | 238 | The Virtual Reality Cave - Computerphile
+79127 | 4282 | 51 | 362 | 1111111111111111111111111111111 & Unix Epoch - Computerphile
+49922 | 1371 | 26 | 105 | X & the Book Code - Computerphile
+169455 | 5019 | 30 | 409 | Could We Ban Encryption? - Computerphile
+182262 | 5605 | 113 | 274 | How Autofocus Works - Computerphile
+120289 | 1892 | 84 | 178 | Page Ranking and Search Engines - Computerphile
+183155 | 3188 | 86 | 273 | Inside a Data Centre - Computerphile
+59150 | 2176 | 40 | 104 | Distance Vector Algorithm (Bellman Ford) - Computerphile
+426237 | 8874 | 120 | 249 | How Blurs & Filters Work - Computerphile
+1664034 | 23246 | 1586 | 1530 | Why C is so Influential - Computerphile
+462921 | 7047 | 82 | 260 | The Great 202 Jailbreak - Computerphile
+51517 | 1393 | 24 | 120 | Research & High Performance Computing - Computerphile
+66706 | 1379 | 19 | 82 | Smile Detection - Computerphile
+115357 | 2329 | 419 | 203 | The Dreaded 404 - Computerphile
+107217 | 2169 | 171 | 46 | Paxos Agreement - Computerphile
+1067624 | 13861 | 1023 | 1679 | Just How do Macs and PCs Differ? - Computerphile
+163026 | 3477 | 35 | 163 | Secure Web Browsing - Computerphile
+45493 | 837 | 17 | 58 | Total Recall (Memory Addressing Pt2) - Computerphile
+108493 | 2280 | 34 | 768 | What Was Your 1st Computer? - Computerphile
+54412 | 2356 | 34 | 143 | Building a Data Center Inside Your Laptop - Computerphile
+77931 | 2486 | 358 | 442 | Why Bitcoin is Not Cash - Computerphile
+1501305 | 31829 | 320 | 1153 | Buffer Overflow Attack - Computerphile
+950840 | 20203 | 345 | 609 | Dijkstra's Algorithm - Computerphile
+66783 | 2240 | 16 | 173 | Brian Kernighan Q&A - Computerphile
+138432 | 2958 | 125 | 341 | Coding by SMS text message - Computerphile
+52208 | 1171 | 50 | 99 | Homotopy Type Theory Discussed - Computerphile
+99718 | 3389 | 31 | 176 | Zebras, Horses & CycleGAN - Computerphile
+318380 | 6310 | 165 | 442 | YouTube's Secret Algorithm - Computerphile
+143446 | 4319 | 79 | 373 | Current State of Quantum Computing - Computerphile
+86455 | 4701 | 33 | 285 | When Unix Landed - Computerphile
+225285 | 6967 | 103 | 815 | The Art of Abstraction - Computerphile
+125944 | 3563 | 92 | 419 | Triple Ref Pointers - Computerphile
+62675 | 1483 | 255 | 227 | Crazy Text & Security Printing - Computerphile
+299427 | 9179 | 90 | 415 | Where did Bytes Come From? - Computerphile
+181303 | 5444 | 92 | 603 | Homemade Video Arcade Machine - Computerphile
+98817 | 3289 | 101 | 491 | Contact Tracing Technology - Computerphile
+42277 | 2051 | 28 | 108 | ALGOL 68 Instead of Pascal? - Computerphile
+40063 | 644 | 38 | 57 | EXTRA BITS - Installing Ubuntu Permanently - Computerphile
+285808 | 6456 | 94 | 368 | Quick Sort - Computerphile
+65695 | 2034 | 11 | 81 | Why Build Colossus? (Bill Tutte) - Computerphile
+94834 | 3652 | 73 | 251 | Facebook's Code Checker - Computerphile
+615179 | 15890 | 205 | 1125 | Public Key Cryptography - Computerphile
+206906 | 6359 | 156 | 433 | Sorting Secret - Computerphile
+52318 | 1486 | 62 | 174 | First Microcomputer OS: CP/M - Computerphile
+232300 | 5214 | 34 | 255 | ARM Processor - Sowing the Seeds of Success - Computerphile
+78861 | 1723 | 92 | 169 | Propositions as Types - Computerphile
+75726 | 2375 | 69 | 156 | Pong, Python & Pygame 00 - Computerphile
+92227 | 1592 | 657 | 244 | iPhone at Ten - Computerphile
+63420 | 1542 | 4 | 106 | EXTRA BITS - More about Punch Cards - Computerphile
+183311 | 6159 | 113 | 416 | TCP Meltdown - Computerphile
+229465 | 4806 | 170 | 529 | Pong & Object Oriented Programming - Computerphile
+356859 | 7728 | 165 | 372 | Hill Climbing Algorithm & Artificial Intelligence - Computerphile
+118755 | 2974 | 96 | 390 | Soft Robots - Computerphile
+106299 | 3747 | 30 | 224 | AI Gridworlds - Computerphile
+129511 | 2646 | 134 | 56 | Internet Censorship Explained - Computerphile
+786245 | 16232 | 489 | 1568 | What if the Universe is a Computer Simulation? - Computerphile
+73575 | 2206 | 48 | 98 | Dealing with Dynamic Data - Computerphile
+96845 | 2748 | 92 | 375 | Pixel Noise (Music from Images) - Computerphile
+175736 | 4089 | 33 | 260 | Unix Pipeline (Brian Kernighan) - Computerphile
+155853 | 3113 | 100 | 181 | Arduino: Hobbyist Electronics to Orbit! - Computerphile
+193684 | 6014 | 83 | 319 | Will Graphene Replace Silicon? - Computerphile
+1031492 | 20888 | 234 | 2560 | How to Choose a Password - Computerphile
+83099 | 1987 | 76 | 477 | FPS & Digital Video - Computerphile
+66165 | 3121 | 30 | 168 | World's First Webcam - Computerphile
+226078 | 4865 | 97 | 215 | Life of an Indie App Developer  - Computerphile
+66155 | 1711 | 128 | 124 | Web Fonts - Computerphile
+76021 | 3224 | 53 | 158 | The First Internet Worm (Morris Worm) - Computerphile
+73242 | 1747 | 33 | 214 | The Social Media Bubble - Computerphile
+491645 | 7788 | 194 | 797 | How YouTube Works - Computerphile
+35095 | 1403 | 9 | 86 | Brian Kernighan Q&A 3/3 - Computerphile
+104167 | 1987 | 21 | 73 | The Path Towards ARM & BBC B - Computerphile
+102430 | 4367 | 40 | 191 | What are Digital Signatures? - Computerphile
+753316 | 17801 | 536 | 1003 | Lambda Calculus - Computerphile
+198856 | 4158 | 139 | 592 | True Colour of 'The Dress' #thedress (colours in digital images) - Computerphile
+146702 | 3697 | 92 | 276 | The Penguin Barcode - Computerphile
+65365 | 1695 | 6 | 73 | EXTRA BITS - Text Compression Meets Probabilities - Computerphile
+28199 | 945 | 49 | 70 | VR with 3D Printed Props - Computerphile
+142885 | 4036 | 43 | 270 | Internet of Things Problems - Computerphile
+136308 | 4429 | 88 | 208 | Computer Speeds - Computerphile
+31198 | 905 | 8 | 22 | EXTRA BITS: More on Barcodes - Computerphile
+28001 | 401 | 41 | 27 | EXTRA BITS - Making a Bootable USB in Linux - Computerphile
+128303 | 4273 | 56 | 366 | Code Golf & the Bitshift Variations - Computerphile
+67425 | 1796 | 46 | 143 | PiDP-11 Retro Computer Build - Computerphile
+599700 | 13881 | 164 | 584 | Animated GIFs and Space vs Time - Computerphile
+179071 | 3968 | 31 | 300 | The Turing Test - Computerphile
+283960 | 4552 | 88 | 173 | Is it the End for Moore's Law? - Computerphile
+63108 | 1465 | 18 | 113 | The (pink) VR Simulator - Computerphile
+279066 | 10404 | 189 | 609 | Laziness in Python - Computerphile
+131110 | 5743 | 134 | 371 | How Shazam Works (Probably!) - Computerphile
+33356 | 1094 | 26 | 102 | Pong, Python & Pygame 10 - Computerphile
+2032036 | 38069 | 810 | 888 | Hacking Websites with SQL Injection - Computerphile
+68816 | 2060 | 18 | 274 | Supercomputer and the Milky Way - Computerphile
+217439 | 8105 | 153 | 2118 | Tabs or Spaces? (Soundcheck Question) - Computerphile
+350173 | 6461 | 68 | 306 | Inside a Neural Network - Computerphile
+201645 | 4418 | 31 | 185 | Colossus & Bletchley Park - Computerphile
+124682 | 3075 | 36 | 125 | How Search Engines Treat Data - Computerphile
+208888 | 5209 | 116 | 394 | Musical Floppy Drives - Computerphile
+438840 | 10284 | 300 | 796 | Mouse Pointers & Fitts's Law - Computerphile
+175797 | 3186 | 45 | 193 | Routers, The Internet & YouTube Offline - Computerphile
+330317 | 10073 | 92 | 407 | One Encryption Standard to Rule Them All! - Computerphile
+128769 | 4288 | 31 | 117 | Data Analysis - Computerphile
+166219 | 4232 | 113 | 375 | Microsoft Hololens - Computerphile
+102127 | 7440 | 92 | 568 | Brain-Like (Neuromorphic) Computing - Computerphile
+55935 | 1714 | 103 | 80 | Privacy "Underground" - Computerphile
+60230 | 3784 | 65 | 338 | Atomic Brain? - Computerphile
+48298 | 1747 | 22 | 123 | Compaq Portable (Halt & Catch Fire) - Computerphile
+592631 | 12350 | 113 | 599 | Deep Dream (Google) - Computerphile
+117001 | 3014 | 29 | 150 | Data Analysis 1: What is Data? - Computerphile
+319884 | 7077 | 180 | 446 | Zero Size Files - Computerphile
+1090470 | 27128 | 1104 | 4950 | AI "Stop Button" Problem - Computerphile
+51274 | 1652 | 49 | 216 | YouTube Search & Discovery - Computerphile
+169101 | 2602 | 1488 | 512 | Discussing Pokémon GO - Computerphile
+273331 | 4540 | 45 | 112 | Canny Edge Detector - Computerphile
+79700 | 2464 | 20 | 82 | Data Analysis 6: Principal Component Analysis (PCA) - Computerphile
+2967046 | 59856 | 995 | 4636 | Password Cracking - Computerphile
+101454 | 2364 | 52 | 148 | Binary Addition & Overflow - Computerphile
+43590 | 1092 | 5 | 26 | Data Analysis 5: Data Reduction - Computerphile
+68561 | 1647 | 16 | 54 | Data Analysis 3: Cleaning Data - Computerphile
+229898 | 6275 | 42 | 325 | What's Up With Group Messaging? - Computerphile
+116450 | 2102 | 23 | 132 | Encryption and Security Agencies - Computerphile
+205629 | 7632 | 53 | 408 | Video Game & Complex Bokeh Blurs - Computerphile
+509838 | 7337 | 521 | 279 | P vs NP on TV - Computerphile
+12859 | 185 | 5 | 10 | EXTRA BITS - Swim Tracking App - Computerphile
+174444 | 5678 | 36 | 3080 | Welcome to Computerphile!
+109140 | 2319 | 43 | 119 | Computer Connections - Computerphile
+96210 | 2115 | 17 | 199 | Computing Aladdin's Cave - Computerphile
+95187 | 2999 | 118 | 315 | Gamer's Paradise - Computerphile
+244878 | 7220 | 84 | 709 | AI YouTube Comments - Computerphile
+104949 | 4140 | 48 | 540 | Indie Games & the Fourth Dimension - Computerphile
+569461 | 10890 | 123 | 420 | Punch Card Programming - Computerphile
+143675 | 4367 | 96 | 207 | AI Language Models & Transformers - Computerphile
+362099 | 15570 | 101 | 945 | MegaProcessor - Computerphile
+31441 | 675 | 37 | 99 | Cold Noses & Thermal Images - Computerphile
+28449 | 1052 | 56 | 86 | Musical Glove - Computerphile
+564749 | 13479 | 233 | 800 | Game Physics (in Assembler) - Computerphile
+148112 | 4123 | 27 | 153 | The Factory of Ideas: Working at Bell Labs - Computerphile
+199960 | 4501 | 35 | 211 | Colourspaces (JPEG Pt0)- Computerphile
+90653 | 4113 | 68 | 215 | The Knapsack Problem & Genetic Algorithms - Computerphile
+106140 | 3437 | 27 | 320 | Essentials: Brian Kernighan on Associative Arrays - Computerphile
+96442 | 3118 | 25 | 448 | BBC B Microcomputer - Computerphile
+131065 | 3200 | 75 | 372 | Network Stacks and the Internet - Computerphile
+68853 | 1307 | 51 | 118 | How GCHQ Classifies Computer Security - Computerphile
+115416 | 2989 | 34 | 272 | The Little Mac with the Big Bite - Computerphile
+2075782 | 51651 | 722 | 1649 | How NOT to Store Passwords! - Computerphile
+684347 | 11950 | 461 | 1447 | Turing & The Halting Problem - Computerphile
+361276 | 7664 | 1161 | 1464 | What is a Monad? - Computerphile
+67559 | 862 | 17 | 57 | Nascom 2 & Sharing the TV - Computerphile
+121757 | 3624 | 95 | 216 | Bootstrapping with T-Diagrams - Computerphile
+3732410 | 70477 | 1178 | 2030 | Running an SQL Injection Attack - Computerphile
+100763 | 2976 | 71 | 263 | Yoda Parsing - Computerphile
+135734 | 3768 | 64 | 494 | Bitcoin Mining in 4 Minutes - Computerphile
+13403 | 224 | 11 | 22 | EXTRA BITS - More on Crowd-Sourced Sports Coverage - Computerphile
+342201 | 7461 | 213 | 857 | Arrays vs Linked Lists - Computerphile
+78543 | 2450 | 36 | 194 | 1978's Raspberry Pi (MK14) - Computerphile
+312527 | 5063 | 133 | 377 | The Kindle Text Problem - Computerphile
+95160 | 2559 | 24 | 250 | EDSAC Simulator - Computerphile
+1321779 | 31151 | 565 | 899 | Cracking Websites with Cross Site Scripting - Computerphile
+514260 | 7621 | 94 | 314 | Tackling Enigma (Turing's Enigma Problem Part 2) - Computerphile
+141695 | 2352 | 23 | 164 | Building the BBC Micro (The Beeb) - Computerphile
+41804 | 1113 | 21 | 82 | Captain Buzz pt2: Smart Watches and Latency - Computerphile
+66566 | 2398 | 23 | 159 | The Anonymisation Problem - Computerphile
+47219 | 976 | 34 | 98 | 3d X-Ray Images - Computerphile
+158097 | 4025 | 20 | 158 | Capturing Digital Images (The Bayer Filter) - Computerphile
+408067 | 11965 | 144 | 652 | PDF, What is it FOR? - Computerphile
+765471 | 15719 | 346 | 512 | CPU vs GPU (What's the Difference?) - Computerphile
+46744 | 1233 | 6 | 65 | EDSAC Rebuild (Cambridge University's 1st Computer) - Computerphile
+178493 | 4355 | 44 | 280 | Light-field Camera - Computerphile
+92260 | 1921 | 32 | 61 | Industrial Light-field Magic - Computerphile
+113137 | 3950 | 45 | 197 | Before Raspberry Pi and Arduino - Computerphile
+32830 | 948 | 18 | 40 | Optic Flow Solutions - Computerphile
+88728 | 2044 | 96 | 179 | BBC Domesday (1980's Google Street View) - Computerphile
+319565 | 4605 | 195 | 619 | How Gangnam Style Broke YouTube - Computerphile
+192000 | 3851 | 61 | 110 | Machine Learning Methods - Computerphile
+45941 | 1088 | 60 | 62 | Augmented Reality & Wargaming - Computerphile
+106527 | 3079 | 75 | 146 | Fingerprint Recognition - Computerphile
+68995 | 2195 | 41 | 263 | Birthplace of the World Wide Web - Computerphile
+216465 | 3871 | 59 | 213 | How Huffman Trees Work - Computerphile
+85151 | 2226 | 184 | 117 | Fire Pong (Rule Zero) - Computerphile
+171474 | 4888 | 303 | 67 | MapReduce - Computerphile
+38935 | 1538 | 20 | 191 | IBM, EBCDIC & A Meg-In-A-Box - Computerphile
+169268 | 2856 | 34 | 123 | What Happens When You Click a Link? - Computerphile
+286663 | 9293 | 87 | 281 | Detecting Faces (Viola Jones Algorithm) - Computerphile
+52268 | 1573 | 20 | 126 | ESSENTIALS: Subroutines & The Wheeler Jump - Computerphile
+166445 | 4287 | 91 | 335 | CPUs Are Out of Order - Computerphile
+131423 | 4485 | 88 | 407 | Packet Radio (Post Apocalyptic Internet?) - Computerphile
+83468 | 1835 | 114 | 421 | Free Software (made with free software) - Computerphile
+130787 | 2651 | 30 | 194 | Crashes, Cosmic Rays and Kernel Panic - Computerphile
+364863 | 8627 | 117 | 395 | Resizing Images - Computerphile
+59304 | 1375 | 18 | 92 | Data Analysis 4: Data Transformation - Computerphile
+91749 | 2723 | 67 | 246 | Robot Snake - Computerphile
+207301 | 4706 | 24 | 317 | XOR & the Half Adder - Computerphile
+88687 | 2677 | 48 | 481 | A Career in Video Games - Computerphile
+381091 | 10344 | 85 | 495 | Elliptic Curve Back Door - Computerphile
+103351 | 5170 | 83 | 511 | Tail Recursion Explained - Computerphile
+153503 | 3652 | 137 | 67 | Apache Spark - Computerphile
+86661 | 2726 | 117 | 144 | The Game about Games - Computerphile
+117698 | 2976 | 63 | 272 | Floating Point Numbers (Part1: Fp vs Fixed) - Computerphile
+416279 | 14177 | 229 | 883 | Recursion 'Super Power' (in Python) - Computerphile
+163933 | 4978 | 60 | 370 | HTML: Poison or Panacea? (HTML Part2) - Computerphile
+856737 | 14478 | 387 | 490 | SHA: Secure Hashing Algorithm - Computerphile
+82783 | 1654 | 1012 | 363 | Mobile Interface Problems - Computerphile
+57014 | 1441 | 44 | 110 | Selfie to 3D Model - Computerphile
+189918 | 4872 | 46 | 344 | Turing Complete - Computerphile
+196777 | 6919 | 58 | 255 | Almost All Web Encryption Works Like This (SP Networks) - Computerphile
+83410 | 3713 | 29 | 224 | Nintendo NES FamiCom Creator - Computerphile
+150953 | 2905 | 34 | 104 | Enigma, TypeX and Dad - Computerphile
+53121 | 1475 | 33 | 139 | Structure from Motion Octocopter - Computerphile
+113423 | 1967 | 47 | 142 | Why Do We Need IP Addresses? - Computerphile
+471138 | 10277 | 67 | 601 | JPEG DCT, Discrete Cosine Transform (JPEG Pt2)- Computerphile

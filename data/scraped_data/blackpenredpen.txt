@@ -1,0 +1,2367 @@
+5221 | 223 | 6 | 42 | Q8, Chen Lu Twice
+72916 | 873 | 17 | 44 | Laplace transform of t^2e^(4t)
+3514776 | 119414 | 2561 | 9023 | 100 INTEGRALS (World Record?)
+23407 | 214 | 17 | 17 | BE CAREFUL when factoring x^2-64, x^3-64, and x^6-64
+3585 | 159 | 1 | 35 | Q8, Chen Lu with csc
+53061 | 547 | 11 | 58 | Sect 8 3 #5  Hydrostatic Force, Calculus 2
+525 | 4 | 0 | 0 | Intermediate Algebra Q7 (with music) | Los Angeles Pierce College math assessment sample
+1359 | 4 | 0 | 0 | Q31 MET115 Solving the System
+5954 | 49 | 1 | 9 | Calculus, 11 9 #27, Power Series Representation
+3290 | 10 | 0 | 0 | [COMPASS] (Q10.) "3rd way" Algebra, official practice problems
+1498 | 8 | 0 | 0 | Q12 MET115
+23001 | 986 | 19 | 167 | My way to introduce the chain rule
+9159 | 157 | 3 | 5 | integral of 2cos(2x) with u-substitution, by Edward Ezike
+22386 | 1015 | 9 | 182 | How to Row Reduce?  (Gaussian Elimination)
+18432 | 700 | 4 | 94 | Q57, integral of 1/(1-x^2)^(3/2) vs integral of x/(1-x^2)^(3/2),
+88582 | 2132 | 182 | 722 | math for fun, -1=1? (with Euler's formula)
+33 | 2 | 0 | 0 | Rule of Exponent Ex#4
+3147 | 45 | 0 | 4 | Q158, dP/dt=sqrt(Pt)
+6142 | 75 | 4 | 3 | Factor completely 8x^4-40x^3-x+5
+9679 | 470 | 6 | 88 | Strive For Better!! My Real First Take for 100 Series!
+5222 | 212 | 4 | 29 | Lil Limit Quiz, Q3 & Q4
+1023 | 18 | 0 | 0 | sect 3.4 #31, derivative of e^(t*sin(2t))
+844 | 24 | 0 | 3 | Verifying a solution to a differential equation, Sect1.2#11
+2783 | 18 | 0 | 2 | Power rule for derivative, ex1
+22768 | 1062 | 10 | 136 | sin(18 degrees) = ?
+6804 | 73 | 13 | 1 | Q24, Simplify sqrt(-300)
+28935 | 681 | 13 | 62 | integral battle#12, with a pokeball
+28372 | 823 | 21 | 126 | Ah-Hu solved my problem! (a story in my calc 2 class, no editing)
+3335 | 32 | 0 | 1 | Series, 11 2 #31, Geometric Series
+3609 | 92 | 1 | 56 | GETTING MY 6TH LA MARATHON MEDAL, LA MARATHON 2017
+120 | 3 | 0 | 0 | Sect 7 2 #47
+83226 | 4285 | 48 | 340 | Proof of Heron's Formula (for the area of a triangle with given sides)
+6212 | 350 | 9 | 192 | Coincident?
+433 | 12 | 0 | 1 | Q7 Fast  Finding inverse function
+3305 | 55 | 0 | 4 | Graph of the infinity sign, Convert parametric to Cartesian (rectangular)
+16260 | 905 | 8 | 327 | I factored this for Sean!
+4401 | 173 | 1 | 42 | Q4, we will do this backwards in the near future!
+30617 | 1530 | 7 | 242 | Uncommon Algebraic Equation (with fractional part and floor function)
+74741 | 1944 | 70 | 325 | n^2+n+41 the Prime Sequence?
+278 | 5 | 0 | 3 | MET3
+8762 | 107 | 4 | 2 | Sect 3 11 #32, derivative of cosh(ln(x))
+72344 | 1236 | 30 | 92 | integral battle#16, integral of 1/(1+cos(x)), integral of sqrt(1+cos(x))
+18148 | 231 | 7 | 13 | 11.7#10 Integral Test, with Klay Thompson, Series n^2*e^(-n^3)
+80719 | 1747 | 150 | 193 | cube root of i, feat. Fematika
+75900 | 2036 | 45 | 235 | Super Easy Putnam Exam Problem?
+15916 | 758 | 16 | 146 | Determinant of a 3 by 3 matrix (cofactor expansion, the shortcut, properties of determinant)
+33903 | 859 | 10 | 44 | Inverse cosh(x)
+1547 | 40 | 0 | 3 | Rational Functions: evaluate vs solve
+10188 | 53 | 2 | 8 | [COMPASS] (Q10.) Numerical Skills/Pre-algebra, official practice problems
+27759 | 942 | 8 | 72 | Math for fun#12, inf p-series over alternating inf p-series
+25086 | 256 | 8 | 10 | Q37, integral of cos^2(theta) from 0 to pi/2
+41849 | 1319 | 33 | 216 | Sqrt(2) is irrational!  (Classic Proof)
+7061 | 206 | 5 | 34 | Q6, integral of 1/sqrt(1-x^2) vs. integral of x/sqrt(1-x^2)
+565 | 6 | 0 | 1 | (Q20.) So, you think you can take the derivative? d/dx (ln(ln(lnx)))
+9538 | 371 | 5 | 104 | $1,600,000,000 MEGA MILLIONS JACKPOT (WHAT IS THE CHANCE????)
+77425 | 1695 | 44 | 106 | fun integral battle#2: a small sign makes a BIG difference!
+93727 | 2954 | 60 | 353 | 1^inf explained #IndeterminateFamily
+10162 | 216 | 4 | 27 | Bearing Word Problem Ex3
+265615 | 4670 | 206 | 525 | Integral of 1/(1+x^4) by Brute-force Partial Fraction!
+1799 | 26 | 0 | 4 | 我中文版的YOUTUBE頻道!
+369 | 5 | 0 | 0 | (Q23.) Divide by a Monomial
+43517 | 1340 | 23 | 209 | 100 Fractions (EXTREME PATIENCE)
+61143 | 1394 | 21 | 130 | Complex definitions of sine and cosine
+13120 | 524 | 3 | 31 | Math for fun#14, Fabien's way to Integrate sqrt(tan(x))/sin(2x)
+2009 | 27 | 0 | 0 | Differentiating an integral using FTC 1, an easy example
+19683 | 1010 | 4 | 142 | Dear Ved, solving a homogenous differential equation by substitution
+79822 | 3217 | 43 | 253 | Imaginary Differential Equation dy/dx=y^i
+273 | 3 | 0 | 1 | Solving a Quadratic Equation by Using the Quadratic Formula
+1118 | 30 | 0 | 3 | trig formula examples: product-to-sum
+576 | 9 | 0 | 0 | [GCC Math 101/120 Common Final Sample 1] (Q24.) 3 by 3 System of Equations (Addition Method)
+1850 | 43 | 0 | 2 | Evaluating logarithms without a calculator (part1)
+1044 | 33 | 1 | 9 | Math for Fun, got lucky with fractions (my vintage video!!!)
+3896 | 49 | 0 | 8 | Sect 6 1 #4
+99782 | 1257 | 46 | 80 | Q30, integral of x*tan^ -1(x)
+8287 | 42 | 2 | 6 | [COMPASS] (Q12.) Numerical Skills/Prealgebra, official practice problems
+14075 | 738 | 5 | 190 | Dear Aditya, A Golden Pre RMO Problem in 2017 in India
+31335 | 1175 | 14 | 100 | small problem that i owe you from sin(?)=2
+380923 | 7504 | 197 | 807 | 4 popular ways to factor trinomials ax^2+bx+c (including slide & divide)
+828 | 7 | 0 | 1 | Q1, function composition
+161152 | 2948 | 52 | 289 | Q68, integral of 1/(x^3+x),
+330 | 7 | 0 | 2 | Evaluate all trig functions from a given point on the terminal side ex5
+11378 | 100 | 7 | 6 | second derivative of x^2*ln(2x)
+615 | 9 | 0 | 0 | Laplace transform of t^n using series expansion L{t^n} for non-negative integers n
+570 | 6 | 0 | 4 | PSQ11
+12850 | 142 | 4 | 7 | Solve sin(θ)=1/sqrt(2)
+47075 | 1178 | 10 | 83 | fun integral battle#4: rethink factoring...
+68898 | 2089 | 46 | 369 | integral of x^ln(x) vs. Integral of x^x
+5734 | 110 | 0 | 6 | Q283, Integrate x*cos(x^3) as a power series
+6745 | 430 | 6 | 115 | 3 switches 3 light bulbs puzzle
+305 | 5 | 0 | 0 | Q4 Multiply Fractions
+836 | 20 | 0 | 1 | verifying trigonometric identities, Q15
+538 | 14 | 0 | 3 | Q25, solve a log equation
+26841 | 1136 | 10 | 83 | Calculus 1 Overview, (the connection between limit, derivative & integral)
+225662 | 5142 | 126 | 244 | Intimidating Looking Equation (math for fun)
+8929 | 228 | 5 | 31 | Implicit differentiation, 5 Actual AP Calc Exam MCQs, (file in description)
+43034 | 804 | 11 | 44 | integral of x*sqrt(1-x^4)
+145023 | 2211 | 50 | 117 | Second order homogeneous linear differential equations with constant coefficients
+322433 | 8569 | 222 | 785 | sin(18º), special special right triangle!
+216 | 6 | 0 | 1 | 20 Tic-Tac-Toe Factoring (part 4, (Q13.) - (Q16.))
+134 | 5 | 0 | 0 | Q8 Fast
+23956 | 723 | 26 | 137 | Weird Integral Trick
+12222 | 471 | 4 | 88 | Q11, derivative of x^(1/x)
+954 | 10 | 0 | 2 | PSQ2
+1210 | 4 | 0 | 0 | Q14 MET115
+8473 | 180 | 5 | 25 | Integral of 1/(x^6+1), I accidentally deleted my original live stream...
+41024 | 513 | 16 | 22 | Derivative of ln(1/x)
+28210 | 1325 | 15 | 119 | Dear Cameron, your triangle challenge!
+5003 | 48 | 0 | 2 | Calculus, Power Series Intro music
+105694 | 900 | 66 | 40 | Exact values of sin(45), cos(45), tan(45), csc(45), sec(45), cot(45)
+80744 | 3073 | 21 | 254 | THE CONFUSING DERIVATIVES
+10536 | 116 | 5 | 8 | Integral of cot(x),  plus behind the scene
+862 | 2 | 0 | 0 | Q51 MET115 Dividing Rational Expressions
+72913 | 3031 | 94 | 637 | real^real^real^... = imaginary?
+396 | 3 | 0 | 0 | Q4, ACT Compass Trigonometry (official sample test problems)
+606 | 7 | 0 | 2 | Intermediate Algebra Q15 (with music) | Los Angeles Pierce College math assessment sample
+455 | 7 | 0 | 2 | How to Solve an Algebra Solution Mixture Word Problem (system of equations)
+2964 | 48 | 0 | 2 | derivative of x*e^(-kx), product rule and chain rule
+63434 | 1644 | 28 | 114 | This is how we partial fraction, repeated linear roots, "cover-up method"
+21608 | 752 | 8 | 102 | Q60, integral of 1/(x^2*sqrt(1-x^2)), trig sub vs u sub
+113776 | 3396 | 38 | 216 | Math for fun, find the value using calculus!
+234151 | 8231 | 90 | 1024 | You, me, and my first IMO problem
+53744 | 755 | 21 | 58 | Q310, Find the centroid, calculus 2
+3106 | 61 | 1 | 7 | Exact Differential Equation, 2.4#27a
+67597 | 769 | 24 | 39 | Second order linear differential equation initial value problem , Sect 4.3 #21
+280 | 11 | 0 | 0 | proving trig identity#2
+157 | 5 | 0 | 0 | Q25 FAST
+20639 | 952 | 9 | 152 | Q234, Integral of 1/(x^2+x) vs. Series of 1/(n^2+n)
+288694 | 7881 | 132 | 850 | When d/dx(x^2) becomes the HARDEST problem on your calc 1 final
+189805 | 5530 | 80 | 414 | BEST FRIEND
+9504 | 166 | 2 | 7 | Calculus limits and sketch a graph, ex2
+2788 | 19 | 1 | 1 | definition of derivative, ex1
+472 | 7 | 1 | 6 | Crazy Ice Cream
+132764 | 1338 | 50 | 75 | inverse laplace transform, example#4, with partial fraction
+9799 | 307 | 3 | 30 | related rates, water rising in an inverted circular cone
+88577 | 1210 | 35 | 57 | integral of 1/(x^2+a^2)
+3608 | 51 | 0 | 1 | Calculus, 11 9 #3, Power Series Representation
+157 | 4 | 0 | 0 | Q21 Fast
+873 | 18 | 0 | 6 | (Q1.) So, you think you can take the derivative?
+43635 | 780 | 11 | 44 | limit of x*tan(1/x) as x goes to infinity, L'Hospital's Rule
+4905 | 61 | 0 | 3 | Sect 7 1 #3, integral of x*cos5x
+57727 | 1123 | 18 | 47 | Inverse tanh(x)
+102038 | 1699 | 40 | 153 | calculating work, pumping water out of a tank, (featuring Bunny Burrito!!!!)
+2047 | 16 | 0 | 1 | Order of Operations (CASIO fx-115 ES Plus) with Positive Whole Number
+1486 | 10 | 0 | 2 | [GCC Math 101/120 Common Final Sample 1] (Q10.) Mixture Problem (Solved by Elimination)
+1046 | 16 | 0 | 2 | Cycloid on algodoo (class demo)
+6632 | 37 | 0 | 5 | Integrals flash card! Must-know-integrals for calc 1 and calc 2
+71373 | 2308 | 32 | 298 | The famous equation x^2=2^x & the "super square root"
+22150 | 227 | 1 | 3 | inverse laplace transform, example#2
+429 | 5 | 0 | 0 | (Q12.) Sample 3 GCC Math 101/120 Common Final Intermediate Algebra
+44776 | 1682 | 20 | 227 | x^2 is continuous
+42 | 0 | 0 | 1 | Domain for Sqrt Function Ex1
+444 | 3 | 0 | 0 | Q2, function composition
+180647 | 2234 | 51 | 102 | Integral of sin^5(x)
+5216 | 83 | 2 | 4 | Exact values of trig functions from the unit circle, ex1
+6646 | 193 | 3 | 10 | system of equations (graphing, substitution, elimination)
+375 | 3 | 0 | 2 | Last 8 seconds of LAC vs. SAS, Game 7, 5/2/2015
+624 | 8 | 0 | 2 | Finding the vertex of a parabola from the standard form
+468 | 6 | 0 | 0 | [GCC Math 101/120 Common Final Sample 1] (Q13.) Absolute Value Inequality and Its Graph
+594 | 6 | 0 | 2 | Make your graphs prettier & add your own label on GeoGebra
+60189 | 730 | 22 | 43 | Q77, Integral of x*tan^2x
+3933 | 80 | 2 | 7 | integral of csc(x), Weierstrass Substitution
+16472 | 492 | 5 | 59 | Q53, Integral of 1/(t^2*sqrt(t^2-16)), trig sub
+4535 | 154 | 2 | 47 | Which of the following cubic curve has no local min/max nor saddle pt?
+48227 | 1223 | 26 | 72 | 1^3+2^3+3^3+...+n^3 and its geometry
+43560 | 1840 | 16 | 172 | A Brilliant Algebra Manipulation Problem
+3568 | 70 | 0 | 5 | special integrating factor in y, sect2.5#7
+37018 | 1386 | 11 | 204 | Don't combine the fractions, do this!
+1086 | 6 | 0 | 0 | Q68 MET115
+109 | 2 | 0 | 0 | Quadratic Formula (Q4.)
+12044 | 423 | 11 | 147 | A derangement problem
+4843 | 103 | 4 | 14 | Math with Dr. Peyam (quick trailer)
+1180 | 14 | 0 | 0 | Stewart Calculus, Sect 9 1 #6c
+17305 | 228 | 5 | 17 | sin(pi/12), using difference of angles formula
+78057 | 2493 | 40 | 174 | Infinite Continued Fractions, simple or not?
+25989 | 472 | 24 | 40 | How to use y=mx+b in word problem situations
+65066 | 1745 | 23 | 163 | Graph of x^y=y^x
+41593 | 1589 | 59 | 219 | A triggy question & dabbing 101 times!
+95396 | 1448 | 17 | 120 | Calculus, Sect 6.4 #22, Pumping water out of a spherical tank
+3157 | 74 | 0 | 3 | Find the center of a circle given the endpoints of a diameter
+44260 | 1560 | 18 | 175 | BIG INTEGRAL SHORTCUT (Cauchy-Schlömilch transformation)
+8059 | 207 | 18 | 141 | 為什麼不能除以零?  (兩個我喜歡的講法) ((有志玲姐姐))
+4907 | 38 | 0 | 3 | Q12, ACCUPLACER college level math, official sample problems
+5108 | 71 | 0 | 9 | Sect 7.4 #19, Partial Fraction with Cover Up
+30137 | 871 | 13 | 69 | Logistic Differential Equation (general solution)
+21347 | 555 | 3 | 60 | Parametric equations with sine and cosine
+54326 | 549 | 18 | 63 | [Many Reasons of Liking the Casio fx-115ES (plus)] Fractions, Mixed Numbers, Decimals and Percentage
+1255 | 34 | 0 | 5 | Solving Inequalities with graphs and interval notation (carefully explained)
+550 | 8 | 0 | 0 | Sect 4 3 #6
+107052 | 4112 | 31 | 348 | Area between ln(x) and (ln(x))^2 | Dear Jeff
+79743 | 1218 | 28 | 69 | integral of sqrt(x^2+2x)
+71561 | 1155 | 26 | 60 | Variation of Parameters, intro & idea
+26803 | 210 | 3 | 12 | f(x)=ln(x+4), domain, range, graph, and its inverse
+9362 | 142 | 8 | 15 | ABCDE*A=EEEEEE, Super Hard Taiwan 4th Grade Math Problem, Math For Fun
+542 | 12 | 0 | 2 | How to find the domain of a function (rational, square root & logarithm)? Intro
+13519 | 398 | 6 | 115 | my favorite lecture example, differential equation and credit card
+2711 | 37 | 1 | 9 | Understand algebra mixture word problems (with alcohol)
+607 | 4 | 0 | 0 | Algebra Readiness Q12 | Pierce College math assessment sample
+168823 | 2211 | 55 | 128 | undetermined coefficients, diff eq, sect4.5#19
+24014 | 1111 | 11 | 63 | "Partial Fractions Or Not" Integral Quiz, Calculus 2
+159 | 5 | 0 | 0 | Completing the Square (Q2.)
+2134 | 29 | 2 | 1 | Stewart Calculus, Sect 7 7 #11a Trap Rule
+129 | 4 | 0 | 1 | Abs Value "less than" Pos (ex2.)
+100722 | 3612 | 57 | 353 | Why factoring x^6-64 could be tricky
+14272 | 476 | 4 | 131 | 0,0,0,1,0,0,0,1
+3843 | 79 | 1 | 10 | abs min and ABS MAX of 2cos(t)+sin(2t), (2014 version)
+101835 | 3825 | 50 | 457 | Math for fun, sin(sin(z))=1
+1124 | 24 | 0 | 15 | Factor completely Q8 to Q10, trinomial ax^2+bx+c,
+53878 | 820 | 11 | 44 | Q39, integral of tan^4x*sec^6x
+8858 | 434 | 2 | 46 | Series Are NOT Scary (part 3)
+31389 | 380 | 8 | 24 | Q122, Limit of ln(x)/x^p as x goes to infinity, L'Hospital's Rule,
+52018 | 1541 | 29 | 187 | a pretty hard limit problem
+3827 | 37 | 0 | 0 | Calculus, 11 9 #5, Power Series Representation
+10008 | 132 | 4 | 5 | Which functions are of exponential orders? part2
+94850 | 1740 | 36 | 124 | inverse sinh(x)
+39490 | 995 | 50 | 195 | Radical Equation, with Paul!
+827 | 2 | 0 | 0 | Q45 MET115 Base & Exponent
+5314 | 187 | 3 | 58 | Numbers in Different Bases, Intro
+373 | 1 | 0 | 0 | [GCC Math 101/120 Common Final Sample 1] (Q10.) Mixture Problem (Solved by Subsitution)
+2134 | 29 | 0 | 1 | Sect 5.5 #86
+6836 | 95 | 2 | 5 | Sect 7 1 #3 *DI method* Integral of x*cos5x
+248177 | 6344 | 198 | 465 | x^x=2, answer in exact form!
+1514 | 16 | 0 | 1 | Casio fx-115ES plus: (Q24.) Check with Calculator
+2279 | 20 | 0 | 1 | Separable differential equation, (y+sin(y)) y'=x+x^3
+388 | 13 | 0 | 9 | Solving Quadratic Inequalities (4 examples, part2)
+20587 | 361 | 10 | 18 | graph of y=csc(x)
+321607 | 5766 | 162 | 370 | The Error Function & The Impossible Integral of e^(-x^2)
+20276 | 593 | 6 | 54 | Dear Andrew, average velocity vs instantaneous velocity, #calc1test1
+1894 | 14 | 0 | 0 | Q3 MET115
+366 | 2 | 0 | 0 | (Q12.) Multiply square roots
+403 | 2 | 0 | 0 | Algebra Q2, ACT Compass Official Sample Test Questions
+165 | 6 | 0 | 0 | Equations with Two Absolute Values (ex2)
+381 | 4 | 0 | 0 | MET2
+226 | 9 | 0 | 0 | (Q7.) So, you think you can take the derivative?
+73073 | 1617 | 47 | 116 | Challenge: 1/(cbrt(3)-sqrt(2))=?
+4390 | 45 | 1 | 7 | [ACCUPLACER] (Q1.) "Factoring Method" College-Level Math, Official Practice Problems
+233485 | 6324 | 114 | 684 | A "Don't Substitute Right Away" System of Equation
+131 | 4 | 0 | 0 | Quadratic Formula (Q3.)
+278 | 8 | 0 | 4 | math
+68224 | 2113 | 27 | 149 | (1/2)^(1/2)=(1/4)^(1/4)
+322941 | 8189 | 124 | 408 | derivative of ln(x), by definition & implicit differentiation
+19659 | 294 | 3 | 18 | Q5, 2sinh(x)cosh(x)=sinh(2x)
+49405 | 627 | 28 | 25 | derivative of sec(x), using quotient rule
+954 | 10 | 0 | 2 | Indefinite integral with trig function
+5290 | 61 | 4 | 1 | derivative of x^sin(x),
+5057 | 192 | 3 | 77 | 0,0,0,1,0,0,0,1,... (be sure to use x for the HW problem)
+427 | 9 | 1 | 3 | Q19 and Q20, solve radical equestions
+795 | 6 | 0 | 0 | Algebra Readiness Q11 | Pierce College math assessment sample
+95478 | 2680 | 44 | 272 | Fourier Series Coefficients
+15717 | 95 | 1 | 7 | [ACCUPLACER] Arithmetic (Q18.) Official Practice Problems
+491 | 4 | 0 | 0 | (Q8.) Simplify and Combine Radical Expressions
+175 | 7 | 0 | 0 | Solve by Factoring (Q5.) Quadratic Equation
+32276 | 310 | 14 | 18 | Integral of cot^3(x)
+11227 | 203 | 3 | 18 | first order linear differential equation, 2.3#11
+339 | 2 | 0 | 0 | Intermediate Algebra Q13 FAST!!! (with music)
+20411 | 469 | 15 | 61 | Multiplication & Division in Base 2
+411 | 7 | 0 | 1 | [GCC Math 101/120 Common Final Sample 1] (Q14.) Solving Quadratic Inequality and Graph
+55416 | 1688 | 28 | 203 | Solving My Calc 2 Exam#3 (Sequence, Infinite Series & Power Series)
+688 | 4 | 0 | 0 | Intermediate Algebra Q5 (with music) | Los Angeles Pierce College math assessment sample
+651 | 11 | 0 | 1 | Elementary Algebra Q11  |  Pierce College math assessment sample MDTP
+5635 | 198 | 2 | 40 | find dy for y=sqrt(3+x^2) and dx=-0.1
+3694 | 41 | 1 | 5 | Series, 11 2 #27, Harmonic Series
+44009 | 828 | 8 | 55 | Q43, integral of cos^2x*tan^3x
+8963 | 309 | 2 | 58 | Q6, When can Mn, Tn and Sn give exact answer?
+1234 | 3 | 0 | 0 | Q20 MET115
+41824 | 1401 | 8 | 141 | The p-integral Proof (type 1 improper integral)
+13876 | 139 | 2 | 5 | Inverse Laplace Transform with completing the square, Sect 7.4#3
+21309 | 155 | 15 | 3 | derivative of 1/(z^2+1), chain rule
+28914 | 723 | 7 | 42 | Comparison Theorem for Improper Integral
+78945 | 2453 | 40 | 327 | The Harmonic Number Is Never An Integer When n Is BIGGER Than 1
+17866 | 173 | 3 | 11 | Sect 7.8 #5, improper integral
+223 | 9 | 0 | 0 | (Q13.) So, you think you can take the derivative?
+8140 | 228 | 4 | 101 | 中文微積分, d/dx ( craziness ) = sqrt(tan(x)), in Chinese
+83836 | 1663 | 37 | 197 | Integral of 1/(x^3+1) from 100 integrals
+88215 | 1028 | 57 | 72 | Power series expansion of tan(x)
+606 | 4 | 0 | 0 | (Q13.) Simplify ( sqrt(x) - sqrt(3) )^2
+80480 | 3025 | 17 | 211 | Zeta function in terms of Gamma function and Bose integral
+2052 | 10 | 0 | 0 | Graph inverse trig functions on GeoGebra
+129 | 4 | 0 | 1 | Q22 Fast
+14184 | 641 | 8 | 106 | Q205, find a recursive formula and its limit
+3173 | 46 | 0 | 2 | derivative of log_10(x^3+1)
+5131 | 37 | 0 | 4 | ACCUPLACER college level math, Q15
+34001 | 1298 | 11 | 192 | 10 Integral Battles! (Elementary vs. Non-Elementary)
+191 | 6 | 0 | 0 | (Q14.) So, you think you can take the derivative?
+803 | 10 | 0 | 1 | Logarithm: which x CANNOT be plugged in?
+1580 | 54 | 1 | 2 | Q26, polynomial division (long division)
+663 | 6 | 0 | 0 | Intermediate Algebra Q4 (with music) | Los Angeles Pierce College math assessment sample
+793 | 11 | 0 | 0 | Integral of 1/sqrt(1-x^2) from 0 to sqrt(3)/2
+83704 | 2528 | 63 | 289 | log equation with different bases | dear Jenna
+32071 | 1506 | 37 | 315 | 100 Equations (EXTREME patience)
+883 | 21 | 0 | 1 | Factor completely Q6 to Q7, trinomial x^2+bx+c,
+13216 | 542 | 20 | 121 | Square Root of 2 is irrational! (Rational Zero Theorem)
+146 | 7 | 0 | 0 | Equations with Two Absolute Values (ex3)
+17521 | 741 | 10 | 105 | Sum of sin(n)/n again (but this time with Fourier Series!)
+289 | 7 | 1 | 1 | Translation of Functions (part1): shift the graph in 4 directions
+568117 | 18167 | 186 | 1010 | integration by parts, DI method, VERY EASY
+1733 | 25 | 0 | 0 | Calculus, 11 3 #15, Convergent + Convergent = Convergent
+71226 | 651 | 17 | 70 | [Speed Run, 1 time thru]  Integral of 1/(1+sin(x))
+3313 | 54 | 2 | 3 | Calculus, Integral Test, 11 3 #26
+152 | 3 | 0 | 0 | Q23 FAST
+36778 | 466 | 8 | 31 | Convert r^2cos(2theta)=1 to Cartesian
+29667 | 1029 | 19 | 142 | Integral of tan(x) from 0 to pi/2
+8052 | 322 | 27 | -1 | double angle identities & power reduction (ft. "bluepen" Oon Han)
+316 | 10 | 0 | 0 | (Q17)  solve system of equations by graphing
+206 | 6 | 0 | 0 | Solving a quadratic equation by factoring
+3993 | 94 | 3 | 5 | Graph a parabola with 5 points
+49317 | 2822 | 28 | 275 | The Blindfolded Math Teacher
+51548 | 1827 | 29 | 271 | Let's solve for tan(x)
+12885 | 129 | 6 | 9 | [Calculus] Sect 7.4 #23, Integral of 10/((x-1)(x^2+9)), Partial Fraction, Stewart Calc 7th ET ed
+19375 | 902 | 27 | 268 | Do We REALLY Have More Integers?
+1419 | 13 | 0 | 1 | Stewart Calculus, Sect 9 1 #6a
+131272 | 3876 | 48 | 294 | integral of 2^ln(x)
+22048 | 358 | 6 | 27 | first order linear differential equation (Nagle hw sol sect 2.3#9)
+72246 | 2676 | 47 | 482 | 100 Trinomial Factorings (Dedicated to Mr. Hill)
+9937 | 332 | 28 | 177 | ROBBING PETER TO PAY PAUL, math with story
+30786 | 1155 | 12 | 60 | how to integrate using u substitution
+284110 | 7416 | 170 | 629 | derivative of x^x^x^...
+171 | 2 | 0 | 0 | (Q12) Sample #1, Math 141/146 common final, Glendale community college
+26348 | 942 | 8 | 123 | 3 possible answers for the integral of 1/(1-x^2)
+473 | 4 | 0 | 0 | Elementary Algebra Q13  |  Pierce College math assessment sample MDTP
+1027 | 14 | 0 | 6 | Critical number of a t^(3/4)-2t^(1/4)
+4588 | 10 | 0 | 1 | [COMPASS] (Q8.) Algebra, official practice problems
+41250 | 412 | 23 | 27 | Integral of x/(x^2+9)
+190 | 2 | 0 | 0 | (Q11) Sample #1, Math 141/146 common final, Glendale community college
+45875 | 992 | 18 | 67 | an equation of a parabola in vertex form and standard form
+75136 | 3391 | 35 | 284 | Blackpenredpen vs. Dr. Peyam on convergent series (uncut, unscripted)
+68676 | 796 | 19 | 36 | Integral of cos^3x
+292647 | 10699 | 82 | 729 | 100 Calc 2 Problems (in 1 take)
+49968 | 783 | 14 | 51 | Calculus Sect 6 4 #21, Calculating Work
+403 | 2 | 0 | 0 | Algebra Readiness Q14 | Pierce College math assessment sample
+32569 | 1166 | 17 | 165 | Why do you rationalize the denominator? (here's my reason)
+15944 | 307 | 2 | 19 | Bernoulli Differential Equation (with a missing solution)
+736 | 14 | 0 | 0 | How to solve an exponential equation
+49086 | 875 | 14 | 52 | Inverse Laplace Transform, Sect 7.4#33
+33804 | 498 | 27 | 35 | tan(pi/12), using difference of angles formula
+27955 | 336 | 7 | 21 | Integral of tan^3x secx
+15213 | 186 | 4 | 9 | Check for Linear Dependence (3 functions, using definition)
+5397 | 36 | 0 | 4 | [ACCUPLACER] (Q8.) College-Level Math, Official Practice Problems
+76726 | 1910 | 37 | 183 | Math for fun#2, i want a to get e
+973 | 18 | 0 | 5 | Equation of the tangent line on a parametric curve
+354395 | 7676 | 122 | 663 | a Putnam Exam integral for calc 2 students, integral of ln(x+1)/(x^2+1) from 0 to 1
+2159 | 24 | 0 | 0 | Calculus, 11 9 #9 3rd way, Power Series Representation
+445 | 8 | 0 | 0 | [GCC Math 101/120 Common Final Sample 1] (Q9.) Graph of a Circle
+2916 | 66 | 0 | 4 | verifying trigonometric identities, Q20
+418 | 5 | 0 | 0 | (Q11.) Sample 3 GCC Math 101/120 Common Final Intermediate Algebra
+290 | 6 | 0 | 2 | (Q18.) Sample 3 GCC Math 101/120 Common Final Intermediate Algebra
+950 | 11 | 0 | 0 | How to solve an exponential equation with logarithm (step by step)
+109404 | 499 | 165 | 41 | limit of ln(x)/x as x goes to 0+, do we need L'Hospital's Rule?
+16142 | 719 | 6 | 92 | Matrix Multiplication Puzzle! (Taiwan College Entrance Exam 2018)
+250716 | 8841 | 441 | 1442 | Not -1/12
+29582 | 1307 | 12 | 158 | The Mom
+2034 | 57 | 15 | 12 | Dear Student: So, you think you can get extra credits?
+18401 | 203 | 4 | 17 | Laplace transform of unit step function, sect7 6#1
+56767 | 1926 | 13 | 78 | Understand u-substitution, the idea!
+10987 | 507 | 0 | 29 | Q9, U sub is better than algebra
+1026 | 15 | 0 | 3 | verifying trigonometric identities, Q9
+303 | 8 | 0 | 0 | Solving a System of Equations by Substitution
+294 | 7 | 0 | 1 | Q9 Fast
+13837 | 637 | 8 | 191 | Conditional Probability, (with sample space)
+301931 | 8957 | 122 | 412 | i-th root of i
+235 | 5 | 0 | 3 | 2
+37 | 2 | 0 | 0 | Sect4 1 #33
+10963 | 36 | 2 | 2 | [ACCUPLACER] (Q11.) "Use Decimal" Elementary Algebra Official Practice Problems
+215 | 8 | 0 | 0 | (Q8.) So, you think you can take the derivative?
+358676 | 9223 | 173 | 640 | integral of sqrt(tan(x))
+14201 | 180 | 7 | 13 | 11 7#3 Test for Divergence (for an Alternating Series), Series (-1)^n*n/(n+2)
+10276 | 434 | 3 | 53 | Separable Differential Equation, (initial value problem) Quiz solution
+19115 | 877 | 14 | 249 | Domain or NOmain?
+8157 | 53 | 2 | 14 | [ACCUPLACER] (Q10.) "by a Trig Identity" College-Level Math, Official Practice Problems
+275 | 4 | 0 | 0 | (Q29) Write the equation of a circle in standard form by completing the square
+27401 | 830 | 6 | 86 | Limit Comparison Test vs. Test For Divergence
+13942 | 263 | 9 | 41 | Q2, integral of cot(x) vs. Integral of csc(x)cot(x)
+21386 | 219 | 30 | 21 | Factor 8x^3-125y^3
+385 | 6 | 0 | 0 | (Q10.) Just do it!
+179272 | 3915 | 91 | 259 | System of congruences, modular arithmetic
+18643 | 653 | 7 | 105 | Optimization, Line cuts off the least area from the first quadrant
+188 | 5 | 0 | 0 | Q7 another way
+13219 | 152 | 2 | 15 | 11.7#4 Alternating Series Test
+354 | 11 | 0 | 3 | Evaluate all trig functions from a given point on the terminal side ex4
+10328 | 63 | 0 | 5 | [ACCUPLACER] (Q13.) "1st method" Elementary Algebra Official Practice Problems
+18369 | 104 | 5 | 5 | [ACCUPLACER] (Q8.) Elementary Algebra Official Practice Problems
+34669 | 374 | 8 | 25 | Determine the form of a particular solution, sect4.4 #29
+12229 | 67 | 3 | 10 | 積分 sqrt(1-x^2) , integral of sqrt(1-x^2)
+9072 | 158 | 40 | 91 | Integral of sin^3(x), using power reduction
+1672 | 24 | 0 | 2 | Indefinite integral, reversed power rule
+22974 | 508 | 4 | 39 | A constant plus a constant equals to a constant! 2.2#17
+35264 | 596 | 8 | 41 | Differential equation of the form dy/dx=G(ax+by)
+2564 | 24 | 0 | 1 | Calculus, Sequence 11 1 #27
+651 | 7 | 0 | 0 | Algebra Readiness Q10 | Pierce College math assessment sample
+9699 | 213 | 5 | 11 | first order linear differential equation, 2.3#15
+380 | 14 | 0 | 0 | Equations with Two Absolute Values (ex1)
+78965 | 1135 | 25 | 62 | Proof of the Convolution Theorem
+4540 | 178 | 0 | 19 | Q5, integral of e^x/(1+e^x) vs. integral of (1+e^x)/e^x
+466 | 9 | 0 | 2 | [Math for Fun] u r adding fractions right, Doris...
+1744 | 26 | 0 | 2 | Sect 6 1 #9
+197 | 6 | 1 | 0 | (Q15.) So, you think you can take the derivative?
+37305 | 1660 | 22 | 238 | An afternoon with logarithms (stay home, do math)
+54076 | 314 | 28 | 17 | [ACCUPLACER] (Q6.) Elementary Algebra Official Practice Problems
+8819 | 371 | 3 | 41 | a geometric sequence & series on my final exam
+10586 | 112 | 6 | 7 | derivative of r/sqrt(r^2+1)
+2665 | 108 | 1 | 31 | related rates, ladder sliding down against the wall
+22377 | 102 | 4 | 1 | Graph trig functions on GeoGebra
+29547 | 341 | 4 | 21 | Determine the form of a particular solution, sect 4.5#31
+680 | 7 | 0 | 6 | Intermediate Algebra Q6 (with music) | Los Angeles Pierce College math assessment sample
+43277 | 1179 | 20 | 146 | derivative of e^e^e^e^e^e^x vs. derivative of x^x^x, dr. peyam vs. bprp
+17977 | 232 | 3 | 11 | 11.7#1, Series 1/(n+3^n), Direct Comparison Test DCT
+979 | 8 | 1 | 2 | Intermediate Algebra Q2 (with music) | Los Angeles Pierce College math assessment sample
+330 | 8 | 0 | 0 | How to find the midpoint?
+45029 | 1415 | 24 | 107 | Solving My Calc 2 Exam#2 (improper integrals, approximating integrals, & separable diff eq)
+10397 | 91 | 5 | 8 | Series 1/n^3, Series 1/3^n
+10835 | 524 | 5 | 122 | TOO GOOD TO BE TRUE!!!!!
+2248 | 40 | 0 | 2 | 11 10#57 Use Power Series to Evaluate Limit
+5706 | 145 | 1 | 14 | Graphing the equation of a line (y=mx+b, horizontal, vertical line)
+14422 | 176 | 5 | 19 | System of differential equations by elimination (2nd order, w/ initial conditions), sect5.2#21
+699 | 9 | 0 | 0 | verifying trigonometric identities, Q12
+111461 | 787 | 36 | 44 | Sect 5 5 #67, integral of x*sqrt(x-1) from 1 to 2
+15835 | 187 | 1 | 7 | Laplace transform of unit step function & rectangular window function
+213916 | 4671 | 230 | 1239 | Integral of 1/x from -1 to 1 (THE DEBATE?)
+417 | 7 | 0 | 0 | How to solve inequalities, graphs, and interval notations
+36398 | 1081 | 15 | 97 | How to change the order of a double integral
+154992 | 1612 | 53 | 132 | inverse laplace of s/(s^2+1)^2, using convolution theorem
+638914 | 21224 | 464 | 1726 | Can 1^x=2?
+13108 | 147 | 4 | 12 | Q33, Integral of (cos(x))^-1 vs integral of cos^-1x
+373 | 4 | 0 | 0 | (Q22.) Solve Equation with two Square Roots
+83009 | 2593 | 89 | 238 | Irrational exponent
+1938 | 23 | 1 | 3 | Solve a system of equations! Elimination method, (LCM method)
+69445 | 1069 | 24 | 89 | Laplace transform of t^2, (t-4)^2u(t-4), t^2u(t-4)
+4303 | 31 | 0 | 2 | [Many Reasons of Liking the Casio fx-115ES (plus) ] Negative vs. Subtraction
+1026 | 7 | 0 | 1 | Q1, ACT Compass Trigonometry (official sample test problems)
+138979 | 1582 | 61 | 111 | integral of ln(x)/x,  two ways: integration by parts, U-subsitution
+52583 | 338 | 28 | 30 | exact value for tan(15), using difference formula for tangent
+2652 | 25 | 4 | 4 | 11.7#9 Ratio Test
+87808 | 927 | 29 | 37 | Sect 5 5 #45 Integral of (1+x)/(1+x^2)
+5802 | 32 | 0 | 2 | [COMPASS] (Q12.) Algebra, official practice problems
+61752 | 775 | 13 | 80 | Sect 7 1 #10, integral of sin^-1x, integral of arcsin(x)
+54103 | 603 | 38 | 37 | graph of y=tan(x)
+5106 | 103 | 1 | 10 | Q284, Integrate (e^x-1)/x as a power series
+184 | 4 | 0 | 1 | Solve by Factoring (Q6.) Quadratic Equation
+9274 | 443 | 4 | 100 | 1^inf indeterminate form (Quiz Solution)
+5513 | 89 | 1 | 12 | Understand Comparison Theorem For Improper Integral Ex3
+14097 | 505 | 9 | 69 | Differentiate x^(1/x), twice and fast!
+551 | 7 | 0 | 0 | Intermediate Algebra Q12 (with music) | Los Angeles Pierce College math assessment sample
+719 | 19 | 0 | 1 | How to divide rational expressions in 5 minutes | algebra basics
+33574 | 817 | 24 | 84 | Integral of the Error Function
+133 | 5 | 0 | 3 | MET#15, Solving a linear equation
+3051 | 73 | 2 | 6 | Exact Differential Equation, 2.4#28a
+10846 | 439 | 5 | 49 | How to Use Your Best Friend!
+30360 | 495 | 3 | 25 | Inverse Laplace Transform with unit step function, sect7.6#15
+49743 | 578 | 11 | 46 | Integral of tan^3x*sec^4x (read pinned comment)
+122 | 3 | 0 | 0 | Polynomial Business Q7
+1813 | 8 | 0 | 0 | [GCC Math 101/120 Common Final Sample 1] (Q17.) Solve Square Root Equation
+257 | 2 | 0 | 0 | (Q15) Sample #1, Math 141/146 common final, Glendale community college
+1420 | 15 | 0 | 0 | Stewart Calculus, Sect 9 3 #45 Solve
+81522 | 2943 | 26 | 256 | x^sqrt(x) when x is 0 vs. x is approaching 0
+4634 | 78 | 0 | 6 | Find the least postive coterminal angle, part1
+438 | 10 | 1 | 0 | Three Memeory Devices for Product, Quotient and Chain Rules
+13347 | 84 | 3 | 2 | [ACCUPLACER] (Q4.) College-Level Math, Official Practice Problems
+53940 | 1598 | 23 | 107 | graph of y=x*e^x
+347 | 7 | 0 | 0 | Q19, combine logarithms
+21101 | 809 | 5 | 101 | Revisiting My AP Calc BC FRQ
+570 | 5 | 0 | 2 | Elementary Algebra Q14  |  Pierce College math assessment sample MDTP
+4401 | 19 | 1 | 1 | [COMPASS] (Q13.) Algebra, official practice problems
+308169 | 8984 | 208 | 553 | Limit of x-th root of x as x goes to infinity
+51250 | 2189 | 23 | 293 | Domain and Range of the Infinite Power Tower Function
+2408 | 26 | 0 | 4 | Calculus, Sequence 11 1 #31
+830549 | 32126 | 447 | 2214 | 100 Series (NO FOOD, NO WATER, NO STOP)
+27079 | 392 | 15 | 24 | Which functions are of exponential orders? part1
+8970 | 91 | 11 | 22 | Integral of cot^5x, cot(x) and csc(x) approach
+69164 | 857 | 12 | 53 | Inverse Laplace Transform, Sect 7.4#9
+14228 | 430 | 15 | 195 | 費曼積分法, Feynman technique for integration, Chinese Version, 曹老師
+1451 | 16 | 0 | 2 | Calculus, 11 6 #7, Ratio Test
+97369 | 1105 | 38 | 67 | integral of cos(sqrt(x))
+7116 | 147 | 0 | 6 | special integrating factor of the form x^n*y^m, sect2.5#13
+35392 | 1320 | 22 | 239 | Math Shorts Compilation
+28506 | 174 | 0 | 3 | [ACCUPLACER] Arithmetic (Q10.) Official Practice Problems
+345 | 3 | 0 | 0 | (Q25.) Sample 3 GCC Math 101/120 Common Final Intermediate Algebra
+620 | 11 | 0 | 0 | 4th derivative of  1/2*x*cos(x)+3
+18222 | 326 | 7 | 10 | Series of (1-1/n)^(n^2), root test
+1215 | 12 | 4 | 2 | Introducing my super eraser
+35200 | 1241 | 7 | 100 | Integration by Parts (introduction & 2 examples)
+844 | 10 | 0 | 3 | Product rule for derivative (or not?)
+96004 | 2012 | 35 | 136 | Q63, FAST WAY TO DO PARTIAL FRACTION FOR INTEGRALS
+1684 | 9 | 0 | 3 | Q5 MET115
+480 | 12 | 0 | 1 | Mrs. Stafford Says Hi to Her Former Upward Bound students
+14241 | 510 | 3 | 100 | integral of 1/(1+x^2)^2
+25981 | 1000 | 32 | 191 | When Should You Use The Small Angle Approximation?
+70943 | 1172 | 32 | 110 | Integral of csc(x), without that trick!
+20971 | 945 | 13 | 102 | Derivative of Lambertghini W function, FAST
+223 | 5 | 0 | 0 | Last strike to end a no-hitter game 6/18/2014
+8737 | 66 | 3 | 3 | Graph of log base 2 of x
+1322 | 24 | 0 | 1 | Indefinite integral (1+tan^2(x))
+83471 | 2504 | 38 | 264 | Laplace Transform Marathon
+13966 | 53 | 1 | 3 | [COMPASS] (Q3.) Numerical Skills/Prealgebra, official practice problems
+27630 | 1093 | 19 | 136 | 100 Integrals (10 minute version, with music, unseen ending)
+50612 | 480 | 16 | 21 | Sect 5 5 #21, Integral of (lnx)^2/x, U-sub, Stewart Calculus Solutions
+26055 | 346 | 5 | 29 | fun integral battle#-1: this is how you get ln|tan(x/2)|+C
+7784 | 62 | 2 | 4 | Calculus, Sect 8 3 #9
+24489 | 252 | 18 | 18 | solve cos(θ)=0
+209017 | 3149 | 204 | 672 | Q121, 0^0 does NOT always approach 1
+3716 | 134 | 15 | 47 | the overly happy, Dr. Peyam (& Porto's Bakery)
+190 | 5 | 0 | 0 | (Q11.) So, you think you can take the derivative?
+14397 | 944 | 8 | 186 | My Simple YouTube Setup (Blue Snowball microphone, 2013 Macbook Air & markers)
+463 | 8 | 0 | 0 | PSQ8 what if 2
+64084 | 1325 | 23 | 80 | integral battle#10: what? twins?
+149 | 3 | 0 | 0 | Q15 FAST
+365219 | 9498 | 312 | 898 | zero factorial, why 0! should be 1, 4 reasons
+14533 | 209 | 3 | 19 | Limit of (1+sin(4x))^(cot(x)) as x goes to 0+, L'Hospital's Rule
+217565 | 4592 | 480 | 549 | An example that 1^inf does NOT approach 1
+78891 | 3039 | 38 | 261 | The famous Putnam exam Integral
+555 | 7 | 0 | 0 | [GCC Math 101/120 Common Final Sample 1] (Q20.) Graph Logarithm Function
+2252 | 36 | 0 | 0 | graph of y=-3csc(x)
+5378 | 25 | 0 | 0 | [COMPASS] (Q11.) Algebra, official practice problems
+23211 | 1032 | 30 | 137 | Can you catch the math mistake?
+37643 | 946 | 10 | 73 | Evaluate integral by interpreting it in terms of areas
+1948 | 28 | 6 | 1 | Find the horizontal tangent line
+39217 | 340 | 7 | 17 | inverse laplace transform, example#1
+33474 | 1070 | 11 | 113 | Volume of the Solid of Revolution, the Disc Method!
+1441 | 16 | 0 | 4 | Writing an equation of a parabola with the given vertex and y-intercept
+29399 | 391 | 9 | 45 | 11.7#7 integral test, Series 1/(n*sqrt(ln(n)))
+7309 | 30 | 0 | 2 | [COMPASS] (Q13.) Numerical Skills/Pre-algebra, official practice problems
+25855 | 957 | 19 | 122 | Math for fun, x^1024+1/x^1024=?
+1295 | 19 | 0 | 0 | Limit, Sect 2 5 #7
+147 | 7 | 0 | 1 | Q17 Fast
+1124 | 3 | 0 | 0 | Q22 MET115 y=mx+b approach
+1237 | 14 | 0 | 1 | Equation of the tangent line with implicit differentiation
+11492 | 65 | 1 | 8 | [ACCUPLACER] (Q16.) "Substitution Method" Elementary Algebra Official Practice Problems
+3847 | 63 | 3 | 7 | special integrating factor mu(xy), sect2.5#15b
+1473 | 23 | 0 | 3 | Fundamental theorem of calculus (part 1) example#1
+39432 | 1132 | 19 | 80 | An almost-geometric series, 1/4+2/4^2+3/4^3+4/4^4+...=? , a GRE math subject question
+31745 | 1190 | 17 | 260 | Champernowne constant: 0.1234567891011121314151617181920...
+11051 | 322 | 6 | 66 | induction proof for the nth derivative of x*e^x
+27320 | 298 | 18 | 18 | Exact values of sin(675), cos(675), tan(675), csc(675), sec(675), cot(675)
+562323 | 17707 | 6026 | 2065 | Revisiting my most disliked video
+480 | 3 | 0 | 0 | Intermediate Algebra Q11 (with music) | Los Angeles Pierce College math assessment sample
+28871 | 1392 | 9 | 129 | Sum of arctan(1/(2n^2))
+31506 | 886 | 18 | 106 | Q58, Derivative and integral of inverse secant
+1149 | 29 | 0 | 9 | Solving Quadratic Inequalities (4 examples, part1)
+33518 | 918 | 25 | 173 | Integral of sqrt(sin(x)) vs integral of sqrt(sin^-1(x))
+12309 | 119 | 2 | 10 | Sect 7 1 #29, integral of y/e^(2y)
+26857 | 276 | 6 | 18 | series of cos(1/n), test for divergence
+73623 | 2879 | 41 | 316 | Calculus 1 GPA Saver! Limits With Epsilon-delta definition!
+3323 | 40 | 2 | 1 | Parabola: convert to standard form from vertex form
+2792 | 40 | 0 | 4 | Sect 5 5 #31, Integrals with U-Substitution, 7th Ed. Stewart Calculus Solutions
+24120 | 127 | 5 | 7 | [ACCUPLACER] Arithmetic (Q12.) Official Practice Problems
+22043 | 243 | 3 | 14 | Partial Fraction 10/((x-1)(x^2+9))
+1809 | 9 | 0 | 1 | Stewart Calculus, Sect 7 8 #58
+2957 | 89 | 4 | 18 | related rates, angle increases & area increases
+65351 | 590 | 56 | 28 | Series (1+1/n)^n, test for divergence
+189 | 5 | 0 | 0 | (Q23) Sample #1, Math 141/146 common final, Word Problem: investment
+8848 | 265 | 0 | 55 | Parametric vs. Cartesian (vid#4): Second derivative d^2y/dx^2
+46545 | 854 | 22 | 82 | Surface Area of Solid of Revolution (about x-axis, formula explained)
+5234 | 211 | 4 | 72 | Lil Limit Quiz, Q9 & Q10
+82258 | 1885 | 53 | 163 | Integral of e^x/x vs. integral of 1/ln(x), non-elementary but special!
+47899 | 1085 | 21 | 55 | integral battle#15, regular? reciprocal? no problem!
+272 | 7 | 0 | 0 | Frac
+16210 | 782 | 6 | 174 | Dear Ahmed, the every trig function limit!
+852 | 7 | 0 | 0 | Laplace transform of the second derivative, L{f''t}
+76466 | 2731 | 43 | 177 | How to epsilon-delta! #shorts
+46381 | 583 | 16 | 20 | Q118, limit of (ln(x))^2/x as x goes to infinity, L'Hospital's Rule
+27078 | 364 | 8 | 25 | Comparison Theorem for improper integrals, (the 3 steps, ex2)
+5008 | 69 | 1 | 11 | Q169, dP/dt=k(M-P)
+54227 | 2160 | 17 | 175 | That derivative on the Hungary math book cover (Dear Pászthy)
+489 | 2 | 0 | 0 | (Q5.) Sample 3 GCC Math 101/120 Common Final Intermediate Algebra
+10026 | 555 | 2 | 95 | A heart in the polar coordinate, (not a cardioid)
+244 | 8 | 0 | 0 | Solve Absolute Value = Positive (ex3) & (ex4)
+1972 | 34 | 3 | 9 | derivative of 5^(-1/x), chain rule
+699 | 15 | 0 | 0 | how to find the domain of a rational function
+8160 | 104 | 3 | 18 | integral of tan^3x, with sin cos approach
+381 | 8 | 0 | 0 | How to solve for a variable from a formula
+26442 | 938 | 7 | 131 | Area & Arc Length of a Cycloid (one arch)
+97438 | 2143 | 43 | 459 | Solve y''''''+y=0 (using complex numbers)
+13638 | 390 | 153 | 62 | Don't just solve the cubic, PreRMO 2012
+3287 | 48 | 0 | 4 | 10.2#13, derivative of parametric equations
+19728 | 140 | 12 | 8 | trigonometric derivative with quotient rule,  cos(x)/(1-sin(x))
+24550 | 812 | 24 | 191 | Subfactorial of 0
+11903 | 165 | 1 | 5 | cos(7pi/12), using sum of angles formula
+361 | 9 | 0 | 1 | (Q3.) So, you think you can take the derivative?
+1807 | 21 | 0 | 0 | Limit, Sect 2 5 #6
+54047 | 2358 | 15 | 182 | The 1, 2, 3, 4 Integral!
+21418 | 692 | 10 | 97 | Write e^x as a sum of an even and an odd function
+11798 | 536 | 8 | 79 | Q10, the one on the top matters!
+187085 | 1517 | 148 | 122 | integral of sqrt(1-x^2)
+116957 | 1192 | 52 | 96 | Integral of tan^5x
+46793 | 786 | 12 | 91 | Find the local min/max of a cubic curve by using cubic "vertex" formula
+5879 | 92 | 1 | 6 | local linear approximation, e^-0.015
+32285 | 854 | 39 | 340 | Telescoping series, Wolframalpha "seriesly" gives a no-so-correct answer
+246816 | 9626 | 69 | 840 | Ultimate Integral Starter (u sub, IBP, trig sub, partial fractions & more)
+45601 | 2331 | 20 | 295 | An Incredible Integral!
+27648 | 807 | 18 | 89 | Bézout's identity
+468 | 13 | 0 | 2 | How to graph a side-way parabola
+153091 | 5320 | 96 | 592 | Yes -1/12 (with an integral)
+8717 | 97 | 7 | 4 | Solve sin(θ)= -1
+108007 | 2124 | 137 | 160 | derivative of sin(x) by using the definition of derivative
+9509 | 172 | 6 | 97 | sin(z)=2, 中文版
+1415 | 33 | 0 | 3 | Sect 3.4 #47, derivative of cot^2(sin(θ))
+135929 | 4216 | 80 | 437 | A Much Harder Quartic Equation, x^4+x^3+x^2+x+1=0
+14441 | 204 | 9 | 24 | blackpenredpen, ball & videos!
+1238 | 16 | 0 | 3 | convert parametric to cartesian (an exam problem)
+70150 | 2759 | 29 | 342 | Q306, Volume & Surface Area of a Sphere
+79481 | 722 | 15 | 28 | integral of cos^2x
+6987 | 110 | 0 | 3 | Exact Differential Equation, (2.4#11)
+2345 | 24 | 0 | 3 | Q215, given partial sun, find an
+532 | 5 | 0 | 0 | Elementary Algebra Q12  |  Pierce College math assessment sample MDTP
+886244 | 19950 | 546 | 2008 | Extreme Algebra Question  (#patience)
+2666 | 47 | 0 | 4 | 11 7#37 Root Test, Series (2^(1/n)-1)^n
+10744 | 382 | 11 | 42 | Investigate f(x)=x+abs(x) and its derivative
+376 | 4 | 0 | 0 | [GCC Math 101/120 Common Final Sample 1] (Q24.) Cramer's Rule (Continued)
+60997 | 2148 | 23 | 339 | Solving i^x=1 is confusing
+65967 | 2287 | 27 | 239 | A Cambridge Integral Experience
+78395 | 845 | 30 | 44 | Homogeneous Equation, intro & example
+3256 | 33 | 0 | 1 | Calculus, 11 9 #9 (1st way), Power Series Representation
+4048 | 64 | 1 | 2 | Find a special integrating factor mu(y) for an almost-exact differential equation
+26112 | 282 | 10 | 20 | Q44, integral of x*sin^2x
+67 | 5 | 0 | 2 | 6b
+25873 | 1032 | 14 | 137 | Proving Logarithmic Properties from Integrals
+91 | 3 | 0 | 2 | Quadratic Formula (Q5.)
+517500 | 8102 | 223 | 331 | Integral of tan(x)
+184974 | 2436 | 55 | 157 | Q36, integral of sin^2x cos^3x
+143606 | 6172 | 99 | 1075 | The Most DISLIKED Math Notatio
+91 | 5 | 0 | 0 | Q5
+131332 | 4363 | 60 | 327 | Can logarithm of a negative number be real?
+203 | 2 | 0 | 0 | (Q16) Sample #1, Math 141/146 common final, Glendale community college
+510 | 5 | 0 | 0 | (Q26.) Sample 3 GCC Math 101/120 Common Final Intermediate Algebra
+165 | 4 | 1 | 1 | Order of Operations (Q9, 12, 15, 18) with Positive Whole Number:
+2913 | 53 | 0 | 4 | Stewart Calculus Solution Sect 6 2 #5
+300136 | 4559 | 118 | 334 | integral of sqrt(x^2+1), with Euler Substitution, math for fun
+26346 | 1006 | 12 | 107 | How to use Laplace Transforms to solve HARD integrals
+10686 | 385 | 2 | 72 | Evaluating limits algebraically, part2
+3534 | 74 | 0 | 3 | Exact Differential Equation, 2.4#25
+105032 | 1163 | 27 | 56 | Q49, Integral of sec^5x
+2097 | 8 | 0 | 0 | Q2 MET115 Simplify Algebraic Expression
+1391 | 13 | 0 | 1 | Sect 3 11 #31, hyperbolic function derivatives
+334804 | 2146 | 114 | 155 | Integral of x^2/(1+x^2)
+476 | 3 | 0 | 0 | [GCC Math 101/120 Common Final Sample 1] (Q18.) Checking Answer With Calculator
+4913 | 11 | 1 | 1 | [COMPASS] (Q5.) Algebra, official practice problems
+4731 | 64 | 2 | 2 | limit of (8^t - 5^t)/t as t goes to 0, L'Hospital's Rule
+33259 | 207 | 5 | 21 | [ACCUPLACER] Arithmetic (Q8.) *first method*  Official Practice Problems
+35756 | 1288 | 18 | 89 | Integral Battle! With Floor Functions
+1910 | 15 | 0 | 2 | Percentage discount word problem (algebra basics)
+419 | 8 | 0 | 6 | Friday
+33247 | 995 | 12 | 141 | Solving a first order linear diff eq (integrating factor, method of undetermined coefficient)
+13175 | 70 | 3 | 9 | [ACCUPLACER] (Q15.) Elementary Algebra Official Practice Problems
+2453 | 41 | 0 | 5 | derivative of ln((2y+1)^5/sqrt(y^2+1))
+26089 | 223 | 13 | 14 | 11.7#6, Limit Comparison Test, Series 1/(2n+1)
+20681 | 460 | 3 | 31 | the solution curve must be continuous! 2.2#21
+52426 | 1658 | 18 | 127 | The Bell Curve
+166025 | 6466 | 38 | 488 | Sum of 1/n^2 with an integral in the complex world
+35206 | 1415 | 52 | 400 | floor(0.999...)=?
+193 | 4 | 0 | 0 | (Q20.) Write an equation of a circle in standard form by completing the square
+619 | 15 | 0 | 2 | 1-step equations
+18755 | 195 | 3 | 8 | Inverse Laplace Transform, Sect 7.4#5
+6653 | 90 | 6 | 24 | foamposite collection on feet
+30974 | 386 | 19 | 28 | derivative for e^(x/y) = x - y
+530 | 11 | 2 | 1 | A Sextic Equation
+38501 | 442 | 10 | 32 | laplace transform of sin(t)cos(t) vs laplace transform sin(t)*cos(t)
+1281 | 32 | 0 | 1 | Verifying a solution to a differential equation, Sect1.2#7
+766 | 16 | 1 | 1 | Simple but confusing equations (when they come to you at the same time!)
+49589 | 1407 | 22 | 161 | Sum of 1/n^3, Believe In Integrals
+865 | 23 | 0 | 3 | Q30, Simplify and Combine Radical Expressions
+577978 | 15106 | 358 | 1142 | e^pi vs pi^e
+820 | 17 | 1 | 0 | verifying trigonometric identities, Q5
+9289 | 399 | 4 | 43 | Best Friend With a new center
+39227 | 809 | 12 | 83 | fun integral battle#1: thank you trig identities
+31692 | 1318 | 83 | 225 | sin(3 degrees) small angle approximation
+7659 | 337 | 3 | 42 | Q7, derivative of a product of three functions
+1617 | 37 | 2 | 4 | Solving a quadratic equation by completing the square
+59377 | 1965 | 31 | 137 | Can x^x = i?
+931 | 8 | 0 | 2 | Elementary Algebra Q5  |  Pierce College math assessment sample MDTP
+50517 | 2385 | 28 | 405 | Math for fun, 5 EASY ways to find the area of this triangle!
+40930 | 589 | 29 | 58 | Completing the Square vs. Quadratic Formula!
+53276 | 2116 | 19 | 213 | telescoping-looking series
+1053 | 12 | 0 | 0 | [GCC Math 101/120 Common Final Sample 1] (Q12.) Solve Logarithm Equations
+63567 | 723 | 43 | 47 | Integral of cot^2(x)
+1204 | 16 | 0 | 0 | Separable differential equation with initial condition
+198 | 6 | 0 | 0 | (Q16.) So, you think you can take the derivative?
+48911 | 1322 | 15 | 84 | Math for fun#1, design your limit
+29242 | 134 | 26 | 55 | [Math for Fun] 小學四年級的數學題... ABCDE*A=EEEEEE
+310262 | 7297 | 226 | 634 | Just as astounding: 0.01+0.002+0.0003+... = ?
+17340 | 108 | 2 | 3 | [ACCUPLACER] (Q10.) Elementary Algebra Official Practice Problems
+103885 | 3950 | 40 | 489 | Diff Eq Marathon (24 diff eq in one take)
+898 | 7 | 0 | 0 | Algebra Readiness Q2  |  Pierce College math assessment sample
+29395 | 597 | 9 | 73 | EXACT Equations (how to check for exactness!) 3 examples
+33218 | 1690 | 33 | 150 | Mysterious Integral: feat. ProfOmarMath
+9553 | 409 | 20 | 111 | Dear Carlos, integral of sqrt(x+sqrt(x^2+1)) via hyperbolic substitution
+136554 | 4331 | 46 | 257 | Math for fun#5, MOST SKIPPED LIMIT PROBLEM ON CALC EXAMS
+811 | 26 | 0 | 8 | my top 3 MCQs that I came up with in 2016
+34 | 2 | 0 | 0 | Rule of Exponent Ex#2
+1319 | 5 | 0 | 0 | Q13 MET115
+530 | 3 | 0 | 1 | (Q3) Sample #1, Math 141/146 common final, Glendale community college
+27765 | 345 | 11 | 21 | Q40, Integral of sin(8x)cos(5x)
+243 | 9 | 0 | 0 | [Math for fun] An Interesting BAD question (part 1)
+6101 | 322 | 1 | 131 | Geometric Probability that Steve & Caro will meet
+39565 | 570 | 12 | 37 | Solve differential equation with Laplace Transform involving unit step function
+82103 | 2756 | 31 | 215 | integral of (x-1)/ln(x) from 0 to 1, Feynman technique for integration,
+477 | 6 | 0 | 1 | Algebra Readiness Q15 | Pierce College math assessment sample
+21953 | 858 | 23 | 172 | My Favorite Set Theory Problem
+779 | 7 | 0 | 4 | Answer to the mixture problem, Solve system of equations (with decimals) by elimination
+888793 | 22355 | 483 | 1218 | A Brilliant Limit
+38968 | 563 | 10 | 33 | Calculus, 7.2 #22, integral of tan^2x*sec^4x
+28603 | 484 | 12 | 93 | Q48, Integral of cot^5(x)
+995 | 4 | 0 | 1 | Elementary Algebra Q4  |  Pierce College math assessment sample MDTP
+4872 | 240 | 8 | 40 | limit of a_n vs. limit of f(x), where f(n)=a_n
+179298 | 4514 | 2273 | 1322 | Only 1/3 of the positive integers are even, PARADOX ALERT!
+1683 | 19 | 1 | 0 | derivative of sqrt(1-x^2)*arccos(x)
+782 | 2 | 0 | 0 | Q64 MET115
+9695 | 421 | 3 | 94 | L'hospital Rule: limit of x^p*ln(x)
+105908 | 1975 | 47 | 124 | integral of sqrt(x)*e^(-x) from 0 to inf
+528 | 3 | 0 | 1 | (Q2.) Domain for square root function
+515 | 5 | 0 | 0 | (Q6.) Multiply expressions with rational exponents
+398 | 11 | 0 | 0 | (Q15.) Add Rational Expressions
+22009 | 863 | 7 | 126 | Q35, integral of e^x/(1+e^x)^2 vs. integral of ln(x)/(1+ln(x))^2 *hard*
+30866 | 1541 | 24 | 237 | Lars Integral
+5094 | 151 | 2 | 54 | PROVE THIS, product-to-sum identity for sine, (bprp retro)
+6171 | 98 | 1 | 4 | Sect 5 5 #17 Integrals with U-Substitution, 7th Ed. Stewart Calculus Solutions
+18124 | 161 | 3 | 13 | [ACCUPLACER] (Q2.) College-Level Math, Official Practice Problems
+406 | 6 | 0 | 0 | Combining Logarithms (made easy)
+42623 | 756 | 6 | 56 | Bernoulli Differential Equation, Q3 on review sheet
+4823 | 112 | 4 | 55 | 這樣因式分解 ax^2+bx+c???? (扯!)
+39211 | 1354 | 28 | 141 | black integral red integral (part 1. ft Dr. Peyam)
+37872 | 916 | 25 | 79 | Q55, integral of 1/(a^2+x^2), remember the result for future problems
+43 | 2 | 0 | 0 | Rule of Exponent Ex#5
+95020 | 1021 | 27 | 40 | Inverse Laplace Transform, Sect 7.4#7
+6242 | 91 | 4 | 10 | BEST SCIENTIFIC CALCULATOR AT 99CENTS STORE ! (ft. Ryan & Jason)
+11169 | 316 | 10 | 30 | Vandermonde determinant, recursive solutions, (ft. Max!!)
+28866 | 315 | 13 | 20 | Separable differential equation
+2062 | 27 | 0 | 1 | Calculus, Sequence 11 1 #49
+6819 | 61 | 1 | 6 | The D notation, when the order DOES matter
+23941 | 621 | 7 | 30 | Integral battle#19, cousins
+25434 | 1293 | 12 | 121 | Trig/Trig Sub Integrals But Harder (Calculus 2 challenge)
+60752 | 2227 | 23 | 168 | Why it doesn't converge to 3?
+11590 | 199 | 5 | 15 | integral of x*(lnx)^2, FAST!
+1086 | 10 | 0 | 0 | Quotient rule for derivative, A, B, C are constants
+848 | 8 | 0 | 0 | Sketch the graph of a parabola in vertex form, y=(x-2)^2-1
+13468 | 588 | 5 | 88 | Exponential Function from Differential Equation
+23998 | 431 | 1 | 24 | Evaluate limits with square root and its conjugate
+16572 | 245 | 9 | 25 | Convert decimal degrees to degrees, minutes and seconds (dms)
+453 | 7 | 0 | 0 | PSQ7
+568 | 5 | 0 | 0 | Finding the x and y intercepts (from an equation of a line)
+15457 | 694 | 4 | 74 | How To Solve Related Rates & Optimizations
+383 | 5 | 0 | 0 | Q17 use pythagorean theorem
+1796 | 31 | 0 | 3 | Bearing Word Problem Ex2
+1025 | 12 | 0 | 0 | Power rule for derivative, ex3
+12349 | 498 | 10 | 178 | North-east lattice path, (discrete math)
+785 | 5 | 0 | 0 | Elementary Algebra Q6  |  Pierce College math assessment sample MDTP
+22752 | 1470 | 11 | 540 | Benefits & tips of starting a math YouTube channel
+8348 | 103 | 0 | 6 | dy/dx for r = 1/theta at pi
+253 | 2 | 0 | 0 | (Q2) Sample #1, Math 141/146 common final, Glendale community college
+219 | 3 | 0 | 0 | Q8 what if, Rule of Exponents, Power to Power Situation
+5869 | 150 | 2 | 15 | Related rates, 4 actual AP calc exam MCQs, #bprplive
+374875 | 9970 | 165 | 1172 | The Easiest Integral on YouTube
+655 | 12 | 0 | 1 | [Math 101/120 Sample 1] (Q2.) Graph of Ellipse
+535 | 16 | 0 | 0 | Q11, how to reduce rational expression
+498 | 8 | 0 | 1 | Laplace transform of t^n, using series expansion L{t^n} for non-negative integers n
+37278 | 519 | 18 | 39 | solve trig equations #3 (double angle formula)
+321 | 5 | 0 | 0 | Q32, quadratic inequality
+9364 | 340 | 3 | 93 | Imaginary^Imaginary = Real? (two approaches from subscribers)
+50902 | 2049 | 74 | 275 | Integral speedrun, integral of sqrt(1-x^2), integration by parts, DI method
+32377 | 1318 | 75 | 194 | tan(22.5 degrees), Special Special Right Triangle
+1745 | 42 | 0 | 2 | verifying trigonometric identities, Q19
+309 | 7 | 0 | 1 | Q18, use the distance formula
+361 | 4 | 0 | 1 | AR11 what if, circumference
+1303 | 7 | 0 | 0 | Q21 MET115 music
+30892 | 1392 | 11 | 120 | Calculus 1 integrals techniques
+42618 | 548 | 6 | 46 | Undetermined Coefficients, ex1, f(t) is a polynomial
+10584 | 135 | 0 | 22 | [Many Reasons of Liking the Casio fx-115ES (plus)] Creating a Table
+138144 | 1671 | 129 | 114 | Solving congruences, 3 introductory examples
+3119 | 71 | 7 | 71 | 2013年的一個故事
+1075 | 4 | 1 | 1 | Q71 MET115
+27537 | 429 | 10 | 29 | a trig equation with a lot of solutions
+16405 | 108 | 1 | 7 | [ACCUPLACER] Arithmetic (Q20.) Official Practice Problems
+113 | 2 | 0 | 2 | Completing the Square (Q3.)
+11088 | 169 | 10 | 8 | Fastest and easiest way to solve differential equations
+19687 | 121 | 6 | 2 | [ACCUPLACER] (Q19.) Elementary Algebra Official Practice Problems
+21149 | 120 | 1 | 11 | [ACCUPLACER] (Q3.) Elementary Algebra Official Practice Problems 【
+34255 | 1106 | 16 | 150 | Optimization, minimum distance from sqrt(x) to (3,0)
+39682 | 1614 | 10 | 210 | limit, derivative, integral all in one!,
+11757 | 272 | 0 | 24 | KILL TWO BIRDS WITH ONE STONE!
+86800 | 2348 | 31 | 117 | integral of sqrt(tan(x))/sin(2x)
+296 | 12 | 0 | 2 | SARAH! (GONE FUNNY)
+70818 | 1569 | 26 | 199 | integral of 1/(sin(x)+cos(x))^2, calculus 2 integrals
+492 | 6 | 0 | 0 | Before You Solve Your Rational Equation, Watch This!
+3675 | 44 | 0 | 3 | convert parametric to cartesian (an exam problem), x=sec(t), y=csc(t)
+7380 | 118 | 1 | 18 | Power series solution to differential equation (shortened version)
+4577 | 35 | 2 | 3 | graph of y=tan(x/4)+1
+1287 | 14 | 0 | 0 | Calculus, 11 6 #3, Ratio Test DCT wont apply
+279 | 11 | 0 | 0 | 20 Tic-Tac-Toe Factoring (part 5, (Q17.) - (Q20.))
+21878 | 802 | 36 | -1 | Integral of cos(2x)/(sin(x)+cos(x)), integral of cos^2(x)/(sin(x)+cos(x)), by Oon Han
+16085 | 225 | 6 | 18 | Casio fx-115ES PLUS bonus features (n-th root, complex number, log with any base)
+4993 | 108 | 3 | 12 | integral of tan^5x, with sin & cos
+195 | 6 | 0 | 0 | (Q21.) So, you think you can take the derivative?
+9243 | 288 | 10 | 177 | just for fun with my students & viewers, (fractions with Oreo)
+52291 | 553 | 13 | 46 | Sect 7 8#13 integral of xe^(-x^2)
+25349 | 495 | 4 | 39 | integral of e^x*sinx*cosx, (with Jordan 14s Last Shot)
+92190 | 1561 | 21 | 107 | Write an algebraic expression for cos(sin^-1 x), cosine of inverse sine x
+1321 | 7 | 0 | 0 | Elementary Algebra Q3 | Pierce College math assessment sample MDTP
+899 | 6 | 1 | 0 | (Q25) How to find the y-intercepts of an ellipse
+1109 | 4 | 0 | 0 | Q38 MET115 Factor x^2-25
+51274 | 747 | 27 | 60 | Integral battlel#11, the theta world!
+2121 | 12 | 1 | 1 | Graph function and tangent line on GeoGebra
+27609 | 959 | 17 | 129 | integral of e^(e^x)) vs integral of ln(ln(x))
+164300 | 3375 | 84 | 225 | Math for fun#16, 2nd derivative rule?
+1064 | 8 | 0 | 0 | Stewart Calculus, Sect 9 1 #6d
+3342 | 60 | 2 | 5 | Integral of sqrt(x) from 1 to 9
+6257 | 53 | 5 | 6 | Kershaw no hitter
+87136 | 4143 | 93 | 463 | Integral of x^2 but NO power rule!
+46131 | 1864 | 16 | 188 | Integral of e^(ax)*cos(bx), no integration by parts
+4635 | 56 | 0 | 2 | implicit differentiation y*cos(x)=x^2+y^2
+47479 | 2181 | 26 | 311 | sqrt(a+sqrt(b))
+328027 | 3653 | 122 | 207 | Integral of sin^4(x)
+10333 | 355 | 3 | 49 | Vertical Asymptote Vs. Removable Discontinuity
+5893 | 63 | 0 | 7 | Sect 7.4 #19, Partial Fraction with repeated linear factor
+714 | 2 | 0 | 0 | Q46 MET115
+72338 | 1157 | 31 | 73 | integral of 1/(2+cos(x)) , Weierstrass substitution
+815 | 2 | 0 | 0 | Q47 MET115 Rule of Exponents
+63466 | 602 | 26 | 35 | Determine the form of a particular solution, sect 4.4 #27
+31898 | 1029 | 13 | 99 | Derivative of f(x)^g(x)
+18958 | 432 | 55 | 99 | Solving System of differential equation by diagonalizing a matrix, Dr. Peyam's Show
+6487 | 83 | 0 | 4 | Calculus, 11 9 #13 a, Power Series Representation
+1525 | 21 | 1 | 3 | Stewart Calculus, Sect 9 3 #40a
+51145 | 1681 | 13 | 130 | Leibniz Formula for pi, using the series of ln(1+z)
+2658 | 20 | 1 | 3 | [ACCUPLACER] (Q5.) "y-y1=m(x-x1)" College-Level Math, Official Practice Problems
+33647 | 465 | 19 | 23 | Laplace Transform of first derivative, laplace transform of f'(t)
+26518 | 1023 | 21 | 157 | Pythagorean Theorem in 3D
+251 | 14 | 0 | 4 | Trig
+10507 | 51 | 2 | 2 | [ACCUPLACER] (Q7.) Elementary Algebra Official Practice Problems
+14967 | 586 | 6 | 48 | Recognize limits as derivative, (NO L'Hospital Rule)
+21320 | 844 | 8 | 127 | Integral of Ei(x) and li(x)
+1780 | 17 | 0 | 1 | Sect 3.9 #12, Related Rates: SURFACE AREA OF A SPHERE (BALL)
+95 | 3 | 0 | 0 | Sect 5 4 #43
+14017 | 524 | 2 | 67 | build up power for partial fractions? (design your own integrals#2)
+2988 | 31 | 0 | 1 | Calculus, divergent + convergent = divergent, 11 4 #5
+74178 | 2036 | 48 | 308 | Can rectangles have the same area and perimeter?
+1173 | 4 | 0 | 0 | Q25 MET115
+155550 | 1893 | 69 | 113 | Higher order homogeneous linear differential equation, using auxiliary equation, sect 4.2#37
+36341 | 1377 | 23 | 199 | Differential Equation Speedrun
+56541 | 1035 | 23 | 138 | The Hardest Lottery? MegaFavNumber
+5378 | 83 | 0 | 10 | Q20, ACCUPLACER college level math, official sample problems
+115 | 4 | 0 | 5 | 12 com
+168427 | 3645 | 71 | 202 | integral of x*e^(2x)/(1+2x)^2, LIATE DOESN'T WORK HERE
+1151 | 23 | 1 | 8 | Edward & Porto's Bakery (chocolate chip cookies & cheese rolls) + behind the scenes
+137587 | 4545 | 64 | 300 | Solve y'*y''=y'''
+5776 | 31 | 0 | 4 | [ACCUPLACER] (Q16.) "Elimination Method" Elementary Algebra Official Practice Problems
+137 | 5 | 0 | 1 | Completing the Square (Q5.)
+895569 | 20445 | 429 | 1189 | Solutions to x^y=y^x
+976 | 5 | 0 | 0 | Q65 MET115
+32809 | 939 | 31 | 149 | Integral of fractional part of x from 0 to 4
+45192 | 2036 | 33 | 201 | Integral of (sin^n(x)+cos^n(x))^(1/n) as n goes to infinity
+9686 | 310 | 2 | 25 | Undetermined Coefficients, second order linear differential equation (part2)
+1340 | 3 | 0 | 0 | Q31 MET115 Set Up the System of Equations
+1688 | 19 | 0 | 1 | Power rule for derivative, with radicals
+44176 | 1662 | 12 | 161 | Proving the power, product and quotient rules by using logarithmic differentiation & the chain rule
+180244 | 3474 | 62 | 204 | integral battle #3: an MIT integration bee!
+23982 | 800 | 14 | 82 | Prove this, a double integral that equals to a single integral
+14801 | 753 | 9 | 65 | Series are NOT scary! (Part 1: test for divergence, telescoping, geometric, p-series)
+829836 | 25570 | 560 | 1471 | BELIEVE IN ALGEBRA, NOT CALCULATOR
+3874 | 38 | 0 | 2 | Sect 7 2 #23 Integral of tan^2x
+21254 | 674 | 14 | 302 | 中文積分 sqrt(tan(x)), Integral of sqrt(tan(x)) in Chinese
+748 | 11 | 0 | 5 | Evaluating logarithms without a calculator (part2)
+65478 | 1303 | 8 | 60 | Q153, Separable Differential Equation
+630 | 6 | 0 | 0 | PSQ5
+3918 | 62 | 2 | 3 | First 3 nonzero terms in taylor polynomial approximation for diff eq, sect8.1#5
+4373 | 14 | 0 | 0 | [COMPASS] (Q9.) Algebra, official practice problems
+82689 | 2867 | 45 | 444 | Superfactorial
+941 | 7 | 0 | 0 | Stewart Calculus, Sect 7 7 #11b midpt rule
+44853 | 1393 | 15 | 154 | Solving My Calc 2 Exam (what integration technique do we use?)
+19562 | 629 | 9 | 52 | Math for fun#11, 1 over 2s & 3s, LOTS OF THEM!!
+48099 | 1847 | 10 | 139 | harmonic addition theorem
+33550 | 1059 | 18 | 126 | Q9, derivative of a heart curve by implicit differentiation
+5081 | 51 | 0 | 6 | Series, 11 2 #19, Geometric Series
+133051 | 1344 | 54 | 98 | Integral of tan^3x, with tan and sec
+6240 | 66 | 5 | 3 | Find dy for y=tan(sqrt(t))
+117229 | 912 | 30 | 96 | [Casio fx-115ES (plus)] Solving System of Equations,  EIT, FE exam Prep
+825 | 12 | 0 | 0 | verifying trigonometric identities, Q14, 1/(tan(x)+1)
+4347 | 85 | 1 | 5 | Evaluate limits by combining fractions and using conjugate
+2415 | 24 | 0 | 0 | Calculus, Sequence 11 1 #29
+94642 | 3108 | 56 | 269 | Super Cubic Equations BATTLE!
+95 | 3 | 0 | 0 | 6a
+20447 | 119 | 2 | 16 | [ACCUPLACER] Arithmetic (Q14.) Official Practice Problems
+10959 | 50 | 1 | 4 | [COMPASS] (Q6.) Numerical Skills/Pre-algebra, official practice problems
+824 | 8 | 0 | 3 | derivative of 2x*log_10(sqrt(x))
+28344 | 1076 | 12 | 92 | 6 Infinite Sum That You Must Know For Your Calc 2 Class
+38275 | 198 | 28 | 12 | Solve (3x-2)(x+4)=24
+870 | 22 | 0 | 0 | Graphing a hyperbola
+3907 | 55 | 2 | 4 | 11 7#8 Ratio Test, series (2^k*k!)/(k+2)!
+56559 | 1139 | 13 | 82 | cos(arcsinx) as an algebraic expression, cosine of inverse sine x
+71040 | 4402 | 41 | 520 | Please Let Students Use the DI Method (integration by parts)
+620 | 4 | 0 | 1 | Algebra Readiness Q7  |  Pierce College math assessment sample
+6027 | 95 | 0 | 6 | Radius and interval of convergence of a power series, using ratio test, ex#3
+678 | 6 | 0 | 0 | (Q2.) Sample 3 GCC Math 101/120 Common Final Intermediate Algebra
+18397 | 628 | 41 | 110 | Don't mess with conditional convergence
+268 | 4 | 0 | 0 | Find all trig function values based on a given one, ex5
+42829 | 1588 | 16 | 214 | Which Equation Has NO Solution?
+758 | 11 | 0 | 1 | Integral of (1+cos^2(x))/cos^2(x) from 0 to pi/4
+58734 | 707 | 18 | 46 | Comparison Theorem for improper integrals, (the 3 steps, ex3), integral of 1/ln(x) from e to inf
+23492 | 865 | 10 | 131 | The Transpose of a Matrix (and its properties)
+13536 | 91 | 1 | 8 | [ACCUPLACER] (Q20.) Elementary Algebra Official Practice Problems
+377 | 8 | 0 | 1 | Quadratic Formula (Q1.) Yay!
+14991 | 213 | 7 | 19 | System of differential equations by elimination, sect5.2#9
+112 | 2 | 0 | 2 | Completing the Square (Q4.)
+759 | 9 | 0 | 0 | Expanding a Logarithm (in 3 minutes)
+31280 | 1450 | 14 | 278 | My favorite wrong approach!
+33754 | 1822 | 11 | 189 | BIG integrals with easy tricks!
+40910 | 233 | 5 | 10 | [ACCUPLACER] Arithmetic (Q4.) Official Practice Problems
+83599 | 3729 | 111 | 584 | Is dy/dx a fraction?
+398 | 3 | 0 | 2 | Evaluate all trig functions from a given point on the terminal side ex3
+4133 | 61 | 0 | 2 | derivative of sqrt((x-1)/(x^4+1)), logarithmic differentiation
+862 | 2 | 0 | 0 | Q49 MET115 Rule of Exponents
+2404 | 23 | 1 | 1 | Find the domain (in interval notation) of a logarithm function, examples part 1
+23588 | 275 | 2 | 10 | Understand Comparison Theorem For Improper Integral Ex1
+31472 | 1237 | 19 | 112 | Cauchy Residue Theorem, Introduction
+54942 | 743 | 45 | 41 | graph of y=sin(x) and y=cos(x)
+5809 | 184 | 7 | 10 | EXACT EQUATIONS, (recording fails!)
+294 | 4 | 0 | 2 | MET#33, Solving for a variable in a formula
+12501 | 301 | 12 | 68 | Fractions to binary point (division in base 2)
+860 | 11 | 0 | 1 | Solving a logarithm equation (step by step)
+1141 | 3 | 0 | 0 | Q41 MET115 Solve Quadratic Equations by Factoring
+1294 | 5 | 0 | 0 | Q34 MET115 Music
+13616 | 289 | 0 | 12 | Laplace transform of f(at)
+20615 | 971 | 8 | 130 | Fun Series From 2019 Pui Ching Math Competition
+11682 | 358 | 8 | 80 | How large should n be when using Simpson's Rule? (TI 84 tutorial)
+4981 | 148 | 2 | 27 | Evaluate trig function values in degrees, using reference triangles
+496 | 8 | 0 | 0 | [GCC Math 101/120 Common Final Sample 1] (Q7.) Graph Parabola
+220 | 4 | 0 | 0 | (Q20) Sample #1, Math 141/146 common final, Glendale community college
+12872 | 313 | 2 | 15 | 11 10#56 Use Power Series to Evaluate Limit
+125133 | 3023 | 47 | 201 | SUM OF TWO 6TH POWERS!
+103649 | 1358 | 66 | 175 | Top 5 reasons of getting the Casio fx-115ES PLUS (perfect for EIT, FE exams, back to shool)
+315211 | 8156 | 122 | 573 | A complex integral?  integral of (-1)^x from 0 to 1
+19725 | 672 | 3 | 79 | Math for fun#6, BIG INTEGRAL from Prof Tchertchian
+8806 | 385 | 10 | 67 | Dr  Peyam Does Linear Algebra For You Guys (Trailer 2019)
+113899 | 3814 | 53 | 301 | Solving cbrt(x)=ln(x)
+64302 | 816 | 16 | 67 | integral of 1/(x^2*sqrt(x^2-1), via trig sub
+8880 | 149 | 1 | 8 | 10.1 #19 Convert parametric to Cartesian (rectangular)
+14211 | 363 | 3 | 40 | Evaluate trig function values at quadrantal angles, unit circle
+307 | 8 | 0 | 1 | Exact values of trig functions from the unit circle, ex2
+395 | 6 | 0 | 0 | Q22 Equation of an ellipse from the graph
+681 | 3 | 2 | 1 | 122222
+519 | 5 | 0 | 0 | Q5, ACT Compass Trigonometry (official sample test problems)
+18778 | 197 | 8 | 13 | integral of 1/((a-x)(b-x))
+13322 | 202 | 5 | 15 | limit as derivative, limit as x goes to 1, (x^1000-1)/(x-1)
+417050 | 16277 | 132 | 490 | What Integration Technique Should I Use? (trig sub, u sub, DI method, partial fractions???)
+1981 | 102 | 3 | 31 | SF marathon 2017 (afterward)
+2968 | 55 | 0 | 7 | Calculus, Sequence 11 1 #45
+14370 | 533 | 16 | 138 | 中文版積分題, Integral of sqrt(cot(x))-sqrt(tan(x)), in Chinese
+21757 | 362 | 6 | 22 | Q115, Limit of 1/x-1/(e^x-1) as x goes to 0+
+24320 | 200 | 12 | 12 | Q53, integral of sqrt(x^2-1)
+10846 | 115 | 2 | 8 | Evaluate limits by factoring the sum of two cubes,
+2129344 | 45292 | 1768 | 4907 | sqrt(i)
+190 | 6 | 0 | 1 | MET#17, Solving a linear equality
+3590 | 81 | 9 | 24 | LA marathon 2018 start!!
+45120 | 1594 | 40 | 165 | A classic hard trig problem, sin(10°)sin(30°)sin(50°)sin(70°)
+53 | 3 | 0 | 0 | Eq of a line from two points EX2
+1996 | 55 | 1 | 5 | Factor completely Q1 to Q2, greatest common factor
+40 | 1 | 0 | 0 | Domain for Rational Function Ex2
+29655 | 998 | 29 | 246 | Believe in Peyam, NOT Wolframalpha
+14562 | 445 | 5 | 72 | Surface Area of tan(x) rotated about x-axis, and y-axis
+5217 | 32 | 0 | 8 | [ACCUPLACER] (Q11.) "use LCD" Elementary Algebra Official Practice Problems
+1684 | 10 | 2 | 2 | Graph Conic Sections on GeoGebra
+226 | 3 | 0 | 0 | (Q6) Sample #1, Math 141/146 common final, Glendale community college
+421 | 5 | 0 | 0 | (Q15.) Sample 3 GCC Math 101/120 Common Final Intermediate Algebra
+110 | 4 | 0 | 0 | (Q19) Sample #1, Math 141/146 common final, *what if*
+5584 | 77 | 0 | 5 | 11 7#8 Test for Divergence, series (2^k*k!)/(k+2)!
+78121 | 855 | 62 | 44 | verifying trigonometric identities, Q13, cos(x)/(1-sin(x))
+54220 | 1825 | 20 | 240 | Integral of sqrt(1+tan(x))
+46853 | 1950 | 18 | 104 | What series convergence test do I use?
+88 | 3 | 0 | 0 | Limit, Sect 2 2 #8
+2398 | 37 | 2 | 0 | integral of 1/2*cos(4x) with u-substitution, by Edward Ezike
+20217 | 285 | 3 | 38 | Existence & Uniqueness Theorem, Ex3
+21373 | 197 | 12 | 8 | Integral of cos(x) vs derivative of cos(x), with BEHIND THE SCENES!
+23633 | 890 | 23 | 164 | Fake solutions! (ft. 嚇死我)
+1368 | 3 | 0 | 0 | Q17 MET115 Slope between two points
+5352 | 84 | 0 | 29 | Hydrostatic force, diamond square
+1290 | 26 | 2 | 5 | verifying trigonometric identities, Q4
+175 | 5 | 0 | 0 | MET#14, Solving a linear equation
+2871 | 72 | 2 | 7 | 3 advices of writing college applications
+84970 | 3309 | 40 | 107 | Integral of sec^2(x), a totally unnecessary way!
+7361 | 216 | 5 | 22 | Q6, hard derivative quotient rule problem, a is a constant
+31997 | 1439 | 8 | 153 | zeta function & eta function
+2207 | 29 | 0 | 1 | Calculus, Comparison Test (LCT), 11 4 #7
+5432 | 199 | 7 | 31 | Dear Michael, limit of tan^-1(e^-x) as x goes to inf, #calc1test1
+50718 | 723 | 16 | 46 | Convert a polar equation to a cartesian equation: circle!
+28935 | 962 | 9 | 144 | Can we solve this?
+24296 | 208 | 10 | 27 | Hydrostatic Force, Sect 8.3 #8
+296 | 9 | 2 | 3 | Adidas Pure Boost
+18064 | 751 | 13 | 166 | Simple, when you have a good "mathod"
+207938 | 5741 | 112 | 702 | irrational^irrational=rational?
+30662 | 799 | 5 | 38 | integral battle#8: division or multiplication?
+19305 | 226 | 6 | 15 | Integral of sqrt(e^x)
+708 | 4 | 0 | 0 | Algebra Readiness Q5  |  Pierce College math assessment sample
+3415 | 17 | 0 | 0 | Q1 MET115 Order of Operations
+57213 | 1130 | 18 | 55 | Q6, write an equation of a parabola from a given graph
+78353 | 2899 | 33 | 191 | Arc Length (formula explained)
+676 | 7 | 0 | 0 | [GCC Math 101/120 Common Final Sample 1] (Q3.) Equation of Perpendicular Lines
+11379 | 476 | 4 | 128 | 0^0=1 is "seriesly" useful!
+35165 | 1248 | 11 | 161 | Double Integral (Change to Polar Coordinate)
+98612 | 3882 | 52 | 382 | Pythagorean Triples Generator
+15766 | 266 | 5 | 17 | Q157, solve dy/dx=8x^3*e^-2y, 2.2#24
+3263 | 72 | 0 | 7 | u substitution for integral of (3x^2+e^x)/(x^3+e^x)^4
+710 | 6 | 0 | 1 | Quotient rule for derivative (or not?)
+23028 | 617 | 19 | 74 | Q308b, Lateral areas of a cylinder and a cone
+894 | 3 | 0 | 0 | Q35 MET115
+45583 | 347 | 34 | 27 | Exact values of sin(-210), cos(-210), tan(-210), csc(-210), sec(-210), cot(-210)
+2841 | 56 | 1 | 5 | Graphing the solution region of a system of inequalities
+13400 | 569 | 6 | 85 | Series Are NOT Scary (part 2)
+56 | 2 | 0 | 0 | Domain for Sqrt Function Ex2
+16836 | 81 | 1 | 2 | [ACCUPLACER] Arithmetic (Q17.) Official Practice Problems
+11771 | 327 | 9 | 43 | Intermediate Value Theorem, Sect2.5 #53
+22992 | 522 | 19 | 148 | math with story, infinite geometric series with Oreo, 1/2+1/4+1/8+...
+914 | 15 | 0 | 1 | Factor a crazy trinomial
+23627 | 1406 | 18 | 108 | An Afternoon With Professor Po Shen Loh
+13641 | 42 | 0 | 4 | [COMPASS] (Q2.) Numerical Skills/Pre-algebra, official practice problems
+30079 | 1347 | 14 | 190 | Same Derivatives Implies Same Functions?
+11064 | 106 | 2 | 7 | Slope of the tangent line to the polar curve r = tan(theta) at pi/3
+223 | 3 | 0 | 0 | Q8 what if, Rule of Exponents, Multiplication Situation
+528 | 18 | 0 | 3 | [Bloopers] 1/81
+290 | 3 | 0 | 0 | (Q5) Sample #1, Math 141/146 common final, Glendale community college, factor t^3-64
+11895 | 647 | 12 | 100 | Modified Fibonacci Sequence
+106656 | 819 | 43 | 53 | Integral of cot(x), Sect 5.5 #41
+103757 | 2478 | 126 | 572 | Cannot divide by zero!
+17933 | 644 | 5 | 93 | Biggest slope of a curve, calculus 1 optimization
+1867 | 24 | 0 | 1 | Sect 5.5 #89
+1508 | 18 | 0 | 1 | sect 3.3 #9, derivative of x/(2-tan(x))
+4144 | 150 | 0 | 21 | Q9, a product rule problem in a quotient problem
+434 | 4 | 0 | 0 | (Q20.) Sample 3 GCC Math 101/120 Common Final Intermediate Algebra
+1382 | 18 | 0 | 1 | sect 3.3 #13, derivative of t*sin(t)/(1+t)
+20186 | 828 | 10 | 92 | Area under y=x^3 from 0 to 1, Riemann sum vs. Integral Power Rule
+44500 | 2232 | 23 | 241 | Angle sum identities for sine and cosine
+737 | 2 | 0 | 0 | Q60 MET115 Music
+1539 | 7 | 0 | 1 | Q6 MET115
+310602 | 6920 | 211 | 607 | Integral of 1/(x^6+1)
+54616 | 2363 | 47 | 391 | Yes, it's an 8. (what's next?)
+80305 | 2096 | 36 | 217 | You did this wrong #Calc2Final
+25754 | 929 | 5 | 110 | Area Enclosed by a Polar Curve, Calculus 2
+94071 | 985 | 33 | 62 | Quadratic Formula (Q1.) w/ calculator Casio fx 115 es plus
+2016 | 37 | 1 | 6 | Rationalize the denominator with cube root, Q15
+478 | 13 | 1 | 3 | sarah's linear equations (RAW FOOTAGE)
+767 | 4 | 0 | 0 | Q36 MET115 Multiplying Two Binomials
+4042 | 50 | 1 | 2 | Calculus, 11 9 #4, Power Series Representation
+108 | 4 | 0 | 0 | Limit, Sect 2 2 #7
+36 | 3 | 0 | 0 | Rule of Exponent Ex#3
+270 | 8 | 0 | 0 | (Q5.) So, you think you can take the derivative?
+2419 | 55 | 1 | 5 | Critical number of a x^(4/5)*(x-4)^2
+5108 | 18 | 0 | 2 | [COMPASS] (Q14.) Algebra, official practice problems
+23386 | 741 | 10 | 132 | area of polar curves, calculus 2
+30888 | 1148 | 36 | 151 | Integral of 1/(x^2+1) from -inf to inf, Contour Integral
+216 | 6 | 0 | 0 | (Q10.) So, you think you can take the derivative?
+42656 | 1525 | 12 | 210 | Q72, Integral of sec(x) without that trick!
+48904 | 1155 | 22 | 61 | The Secret
+7585 | 173 | 1 | 14 | Separable Differential Equation, Q3 on review sheet
+9851 | 379 | 2 | 45 | Arc Length of ln(sec(x)) using integral
+5214 | 95 | 1 | 3 | Radius and interval of convergence of a power series, using ratio test, ex#5
+985 | 29 | 0 | 2 | Sect 2.3 #29 Algebraic Limit: Combine two algebraic fractions , Stewart Calculus Solutions
+27397 | 1045 | 9 | 83 | sqrt(i), with power & rotation of a complex number
+34985 | 322 | 6 | 15 | limit of ln(x)/sqrt(x) as x goes to infinity, L'Hospital's Rule
+124896 | 2648 | 64 | 258 | derivative of sqrt(x+sqrt(x+sqrt(x+...))), infinite nested square root
+33070 | 1156 | 34 | 122 | sin(15 degrees) and nested square roots
+53882 | 1266 | 13 | 120 | Q166, mixing problem, continuously stirred tank reactor, CSTR, differential equation application
+6325 | 253 | 37 | 110 | undifound
+4122 | 55 | 0 | 2 | Evaluate limits with square root and factoring
+40589 | 633 | 17 | 38 | Laplace transform of tf(t), ex: laplace transform of tsin(t)
+16695 | 521 | 7 | 57 | Improper Integral of 1/(x+sqrt(x)) from 1 to inf
+240 | 8 | 0 | 3 | (Q23.) So, you think you can take the derivative?
+42885 | 525 | 15 | 48 | Calculus: sect 7.1 #31, integral of cos^-1(x), integral of arccos(x)
+370569 | 6399 | 181 | 301 | What does a ≡ b (mod n) mean? Basic Modular Arithmetic, Congruence
+493 | 6 | 0 | 0 | (Q4.) Evaluate rational (fraction) exponents
+10374 | 577 | 21 | 142 | Can you solve this 7 oz gold bar interview puzzle?
+62219 | 2042 | 20 | 190 | FAKE PRODUCT RULE, d/dx(f*g)=f'*g'?
+232 | 12 | 0 | 0 | Abs Value "less than" Pos (ex1.)
+9234 | 96 | 0 | 2 | Graphs of t^2, (t-4)^2u(t-4), t^2u(t-4)
+29417 | 912 | 26 | 94 | Integral product rule?
+104842 | 1240 | 36 | 80 | Solve differential equation with laplace transform, example 2
+114205 | 1092 | 51 | 58 | Integral of ln(x)/x^2, integration by parts, DI method
+38230 | 1306 | 18 | 102 | Angle Sum formula, proof by complex number
+16659 | 82 | 1 | 22 | [ACCUPLACER] (Q13.) College-Level Math, Official Practice Problems
+360 | 4 | 0 | 1 | (Q24.) Sample 3 GCC Math 101/120 Common Final Intermediate Algebra
+61080 | 1827 | 34 | 173 | integral battle#9: wouldn't it be nice?
+35746 | 438 | 8 | 26 | integral of x*e^(-x^2) from -inf to +inf,
+33303 | 1173 | 13 | 184 | Inverse Laplace Marathon
+11583 | 73 | 0 | 6 | [ACCUPLACER] (Q14.) Elementary Algebra Official Practice Problems
+16622 | 161 | 3 | 10 | related rates: rate of change of the radius of a spherical ballon
+992 | 19 | 0 | 3 | graph of y=2csc(x/3)-1
+721 | 7 | 0 | 0 | Product rule for derivative example
+22448 | 1030 | 16 | 135 | Subfactorial, a recursive approach
+947 | 11 | 0 | 0 | Sect 4.9 #31, antiderivative of 1+cube root of x
+46999 | 1616 | 23 | 130 | Rationalize Two Cube Roots, (Dear Mostafa)
+13976 | 420 | 13 | 92 | Can the 0^0 approach 0?
+37199 | 1573 | 32 | 225 | sin(15º), special special triangle, featuring Ood!
+13861 | 182 | 3 | 22 | Second derivative with implicit differentiation 9x^2+y^2=9
+1409 | 9 | 1 | 0 | Q32 MET115 Music
+7520 | 138 | 5 | 4 | special integrating factor mu(xy), sect2.5#15a
+11753 | 588 | 5 | 35 | Solving my Calc 2 Exam#3 (Series & Power Series)
+20784 | 904 | 10 | 128 | Q231, The Idea Behind The Integral Test
+3707 | 43 | 0 | 2 | [Calculus] Sect 7.4 #19, Partial Fraction, Stewart Calc 7th ET ed
+37 | 1 | 0 | 0 | Sect4 1 #33 music
+68904 | 2013 | 37 | 156 | the 3rd derivative of sec(x), i.e., the JERK
+5315 | 46 | 2 | 3 | Q8, ACCUPLACER college level math, official sample problems
+13002 | 566 | 12 | 93 | Integrals For You
+87 | 2 | 0 | 0 | Amazing Fireworks at Disneyland!
+4157 | 188 | 9 | 57 | SEE HOW HAPPY I AM!    (ASMR, well.. almost..)
+7475 | 58 | 1 | 5 | Q6, ACCUPLACER college level math, official sample problems
+10844 | 193 | 6 | 19 | Solving system of equations by graphing (consistent vs. inconsistent)
+13056 | 130 | 2 | 9 | Hydrostatic force, Sect 8 3 #3
+73465 | 1613 | 48 | 123 | integral of (x^4/(1+x^6))^2
+121173 | 615 | 79 | 42 | Integral of sin(x)
+19405 | 747 | 12 | 152 | Q309, Deriving the Centroid Formula (3 parts)
+3392 | 128 | 2 | 44 | blackpenredpen parody & t-shirt giveaway? SIGN ME UP!!!!!
+947 | 3 | 0 | 0 | Q54 MET115 music
+16533 | 183 | 3 | 7 | Find 3rd degree Taylor polynomial for the sol of a diff eq
+6995 | 418 | 4 | 127 | 36 factors, again!
+4946 | 76 | 0 | 5 | a differential equation has no real valued solution, sect1.2#19
+82907 | 3094 | 39 | 257 | BONUS: IMPRESS YOUR CALC 2 TEACHERS
+76444 | 1770 | 23 | 98 | a HARD calc 2 textbook problem (don't get tricked!)
+22491 | 1057 | 16 | 165 | Inverse of a 3 by 3 matrix (3 ways)
+22788 | 1152 | 12 | 72 | Arc Length of A Polar Curve (proof)
+62368 | 1451 | 12 | 131 | Welcome to blackpenredpen
+10630 | 427 | 8 | 80 | differentiable once but not twice? (ft. Oreo)
+8980 | 67 | 1 | 6 | First 3 non zero terms in taylor polynomial approximation for diff eq, sect8.1#1
+37520 | 1080 | 18 | 176 | The dessert, complexifying the integral
+67087 | 2826 | 29 | 273 | Lambert W Function Explained!
+54866 | 2407 | 35 | 356 | This Disproves Euler's Sum of Powers Conjecture!
+1969 | 19 | 1 | 1 | Stewart Calculus, Sect 9 1 #5d
+1426 | 10 | 0 | 3 | 10.1 #18 Convert parametric to Cartesian (rectangular)
+16957 | 201 | 5 | 14 | Derivative of ln(e^-x + x*e^-x)
+23263 | 441 | 3 | 33 | Integral of tan(x)*sec^3(x), tan sec approach
+54304 | 1295 | 29 | 103 | derivative of (1+1/x)^x
+7693 | 71 | 0 | 4 | Rate, time, distance plane & boat algebra word problems (System of equations)
+5199 | 16 | 0 | 2 | [COMPASS] (Q6.) Algebra, official practice problems
+2887 | 36 | 0 | 0 | Series, 11 2 #35, Test for Divergence
+37998 | 1164 | 18 | 76 | Substitution first, then partial fractions, integral of 1/(sqrt(x)+cube root of x)
+65142 | 2455 | 44 | 284 | Sum of 1/n^4 (Fourier Series & Parseval's Theorem)
+17515 | 697 | 6 | 122 | Symmetric Matrix
+22918 | 359 | 5 | 5 | Sect 2.2, #15
+3229 | 29 | 0 | 1 | Percentage word problem (algebra basics)
+2475 | 44 | 0 | 9 | Check if 3 functions are LD or LI, Q1b
+62647 | 1980 | 77 | 212 | sqrt(2)!
+2852 | 61 | 0 | 4 | 11 7#12 Both LCT and DCT
+10568 | 328 | 0 | 19 | Math for fun#4, THIS IS CALCULUS ALREADY!
+32930 | 1139 | 15 | 118 | Ostrogradsky method, integral of 1/(1+x^2)^2
+222 | 5 | 0 | 3 | Asim Performing in front of UB
+41071 | 504 | 14 | 35 | Check for Linear Independence (3 functions, using Wronskian)
+291967 | 2114 | 191 | 151 | integral of sqrt(1+x^2)
+11276 | 72 | 4 | 12 | 積分 1/(1+sin(x)), integral of 1/(1+sin(x))
+203 | 8 | 0 | 0 | (Q12.) So, you think you can take the derivative?
+28917 | 1235 | 19 | 249 | Q75, integral of 1/(1+x^2)^(5/2), trig sub
+919 | 19 | 0 | 1 | verifying trigonometric identities, Q11
+93951 | 841 | 51 | 42 | integral of tan^2(x)*sec(x)
+409 | 5 | 0 | 0 | (Q14.) Sample 3 GCC Math 101/120 Common Final Intermediate Algebra
+111455 | 1302 | 46 | 81 | Integral of sec^4x
+12159 | 359 | 3 | 22 | derivative of ln(sinh(x)) vs  derivative of sinh(ln(x))
+28525 | 362 | 19 | 28 | How to solve word problems? (Sum of twice vs. Twice the sum)
+563 | 10 | 1 | 8 | Completing the Square Intro & (Q1.)
+68793 | 3138 | 33 | 363 | i^x=2 vs x^i=2
+29360 | 1320 | 36 | 160 | A Romanian Cubic Matrix Equation
+349 | 10 | 0 | 0 | Find all trig function values based on a given one, ex4
+7972 | 80 | 3 | 7 | Sect 4.7 #15 Optimization, BOX: given surface area, find maximum volume
+51891 | 1028 | 14 | 76 | Almost Exact Differential equations & special integrating factor
+222 | 6 | 0 | 1 | Solve Absolute Value = Positive (ex6)
+142173 | 4120 | 34 | 186 | understand u substitution, 3 slightly harder examples, (expo 2-in-1 marker review)
+858 | 2 | 0 | 0 | Q39 MET115
+35172 | 310 | 8 | 21 | Integral of x*sec^2(2x)
+10372 | 59 | 2 | 7 | [COMPASS] (Q9.) Numerical Skills/Pre-algebra, official practice problems
+31455 | 1593 | 22 | 314 | 3 Algebra Shortcuts
+2278 | 50 | 0 | 1 | 11 10#49 Integrate Power Series
+9061 | 752 | 5 | 163 | integral of sqrt(tan(x)), CRAZY!  (find the small mistake)
+33332 | 342 | 24 | 21 | Integral of cot^4(x)
+24854 | 277 | 9 | 17 | Solve cos^2(θ)=1/4
+70753 | 2053 | 27 | 184 | Unusual trig sub integral (BIG INTEGRAL CHALLENGE)
+31329 | 486 | 2 | 37 | Existence & Uniqueness Theorem, Ex2
+784 | 19 | 3 | 4 | MARKERS TRICK THAT YOU CAN DO NOW!!
+10285 | 237 | 4 | 28 | Differential equation of the form dy/dx=G(ax+by), *end up with the ans in the back of the book*
+3971 | 64 | 0 | 7 | Hydrostatic force, square
+1129 | 21 | 0 | 1 | verifying trigonometric identities, Q8
+104 | 2 | 0 | 2 | Polynomial Business Q8
+11884 | 444 | 5 | 71 | This is NOT hard because it's easy!! #NotOnCalc2Final
+180 | 5 | 0 | 0 | (Q22.) So, you think you can take the derivative?
+38242 | 1650 | 17 | 143 | Spencer's favorite logarithm property!
+74055 | 1147 | 19 | 85 | Power series of arctan(x), with radius and interval of convergence, long vid but detailed!
+8826 | 157 | 3 | 13 | Sect 7 2 #39 -ln|cscx+cotx| = ln|cscx-cotx|
+20244 | 810 | 20 | 274 | Bijection between (0,1) and (-inf, inf)
+28878 | 1097 | 9 | 175 | regular derivative vs. logarithmic derivative
+1869 | 59 | 1 | 13 | 3
+7050 | 282 | 2 | 74 | Practice Your Trig, (given B is an answer, find the other!)
+4658 | 50 | 0 | 2 | Limit, Sect 2 5 #5
+2323 | 35 | 0 | 2 | Definition of derivative in terms of a limit, (def 2)
+531 | 7 | 0 | 0 | Intermediate Algebra Q8 (with music) | Los Angeles Pierce College math assessment sample
+36383 | 1769 | 18 | 180 | IIT JEE Integral SOLVED!
+27134 | 205 | 7 | 12 | Q109, limit of cos(x)/(1-sin(x))
+3392 | 10 | 0 | 1 | [COMPASS] (Q10.) "2nd way" Algebra, official practice problems
+54218 | 1415 | 38 | 208 | It wasn't me, it was wikipeidia
+55269 | 499 | 33 | 52 | Factor x^5+x^4+x^3+x^2+x+1 by grouping
+2530 | 28 | 0 | 5 | Calculus, 11 8 #8, Interval of Convergence R=0
+529 | 9 | 0 | 2 | Do the harlem shake (youtube secret for fun)
+16230 | 545 | 11 | 163 | math for fun, a VERY counter intuitive speed problem! Long Beach marathon 2017
+28191 | 396 | 6 | 21 | both SEPARABLE & LINEAR differential equation
+31449 | 1056 | 23 | 201 | Integral of x^x (graphical solution)
+79993 | 1254 | 14 | 66 | Q275, Taylor Series of ln(x) at x = 2
+151765 | 2024 | 47 | 120 | Integral of tan^4x
+379887 | 9767 | 241 | 1191 | The Limit (do not use L'Hospital rule)
+4544 | 198 | 3 | 39 | Parametric vs. Cartesian (vid#5): Area
+15300 | 125 | 1 | 9 | Optional Challenge, Verifying a solution to a  y''+y=tan(x),
+28570 | 388 | 19 | 22 | integral of cos(x)/(1+cos(x)), weierstrass substitution
+205 | 3 | 0 | 1 | Q13, the algebra way!
+9112 | 267 | 7 | 37 | Q7, derivative of 5^sin(x)
+19727 | 858 | 16 | 116 | A Quick Fun Matrix Determinant Problem
+24421 | 584 | 8 | 47 | Derivative of cosh^-1(x), two ways
+27896 | 543 | 11 | 30 | 11 7#14 Checking for Absolute Convergence
+9823 | 124 | 1 | 6 | Check for Linear Independence (3 functions, using definition)
+34098 | 1196 | 11 | 67 | why is cosine called the "co"sine?
+2301 | 68 | 0 | 3 | Solving Equations in Quadratic Form
+33982 | 1579 | 12 | 171 | My Second Quintic Equation & Chebyshev Polynomial
+72979 | 730 | 41 | 48 | How to solve trig equations, tan(θ)=-sqrt(3), θ in [0, 360)
+7893 | 302 | 5 | 55 | checking a two-sided limit is like... checking bf & gf
+70438 | 2083 | 24 | 242 | THE FACT
+458 | 9 | 0 | 0 | Graph the equation of a circle from its standard form
+24755 | 847 | 7 | 116 | Evaluating limits algebraically, part1
+136510 | 1524 | 52 | 91 | Integral of tan^-1(x)
+18951 | 838 | 10 | 139 | Rationalize the numerator vs  L'Hospital Rule
+939 | 2 | 0 | 0 | Q55 MET115
+7858 | 70 | 3 | 4 | graph of y=tan(pi/2*x)
+3999 | 172 | 2 | 18 | Parametric vs. Cartesian (vid#6): Arc Length
+42223 | 401 | 12 | 20 | Inverse Laplace Transform, Sect 7.4#1
+475 | 6 | 0 | 2 | Polynomial Long Division vs. Synthetic Division (which one is better?)
+7441 | 309 | 4 | 39 | Q4, know your trig identities
+932 | 12 | 0 | 2 | Equation of tangent line, ex1
+9739 | 124 | 2 | 9 | Sect 5 5 #11 Integrals with U-Substitution, 7th Ed. Stewart Calculus Solutions
+79390 | 1216 | 18 | 89 | solve y''+y=tan(t), variation of parameters
+20379 | 670 | 8 | 205 | Q202, Find a formula for 0,0,1,0,0,1,...
+224 | 6 | 0 | 0 | (Q20.) Solve equation with cube root
+569 | 22 | 0 | 1 | Solve for a constant in a differential equation, an exam question
+729 | 4 | 0 | 0 | Q48 MET115 Convert Scientific Notation to Standard Notation
+1601 | 76 | 0 | 9 | Some Calculus Behind 1/81
+13228 | 275 | 2 | 35 | Q154, separable differential equation
+24511 | 873 | 8 | 113 | Integral of tanh(x) vs integral of sech(x)
+425 | 16 | 0 | 1 | A System of Equations with no solution
+130880 | 996 | 57 | 50 | Sect 5 5 #40, Integral sin(x)/(1+cos^2(x))
+5634 | 161 | 10 | 68 | Introducing "Dr. Peyam's Show", ft Oreo
+9538 | 304 | 1 | 30 | derivatives of tan(x) and cot(x), quotient rule, cofunction identities
+3225 | 87 | 0 | 3 | Understand reversed power rule for integration, 5 essential examples
+603 | 5 | 0 | 0 | [GCC Math 101/120 Common Final Sample 1] (Q8.) Solve Rational Equation
+13678 | 545 | 8 | 70 | Quotient Rule Proof
+19149 | 599 | 12 | 96 | Vertex formula of a parabola, (algebra-student-friendly calculus, part1)
+657 | 5 | 0 | 0 | [GCC Math 101/120 Common Final Sample 1] (Q11.) Graph System of Inequalities
+1098146 | 24245 | 728 | 1878 | Math for fun, sin(z)=2
+16131 | 676 | 9 | 118 | subfactorial & derangement, an explicit approach
+87032 | 2829 | 23 | 459 | A Taste Of Real Analysis (adult calculus)
+559 | 3 | 0 | 0 | (Q1) Sample #1, Math 141/146 common final, Glendale community college
+136867 | 1787 | 51 | 120 | inverse laplace transform, example#5, with completing the square
+1002 | 14 | 0 | 2 | equation of the line tangent to ln(x^2-3x+1) at x=3
+9802 | 495 | 5 | 86 | Connecting these Two Integrals with Integration by Parts
+95560 | 2762 | 38 | 459 | double factorial!!
+74 | 3 | 0 | 0 | 14
+1904 | 84 | 2 | 4 | Derivative Flashcards (GREAT FOR CALC 1)
+303884 | 6473 | 90 | 376 | (1/2)!
+24647 | 686 | 14 | 118 | series of n^n/(n!)^2, converge or diverge?
+41609 | 1406 | 11 | 184 | Math for fun, b^x vs. x
+4299 | 77 | 0 | 7 | Radius and interval of convergence of a power series, using ratio test, ex#4
+19693 | 779 | 7 | 158 | PROVE THIS, a property of improper integrals, bprp retro!
+203742 | 5860 | 162 | 582 | Square Root of 2, Newton's method vs Euler's method
+168852 | 4268 | 85 | 322 | sin(10°) is irrational, classic math proof
+1090 | 12 | 0 | 1 | convert parametric to cartesian (an exam problem), x=1/(1+t), y=1/(1-t)
+12254 | 182 | 4 | 10 | Evaluate limits with complex fractions
+1131 | 4 | 0 | 0 | Q23 MET115
+25680 | 724 | 8 | 57 | Integral battle#20, hidden u-sub
+3268 | 40 | 1 | 4 | Calculus, 11 6 #3, Ratio Test
+147 | 3 | 0 | 1 | Q2 Normal
+56 | 2 | 0 | 0 | Sect 3 3 #15
+2631 | 62 | 0 | 13 | LUCKY FRACTIONS!
+12892 | 392 | 18 | 119 | Try not to go insane!
+4850 | 51 | 1 | 3 | tangent line approximation for cbrt(1001)
+500 | 6 | 0 | 0 | [GCC Math 101/120 Common Final Sample 1] (Q23.) Graph Equation of a Circle
+97448 | 1260 | 29 | 91 | Sect 7 2 #39 Integral of csc(x), the standard result
+23483 | 431 | 8 | 48 | derivative of ln(1+1/x), two ways
+61 | 5 | 0 | 2 | Graph of f f' and f'' and how to make them as pretty as you'd like
+3636 | 65 | 0 | 5 | Q16, derivative of x*tanh(x)+ln(sqrt(1-x^2))
+1641 | 29 | 1 | 2 | 1/81, the pattern will surprise you!!
+1748 | 19 | 0 | 0 | Calculus, Comparison Test (LCT), 11 4 #21
+85557 | 1545 | 25 | 145 | Power Series Solution for differential equation
+40870 | 280 | 5 | 13 | [ACCUPLACER] Arithmetic (Q5.) Official Practice Problems
+119 | 5 | 0 | 0 | Q26 FAST
+145424 | 2689 | 62 | 200 | Q272, Series of n!/n^n, ratio test
+1390 | 25 | 0 | 2 | Sect 6.1 #11
+1192 | 23 | 0 | 3 | definition of derivative, hard example
+899 | 4 | 0 | 0 | Q70 MET115
+8256 | 95 | 5 | 7 | 11.7#13 Ratio Test, Series 3^n*n^2/n!
+805067 | 23034 | 752 | 1589 | Dear Tejas, challenge ACCOMPLISHED! (Speed run, Uncut)
+48182 | 1386 | 15 | 197 | Area of an inscribed triangle
+248 | 2 | 0 | 0 | (Q4) Sample #1, Math 141/146 common final, Glendale community college
+104313 | 1345 | 44 | 85 | System of differential equations by elimination, ex1
+529 | 6 | 0 | 0 | (Q3.) Sample 3 GCC Math 101/120 Common Final Intermediate Algebra
+124611 | 2245 | 71 | 292 | integral of sec(x), 4 results!
+60060 | 2095 | 33 | 239 | Brilliant System of Equations! (AMC Style)
+9241 | 627 | 3 | 276 | 100,000 factors, ISN'T IT!!!!!!!!
+9079 | 110 | 0 | 6 | Evaluate limits by factoring and canceling
+659307 | 16754 | 328 | 1142 | i^i
+17814 | 728 | 10 | 82 | Q120, Be Careful with L'Hospital's Rule
+48425 | 3383 | 11 | 341 | MOST REQUESTED CHEN LU PROBLEM!!!
+151781 | 3428 | 69 | 406 | How to graph y=x^x by using calculus?
+17491 | 124 | 2 | 12 | [ACCUPLACER] (Q2.) Elementary Algebra Official Practice Problems
+3348 | 50 | 4 | 8 | Bearing Word Problem Ex1
+69044 | 589 | 25 | 29 | Laplace Transform of t*cos(t)
+41655 | 375 | 14 | 15 | limit of  x^3*e^(-x^2) as x goes to infinity, L'Hospital's Rule
+3224 | 110 | 4 | 22 | finding reference angles, trig hw help
+110 | 3 | 0 | 0 | Completing the Square (Q6.)
+59688 | 2438 | 28 | 344 | Extreme Trig Question
+3107 | 28 | 1 | 1 | Regular Power Rule VS Reverse Power Rule
+569 | 4 | 0 | 0 | [GCC Math 101/120 Common Final Sample 1] (Q15.) Compound Interest Problem
+7099 | 71 | 0 | 7 | Calculus Sect 6 4 #19, *two labeling* Calculating Work
+132557 | 4326 | 102 | 347 | pi-th derivative of x^pi
+46230 | 547 | 5 | 23 | Improper integrals 1/(x*ln(x)) vs. 1/(x*(ln(x))^2) from e to inf
+48460 | 755 | 2 | 59 | sect 2.6, #35, limit at infinity arctan(e^x)
+37602 | 1628 | 7 | 202 | 1!*2!*3!*...20!, remove a factorial to make a perfect square
+394 | 10 | 0 | 0 | Is this linear growth?
+1750 | 50 | 0 | 11 | How to Divide Whole Numbers, My Favorite Division Problem (Part 5)
+34979 | 1147 | 14 | 154 | Generalized Binomial Theorem
+44287 | 737 | 8 | 28 | Radius and interval of convergence of a power series, using ratio test, ex#1
+33715 | 1091 | 13 | 114 | Implicit Differentiation Hack, derivative of x^y=y^x
+852 | 6 | 0 | 0 | Q57 MET115
+72974 | 1118 | 23 | 50 | Laplace transform of t
+736 | 4 | 0 | 0 | Q63 MET115
+211 | 5 | 0 | 0 | (Q19) Sample #1, Math 141/146 common final, "less than" situation
+2317 | 51 | 0 | 5 | Increasing/Decreasing, Concave Up/Down, Inflection Points
+176662 | 4604 | 63 | 344 | integral of ln(x) from 0 to 1, ft Oon Han
+326 | 3 | 0 | 0 | (Q8) Sample #1, Math 141/146 common final, Glendale community college
+453 | 4 | 0 | 1 | Intermediate Algebra Q10 (with music) | Los Angeles Pierce College math assessment sample
+82137 | 880 | 18 | 49 | Q24,  Integral of x*cos(5x), Integration by Parts
+265 | 9 | 0 | 2 | Another dance video
+109854 | 3555 | 61 | 412 | I couldn't do this integral when I was 3...
+176 | 4 | 0 | 0 | (Q22) Sample #1, Math 141/146 common final, long division with polynomials
+33366 | 1336 | 13 | 175 | Sum of n/2^n quick & easy! (Dear Johannes)
+10367 | 349 | 8 | 47 | Calc 1 bonus problem, asymptote of polar curves
+13262 | 135 | 9 | 29 | 積分 1/(sqrt(e^x-1))
+14817 | 1286 | 20 | 352 | Which of the following is NOT a chicken?
+147022 | 4970 | 50 | 283 | Solving 3 Weird Logarithm Equations
+5261 | 176 | 4 | 40 | Understand the Comparison Test THIS WAY! (Improper integral, infinite series)
+21998 | 793 | 28 | 194 | Integral Addictions!
+14814 | 528 | 2 | 65 | Parametric vs. Cartesian (vid#1): Graphing & Converting
+39338 | 645 | 21 | 65 | Comparison Theorem doesn't work, integral of 1/(x^2-1) from 2 to inf
+7028 | 44 | 0 | 10 | [COMPASS] (Q16.) Algebra, official practice problems
+19013 | 258 | 6 | 15 | Laplace Transform of second derivative, laplace transform of f''(t)
+1086 | 23 | 0 | 0 | Limit, Sect 2 5 #8
+59344 | 822 | 41 | 187 | 高斯積分, 積分 e^(-x^2) 中文版, Gaussian integral, integral of e^(-x^2)
+56 | 4 | 0 | 0 | Rule of Exponent Ex#1
+360 | 4 | 1 | 0 | Q26, multiply complex numbers
+9334 | 408 | 0 | 91 | An Afternoon With Prof. Pearsall (part1: it all started with long division?)
+62730 | 1618 | 30 | 176 | How to Solve a Recurrence Relation?
+35395 | 830 | 16 | 77 | Power series of sin(x) and cos(x) at 0
+21203 | 1302 | 19 | 207 | Prime factor 1002004008016032
+72154 | 2690 | 42 | 312 | Don't solve for x, solve for q
+673 | 3 | 0 | 0 | Q59 MET115
+564 | 8 | 0 | 0 | Q14 Rationalize the denominator with square root
+88941 | 1106 | 39 | 72 | Laplace transform of f(t-a)u(t-a), the shifted unit step function
+66498 | 2691 | 39 | 340 | What is i^i^i^...  ?
+2076 | 38 | 2 | 5 | 10.2.15 1st and 2nd derivative of a parametric equation
+62583 | 2621 | 32 | 317 | A Complex System of Equations | Putnam & Beyond
+1054 | 11 | 0 | 0 | Stewart Calculus, Sect 9 4 #21
+3635 | 51 | 3 | 0 | derivative of sin^-1(2x+1)
+7081 | 39 | 1 | 5 | Laplace Transform of the first and second derivative
+63396 | 754 | 63 | 57 | tan(pi/8), using half angle formula of tangent
+188 | 3 | 0 | 0 | (Q14) Sample #1, Math 141/146 common final, completing the square
+16207 | 176 | 5 | 14 | sin(pi/12), using half angle formula
+27494 | 2831 | 20 | 302 | Integral of sin(sin(sin(...)))
+42614 | 601 | 11 | 25 | Inverse Laplace Transform of arctan(1/s), Sect 7.4#36
+1183 | 29 | 5 | 0 | Q11
+60948 | 2196 | 21 | 162 | The complex relationship between regular and hyperbolic trig functions
+94411 | 1138 | 41 | 71 | sin(3x) in terms of sin(x)
+5202 | 24 | 3 | 3 | Q19, ACCUPLACER college level math, official sample problems
+38278 | 921 | 19 | 92 | Converting between bases DIRECTLY (no need to go to base 10)
+43674 | 1887 | 18 | 189 | BIG PI VS. BIG SIGMA
+32348 | 403 | 10 | 27 | Q114, Limit of x/(x-1)-1/ln(x) as x goes to 1, L'Hospital's Rule
+2323 | 26 | 0 | 1 | Series, 11 2 #50
+2314 | 19 | 0 | 1 | Stewart Calculus, Sect 7 8 #51
+73631 | 770 | 20 | 32 | Limit of (1-2x)^(1/x) as x goes to 0, L'Hospital's Rule
+8255 | 342 | 1 | 87 | Domain of a function, the 3 common cases to be careful!
+8150 | 110 | 0 | 4 | Series, 11 2 #15, Conv  of Seq  vs  Conv  of Series
+2021 | 10 | 0 | 2 | Elementary Algebra Q2  |  Pierce College math assessment sample MDTP
+32469 | 444 | 15 | 29 | fun integral battle#5, partial fraction, cover-up method
+1370 | 13 | 0 | 1 | derivative of cos(a^3+x^3), chain rule
+16940 | 437 | 5 | 63 | 5 actual AP exam questions on Limits, #bprpLIVE
+37738 | 2032 | 17 | 185 | A Power Series "Equation”
+35674 | 1169 | 16 | 125 | Want To Find (WTF) CRAZY integral formulas via non rigorous Leibniz's Rule
+18278 | 608 | 7 | 104 | Classic Tricky AP Calculus AB Problem (given f', answer about f)
+1860 | 47 | 3 | 11 | system of equations, with a shot of vodka
+1124 | 28 | 0 | 2 | Solving a logarithm equation with log properties (step by step)
+144154 | 4785 | 94 | 591 | sin(3 degrees) from scratch
+21164 | 141 | 3 | 2 | [ACCUPLACER] (Q1.) Elementary Algebra Official Practice Problems
+84258 | 2082 | 30 | 143 | Impossible Calculus 2 integral?
+24472 | 830 | 12 | 88 | Q272, integral of x^3*tan^-1(x) as a power series
+478 | 8 | 2 | 5 | Translation of Functions (part3): Flip the graph of a function, including inverse
+6324 | 70 | 5 | 5 | Integral of sec^2(t) from 0 to pi/4
+63483 | 1788 | 26 | 563 | Half integral of x?
+8983 | 146 | 4 | 23 | Q71, integral of 1/(1-x^4), with some cover-up method for partial fractions
+1001 | 16 | 0 | 0 | Convert an exponential equation into logarithmic form
+736 | 4 | 0 | 0 | Algebra Readiness Q3  |  Pierce College math assessment sample
+510 | 8 | 0 | 1 | RectangleSum on GeoGebra
+4699 | 49 | 0 | 4 | Find the least positive coterminal angle, part2
+856 | 7 | 0 | 0 | Q37 MET115 Factor Quadratic Expression
+76357 | 3671 | 70 | 590 | What is i?
+99676 | 3836 | 96 | 486 | Quadratic Formula Proof (speedrun)
+31809 | 162 | 6 | 8 | [ACCUPLACER] Arithmetic (Q7.) Official Practice Problems
+2219 | 17 | 0 | 2 | Algebra Readiness Q1  |  Pierce College math assessment sample
+10707 | 59 | 2 | 5 | [ACCUPLACER] (Q7.) College-Level Math, Official Practice Problems
+6292 | 20 | 0 | 0 | [COMPASS] (Q3.) Algebra, official practice problems
+6286 | 280 | 2 | 31 | Integral battles, practice#1 intro with 4 examples
+1136 | 3 | 0 | 0 | Q28 MET115
+17583 | 540 | 13 | 253 | Why wasn't it 1/6???
+24312 | 662 | 10 | 37 | Solving log equations (4 examples)
+295841 | 5019 | 101 | 212 | Q42, integral of sin^2x*cos^2x, calculus 2
+438 | 4 | 0 | 0 | (Q8.) Sample 3 GCC Math 101/120 Common Final Intermediate Algebra
+611 | 15 | 0 | 1 | Travel backwards on a parametric curve, uniqlo x kaws, snoopy shirt
+317 | 12 | 0 | 0 | Solving logarithmic equations (part1)
+486466 | 4253 | 134 | 157 | Integral of sin^2x*cosx vs integral of sin^2x
+4503 | 20 | 0 | 1 | [COMPASS] (Q10.) "1st way" Algebra, official practice problems
+740 | 3 | 0 | 0 | Algebra Readiness Q6  |  Pierce College math assessment sample
+259 | 3 | 0 | 0 | (Q25) Sample #1, Math 141/146 common final, word problem: mixture
+19167 | 356 | 2 | 16 | separable differential equations, 2.2#10
+618 | 6 | 0 | 0 | Solving for a variable from a formula
+82945 | 2517 | 34 | 356 | How to properly cancel out the sine: sin(pi*x)=sin(x)
+32741 | 884 | 17 | 124 | Do you agree? -1/2 ?
+9996 | 355 | 2 | 25 | Three Pretenders, by Mr. HIll!
+743620 | 14075 | 391 | 1120 | The main dish, integral of sin(x)/x from 0 to inf, via Feynman's Technique
+17522 | 263 | 5 | 17 | derivative of csc(x), using quotient rule
+16709 | 296 | 3 | 9 | sect 2.6, #39, limit at infinity e^(-2x)*cos(x)
+194380 | 6266 | 95 | 446 | We must do this do this carefully!
+47915 | 2086 | 121 | 546 | Integral of i^x
+17007 | 195 | 2 | 17 | derivative of sech^-1(x), inverse hyperbolic secant
+105300 | 3173 | 173 | 751 | 1 integral, 100 times!
+878 | 8 | 1 | 2 | [Math 101/120 Sample 1] (Q1.) Quicker Way "Binomial Expansion"
+7948 | 427 | 6 | 74 | 3 markers in one hand! Struggle but I tried!
+10834 | 48 | 0 | 0 | [ACCUPLACER] (Q17.) Elementary Algebra Official Practice Problems
+9330 | 348 | 11 | 77 | Integrals for you hoodie!
+2304 | 22 | 0 | 1 | Critical number of (y-1)/(y^2-y+1)
+13727 | 769 | 6 | 101 | Sicherman Dice
+90694 | 899 | 53 | 34 | partial fraction for 1/(x(x^2+1))
+789 | 10 | 0 | 0 | Integral of (1+2y)^2 from 1 to 2
+7199 | 258 | 1 | 22 | derivative of sec(x) and csc(x), quotient rule, power + chain rule
+5156 | 84 | 0 | 6 | Exact Differential Equation, 2.4#13
+732 | 21 | 0 | 1 | sin86cos26-cos86sin26
+64381 | 2325 | 32 | 256 | Binomial Theorem (combinatoric approach)
+810 | 4 | 0 | 1 | Q52 MET115
+100675 | 4321 | 67 | 485 | i^i^i
+988 | 13 | 0 | 1 | Quotient rule for derivative, ex1
+46116 | 1205 | 29 | 140 | integral of ln(x)/(x-1) from 0 to 1, integration with power series,
+1102896 | 18156 | 528 | 1071 | The famous Equation x^2=2^x (ALL SOLUTIONS!)
+493 | 8 | 0 | 1 | Sect 4 3 #8 Calculus
+69135 | 2783 | 89 | 564 | Do NOT Use L'Hospital's Rule For This Limit!
+12294 | 607 | 13 | 124 | They Can Be The Same, But NOT ALL THE TIME!!
+7225 | 130 | 0 | 6 | 11 10#55 Use Power Series to Evaluate Limit
+77851 | 2819 | 28 | 259 | Infinitely Nested Michael Jordans
+1456 | 25 | 0 | 1 | verifying trigonometric identities, Q2
+516 | 28 | 0 | 4 | Studying Finals Be Like
+5746 | 86 | 1 | 6 | Existence & Uniqueness Theorem, Ex1.5
+6267 | 39 | 0 | 2 | ACCUPLACER college level math, Q5
+465 | 4 | 0 | 0 | Intermediate Algebra Q4 **What if**
+19387 | 128 | 1 | 8 | [ACCUPLACER] Arithmetic (Q15.) Official Practice Problems
+3105 | 28 | 0 | 1 | Chain rule for derivative
+11156 | 505 | 4 | 96 | Chain Rule Explained (with a box)
+74779 | 2229 | 23 | 112 | a double integral,  3 ways
+690 | 20 | 0 | 0 | Graphing an ellipse
+28540 | 443 | 3 | 39 | Sect 7 1 #22, integral of (arcsin(x))^2
+184311 | 3422 | 274 | 262 | i integrated x^x?  (see description for fematika's vid, integral of x^x from 0 to 1)
+5310 | 71 | 0 | 9 | 11.7#5 Ratio Test
+528 | 5 | 0 | 1 | (Q4.) Sample 3 GCC Math 101/120 Common Final Intermediate Algebra
+467 | 11 | 0 | 1 | How to write an equation of a circle with the given center and radius
+45612 | 2107 | 22 | 281 | One of my Favorite Integrals (my favorite comment at the end)
+44707 | 1722 | 14 | 183 | Integral of sqrt(cot(x))-sqrt(tan(x)), classic IIT JEE integral
+114 | 3 | 0 | 0 | Q20 FAST
+41347 | 2251 | 21 | 372 | Putnam Exam 1989: when can 101010...1 be prime?
+320727 | 3872 | 99 | 179 | Integral of tan^2x
+5560 | 38 | 0 | 6 | Q16, ACCUPLACER college level math, official sample problems
+1894 | 15 | 0 | 1 | derivative of sqrt(1+2e^(3x))
+156 | 3 | 0 | 3 | S
+19073 | 762 | 11 | 120 | A Baby Putnam Exam Problem
+4784 | 149 | 1 | 15 | Q3, Quotient Rule with Square Root Function
+10906 | 498 | 4 | 59 | The product rule, quotient rule and chain rule!
+179 | 3 | 0 | 0 | (Q18) Sample #1, Math 141/146 common final, Glendale community college
+136 | 8 | 0 | 0 | Equations with Two Absolute Values (ex5)
+16441 | 127 | 2 | 11 | Casio fx-115ES Plus: Solving Quadratic Equations
+8109 | 23 | 0 | 3 | [COMPASS] (Q1.) Algebra, official practice problems
+464 | 5 | 0 | 0 | Intermediate Algebra Q13 (with music) | Los Angeles Pierce College math assessment sample
+2300 | 26 | 0 | 3 | Calculus, Integral Test, 11 3 #13
+6907 | 124 | 5 | 16 | integral battle#13, the old, the new!
+173326 | 3940 | 154 | 220 | This is how we partial fraction, repeated linear factors, "build up the power"
+1310351 | 37502 | 575 | 2185 | 100 Derivatives (in ONE take, 6 hrs 38 min)
+8612 | 377 | 2 | 44 | Lil Limit Quiz, Q1 & Q2
+512 | 17 | 0 | 0 | Find all trig function values based on a given one, ex1
+22332 | 180 | 8 | 8 | [Calculus] Sect 7.4 #7, Integral of x^4/(x-1), Partial Fraction, Stewart Calc 7th ET ed
+47332 | 1701 | 19 | 143 | Integral of 1/(x^4+1) from 1 to inf
+3984 | 183 | 1 | 25 | Lil Limit Quiz, Q5 & Q6
+5777 | 17 | 0 | 1 | [COMPASS] (Q15.) Algebra, official practice problems
+2474 | 44 | 0 | 0 | Sect 6 2 #3
+9182 | 47 | 0 | 2 | [COMPASS] (Q8.) Numerical Skills/Pre-algebra, official practice problems
+82364 | 2767 | 59 | 326 | Infinite Power Tower Equations Battle!
+653 | 5 | 0 | 1 | Intermediate Algebra Q3 (with music) | Los Angeles Pierce College math assessment sample
+277225 | 7506 | 128 | 678 | derivative of tetration of x, (hyperpower)
+907 | 19 | 0 | 3 | Factor completely Q13 to Q15, difference & sum of two cubes
+39222 | 404 | 11 | 21 | Laplace transform of e^(at)
+43935 | 455 | 10 | 41 | Error Bound Formulas for midpoint and trapezoid rules, sect7.7#19b
+17261 | 581 | 7 | 140 | integral of sqrt(tanh(x))
+105203 | 2240 | 115 | 223 | CAN YOU DO THIS:  1 * 1 = ?
+31077 | 1121 | 17 | 209 | Trinomial Theorem
+271 | 15 | 0 | 1 | MET#49, Solving a Rational Equation
+3951 | 176 | 6 | 22 | Q9, Quotient Rule, derivative of a rational function
+4487 | 169 | 5 | 11 | Lil Limit Quiz, Q7 & Q8
+12041 | 59 | 6 | 3 | [ACCUPLACER] (Q18.) Elementary Algebra Official Practice Problems
+170 | 3 | 0 | 0 | (Q21) Sample #1, Math 141/146 common final, Glendale community college
+381605 | 2257 | 126 | 136 | Integral of sin(x)*cos(x)
+44248 | 1181 | 12 | 123 | Math for fun#15, GEOMETRIC SERIES WANNABE?
+1008 | 22 | 1 | 6 | 20 Tic-Tac-Toe Factoring (part 1, (Q1.) - (Q4.))
+3183 | 55 | 0 | 4 | Separable differential equation, factor by grouping
+16177 | 77 | 0 | 4 | [ACCUPLACER] Arithmetic (Q16.) Official Practice Problems
+4186 | 157 | 5 | 46 | I finally got the Water Lewin's dotted lines!
+42212 | 1309 | 24 | 192 | Bad math, good answer!
+92 | 6 | 0 | 1 | 1
+12768 | 546 | 8 | 77 | Differentiability implies continuity, proof
+143682 | 2084 | 47 | 112 | Existence & Uniqueness Theorem, Ex1
+804 | 23 | 0 | 0 | Integral of (x-1)/sqrt(x) from 1 to 9
+75070 | 1557 | 34 | 99 | Changing the order of integration of a triple integral
+54926 | 1837 | 36 | 214 | Which one is the PERFECT circle?
+20943 | 677 | 3 | 53 | Euler's Method, Intro & Example
+114197 | 2783 | 65 | 343 | A strange differential equation y''*(y-1)=y'
+301 | 3 | 0 | 2 | Q4 Divide Fractions
+3854 | 68 | 0 | 9 | The D notation, when the order DOES NOT matter
+725 | 15 | 0 | 1 | Critical number of a x^2*e^(-3x)
+9093 | 188 | 2 | 16 | Existence & Uniqueness Theorem, Ex3.5
+7185 | 40 | 3 | 5 | ACCUPLACER college level math, Q4
+8252 | 208 | 4 | 22 | Equation with two square roots (with a fake solution)
+21842 | 279 | 10 | 20 | Evaluate limits by expanding the power
+1113071 | 23674 | 595 | 1114 | derivative of x^x
+51 | 2 | 0 | 0 | FAST REVIEW Sect4 2 #7 3x3 system of equations
+19980 | 1012 | 10 | 159 | Q160, Newton's Law of Cooling (time of death)
+23153 | 838 | 4 | 187 | Integral of ln(x)*tan^-1(x) from 0 to 1
+352 | 17 | 0 | 4 | Speed run, ratio test
+17926 | 853 | 11 | 88 | Solving 8 Equations w/ Lambert W function
+18498 | 400 | 27 | 70 | What is 1+1? Addition and Subtraction in base 2
+4556 | 71 | 0 | 3 | Sect 5 5 #43 Integrals with U-Substitution
+28064 | 334 | 7 | 13 | Convert degrees, minutes, and seconds into decimal degrees
+78379 | 3339 | 27 | 230 | BIG brilliant integral
+1571 | 32 | 0 | 4 | Vertex, x-int, y-int, of a sideways parabola
+17863 | 533 | 24 | 187 | Revisiting "The Debate", integral of 1/x from -1 to 1
+42764 | 1391 | 20 | 141 | 1^inf approach 1 vs I^inf doesn't approach 1
+27486 | 1004 | 25 | 204 | Is x^3 increasing at 0?
+69315 | 2323 | 28 | 253 | Solving The Elliptic Curve Problem (2020 Oxford Maths Admissions Test)
+46975 | 2340 | 23 | 516 | 5 Levels Of “No Answer" (when should we use what?)
+7482 | 209 | 19 | 62 | Hello
+41307 | 1440 | 14 | 82 | Prove the quadratic formula!  (by completing the sqaure)
+470 | 4 | 0 | 0 | [GCC Math 101/120 Common Final Sample 1] (Q16.) Function Composition
+759 | 11 | 0 | 0 | Integral of x^3-2x from -1 to 2
+357365 | 2591 | 135 | 100 | Integral of 1/e^x
+173676 | 3771 | 153 | 319 | Find the sum of first n squares, difference equation approach, (ft. Max!)
+1758 | 13 | 0 | 7 | Stewart Calculus, Sect 7 8 #57
+5283 | 171 | 4 | 61 | related rates, two cars approaching to the same intersection
+19677 | 609 | 12 | 79 | Q308a, Arc length and Area of Sector of a circle
+1379 | 5 | 0 | 0 | Q15 MET115 MCQ Strategy
+51 | 5 | 0 | 2 | G 1
+11766 | 453 | 21 | 74 | Two Easy Integrals
+20617 | 156 | 7 | 17 | [ACCUPLACER] (Q3.) College-Level Math, Official Practice Problems
+146 | 7 | 0 | 1 | Equations with Two Absolute Values (ex4)
+5538 | 62 | 4 | 3 | Mixing Problem, differential equation, Sect 9 3 #45 Set up
+56969 | 1005 | 12 | 83 | tan(arccos(x))
+14052 | 513 | 3 | 127 | something over zero (non-indeterminate form)
+146155 | 3252 | 68 | 291 | Limit of x^x as x goes to 0+
+15775 | 243 | 5 | 21 | Q41, Integral of cos^5x, by Edward Ezike
+45111 | 782 | 15 | 38 | Auxiliary equations with complex roots, for 2nd order linear differential equations
+32 | 2 | 0 | 0 | Slope from two points ex1
+5082 | 31 | 2 | 1 | Elementary Algebra Q1  |  Pierce College math assessment sample MDTP
+1376 | 23 | 0 | 7 | 11 7#12 blue & yellow chalks? Direct Comparison Test (Short Solution)
+409 | 3 | 0 | 0 | (Q29.) Solve equation with two square roots
+438 | 5 | 0 | 0 | Algebra Readiness Q7 | Pierce College math assessment sample
+402 | 5 | 0 | 0 | (Q14.) Quadratic Inequality
+19577 | 123 | 1 | 8 | [ACCUPLACER] (Q4.) Elementary Algebra Official Practice Problems
+100 | 2 | 0 | 0 | Sect 4 9 #5 Intro to Antiderivative & Backward Power Rule
+31 | 2 | 0 | 1 | Eq of a line from two points EX1
+231 | 7 | 0 | 0 | Solve by Factoring (Q4.) Quadratic Equation
+4884 | 61 | 3 | 3 | Writing a formula for {1, -1, 1, -1, ...} and {-1, 1, -1, 1, ...}
+38036 | 1516 | 21 | 140 | Is there a difference?
+439 | 10 | 1 | 0 | (Q2.) So, you think you can take the derivative?
+15069 | 283 | 3 | 10 | Differential equation in the form of G(ax+by), intro and example
+6589 | 170 | 1 | 7 | fun integral battle#6A: looks different, just off by a constant!
+174759 | 6101 | 128 | 499 | i factorial
+1125 | 17 | 0 | 2 | x should be on the left hand side!
+8426 | 196 | 4 | 17 | HOW TO CREATE YOUR OWN EXACT EQUATIONS?
+3394 | 35 | 0 | 3 | Calculus, 11 9 #25, Power Series Representation
+46310 | 1680 | 14 | 129 | Complex Fourier Series
+34971 | 1887 | 15 | 224 | IIT JEE differential equation (solved in 5 minutes)
+164 | 3 | 0 | 0 | (Q17) Sample #1, Math 141/146 common final, elimination method
+100975 | 2477 | 67 | 316 | Integral of e^tan(x), answer on wolframalpha!
+1521 | 13 | 0 | 1 | Quotient rule for derivative with complex fraction
+499 | 5 | 0 | 0 | Q2, ACT Compass Trigonometry (official sample test problems)
+1980 | 28 | 1 | 1 | verifying trigonometric identities, Q1
+5690 | 126 | 9 | 21 | Solve Quadratic Inequality (graphically & algebraically)
+4370 | 77 | 0 | 3 | Series, 11 2 #21, Geometric Series (with extra example)
+12520 | 401 | 3 | 85 | integral of 1/(x*(1+x^2)^2)
+4866 | 64 | 3 | 6 | derivative of ln(x*sqrt(x^2-1)) vs. derivative of ln(x+sqrt(x^2-1))
+308 | 3 | 0 | 1 | Order of Operations (Intro & Q3, 6) with Positive Whole Number
+6578 | 31 | 0 | 0 | [ACCUPLACER] (Q12.) College-Level Math, Official Practice Problems
+68623 | 1855 | 40 | 109 | 4 ways to solve quadratic equations
+6045 | 42 | 0 | 3 | Q14, ACCUPLACER college level math, official sample problems, Quadratic equation with Quadratic Form
+189 | 2 | 0 | 0 | (Q10) Sample #1, Math 141/146 common final, Glendale community college
+641 | 7 | 0 | 0 | [GCC Math 101/120 Common Final Sample 1] (Q5.) Complex Fraction
+24778 | 667 | 18 | 98 | Area of a region enclosed by a polar curve, #calc2final
+1478 | 43 | 0 | 3 | Q27, divide complex numbers
+161 | 3 | 0 | 0 | (Q14) Sample #1, Math 141/146 common final, Quadratic Formula
+242682 | 6823 | 215 | 565 | 0^i is NOT 0
+45307 | 1905 | 36 | 224 | Derivative of x choose k
+148 | 7 | 0 | 0 | Equations with Two Absolute Values (ex6)
+201 | 4 | 0 | 0 | 20 Tic-Tac-Toe Factoring (part 3, (Q9.) - (Q12.))
+438 | 5 | 0 | 0 | (Q7.) Sample 3 GCC Math 101/120 Common Final Intermediate Algebra
+38336 | 1116 | 5 | 168 | Power Series Marathon
+73690 | 2044 | 63 | 188 | Cauchy Euler Differential Equation (equidimensional equation)
+23005 | 102 | 5 | 5 | [ACCUPLACER] Arithmetic (Q11.) Official Practice Problems
+1435 | 5 | 0 | 0 | Q11 MET115
+40381 | 550 | 11 | 39 | Integral of sec^6x
+380 | 6 | 0 | 0 | How to Do Polynomial Long Division?
+14756 | 206 | 4 | 17 | weierstrass substitution, integral of 1/(1+sin(x)+cos(x))
+70395 | 2925 | 37 | 372 | Brilliant integral by symmetry, IIT JEE mains 2015
+3810 | 21 | 1 | 3 | second derivative of arcsin(x), with music
+66381 | 1953 | 42 | 141 | what is e, and the derivative of exponential functions
+104241 | 970 | 74 | 48 | Exact values of sin(30), cos(30), tan(30), csc(30), sec(30), cot(30),
+461 | 4 | 0 | 0 | Elementary Algebra Q9  |  Pierce College math assessment sample MDTP
+16656 | 295 | 9 | 23 | sec^2(arctan(x)) as an algebraic expression, secant squared of inverse tangent x
+10084 | 89 | 6 | 23 | 1 solution, no solution, infinitely many solutions (for linear equations)
+1507 | 42 | 1 | 14 | Integral of tan(x), THE WAY THAT YOU HAVEN'T SEEN BEFORE!
+423 | 7 | 0 | 0 | Q7, ACT Compass Trigonometry (official sample test problems)
+6724 | 322 | 9 | 68 | An afternoon with Dr. Peyam, (part2, LIFE AFTER CALCULUS)
+213 | 8 | 0 | 1 | My first Dodger's Game and Kershaw had a NO HITTER! 6/18/2014
+989 | 13 | 0 | 1 | Solve by Factoring (Q1.) to (Q3.)  Quadratic Equation
+63662 | 2139 | 28 | 211 | 8 special functions (as seen on WolframAlpha)
+81925 | 2744 | 29 | 137 | integral of cos(ln(x)), two ways
+214 | 5 | 0 | 0 | Quadratic Formula (Q2.)
+1198 | 13 | 0 | 1 | Q28, solve quadratic inequality from the graph,
+873 | 11 | 0 | 2 | PSQ4
+572686 | 6802 | 225 | 297 | Integral of sin^3(x)
+108105 | 2768 | 100 | 363 | ZERO DOUBLE FACTORIAL, not equal to 1??
+1587 | 49 | 0 | 10 | Q20, complete the square twice to write an equation of a circle in standard form
+1159 | 16 | 0 | 1 | definition of derivative, ex2
+208133 | 3755 | 160 | 417 | Nth term formula for the Fibonacci Sequence, (all steps included), difference equation
+69575 | 1006 | 25 | 104 | Q29, Integral of e^(2x)sin(3x), 3rd stop of DI method, integration by parts
+10143 | 76 | 0 | 5 | ACCUPLACER college level math, Q2
+1365 | 4 | 0 | 0 | Q9 MET115
+27416 | 442 | 7 | 52 | If cos(2θ)=1/3, then sin(θ)=?
+81188 | 1897 | 44 | 247 | derivative of x^y=y^x, calculus 2, AP calculus
+3005 | 146 | 1 | 20 | Arc Length & Surface Area (the 3 Integrals that You Need to Know)
+1244 | 34 | 0 | 3 | Factor completely Q3 to Q5, by grouping
+6004 | 128 | 4 | 17 | Which Logarithmic Equation Has NO Real Solution?
+35884 | 1374 | 49 | 208 | sin(10°) USING COMPLEX WORLD!
+4856 | 166 | 3 | 41 | related rates, heating up a circular metal plate
+47364 | 1208 | 31 | 99 | Reduction formula for integral of sec^n(x)
+1975 | 17 | 0 | 3 | [Math 101/120 Sample 1] (Q1.) Expand Everything "Binomial Expansion"
+16054 | 570 | 2 | 77 | harmonic addition theorem, example
+389 | 7 | 0 | 0 | Q26, how to solve an logarithmic equation?
+99628 | 2764 | 37 | 207 | Q8, OH MAN, THAT - 1
+14286 | 159 | 15 | 21 | Simplify square root of 40 and cube root 40
+89071 | 483 | 9 | 10 | [ACCUPLACER] Arithmetic (Q1.) Official Practice Problems
+47837 | 344 | 13 | 15 | [ACCUPLACER] Arithmetic (Q3.) Official Practice Problems
+20307 | 563 | 5 | 139 | integral of 2/(x^2-1) from 1 to inf (both type 1 and type 2)
+33795 | 1083 | 15 | 157 | Lagrange Multiplier, max of sinx*siny*sinz
+22875 | 298 | 5 | 28 | Q47, Integral of csc(x)sec(x)
+32324 | 1066 | 13 | 79 | My Calculus 2 Exam#3 Solution (sequence & series)
+4833 | 12 | 0 | 0 | [COMPASS] (Q7.) Algebra, official practice problems
+50214 | 2043 | 12 | 299 | Evaluate sin(i)
+401 | 7 | 0 | 0 | Graph f f' and f'' on GeoGebra
+4110 | 80 | 0 | 7 | Degrees to DMS, on TI84
+89310 | 4274 | 54 | 325 | Integral of (x^2+20)/(x*sin(x)+5cos(x))^2
+59951 | 1956 | 43 | 332 | Find the minimal value of x+5/x, (feat. 閃光彈)
+2246 | 21 | 0 | 1 | Product rule for derivative, ex1
+517 | 5 | 0 | 0 | (Q7.) Simplify (4x^5)^(2/3)
+176 | 0 | 0 | 0 | (Q13) Sample #1, Math 141/146 common final, Glendale community college
+469 | 1 | 0 | 0 | find dy for (1-v^2)/(1+v^2)
+879 | 17 | 1 | 0 | Finding a formula for an exponential function from a table
+1693 | 12 | 0 | 0 | 10.1 #13 Convert parametric to Cartesian (rectangular)
+168764 | 6759 | 91 | 504 | Pythagorean Theorem and Its Inverse (My Favorite Proofs)
+513 | 9 | 0 | 0 | Equation of the line containing two points in y=mx+b form
+32964 | 531 | 5 | 37 | Solve second order differential equation by substitution, Q10 on review sheet
+64148 | 2951 | 34 | 247 | Hard IIT JEE Arctangent Integral
+201056 | 1770 | 308 | 64 | Integral of sec^2x
+9676 | 478 | 5 | 65 | My Introduction to Power Series
+73955 | 1949 | 27 | 136 | Q50, 1 minute integral vs. 9 minutes integral
+9375 | 375 | 6 | 51 | Quotient Rule vs. L'Hospital's Rule
+10020 | 90 | 2 | 8 | Product rule for first and second derivative for f(x)=x^4*e^x
+50043 | 1439 | 44 | 152 | integral of e^x*ln(x), dear Wilson,
+167086 | 2575 | 53 | 156 | Q32, integral of e^sqrt(x), integration by parts in the u-world,
+447454 | 5092 | 170 | 317 | Q76, Integral of 1/(1+e^x)
+471 | 10 | 0 | 0 | PSQ8
+83403 | 1437 | 19 | 98 | integral of tan(x)*sec^2(x), two results off by a constant
+208128 | 5892 | 110 | 377 | integral of sqrt(x+sqrt(x+sqrt(x+...))), infinite nested square root
+61702 | 792 | 11 | 43 | Laplace transform of 1
+3971 | 44 | 0 | 2 | Integral of tan(x)*sec^3(x), sin cos approach
+901700 | 20867 | 503 | 1278 | Innocent looking, but ????
+4938 | 106 | 1 | 12 | fun integral battle#6Q: wait, aren't they the same integral????
+22091 | 1698 | 9 | 447 | Liking Math = Being Nerds? (a letter from a 15-year-old subscriber)
+471 | 6 | 0 | 2 | Q23 Equation of a hyperbola from the graph (up-down)
+916 | 9 | 0 | 2 | Differentiating an integral using FTC1, with an integral property
+104 | 3 | 0 | 0 | 4com
+20699 | 844 | 11 | 132 | d/d(x^2)
+38873 | 729 | 19 | 45 | sin(2arctan(x)) as an algebraic expression
+23551 | 526 | 13 | 89 | 0, 1, 0, 1, 0, 1, ... 3 formulas
+53409 | 1445 | 30 | 181 | Sin(10 degrees) is irrational
+41222 | 416 | 24 | 50 | Integral 1/(1+tan(x))
+2099 | 30 | 2 | 6 | Separable differential equation, ex2
+18195 | 76 | 3 | 10 | [COMPASS] (Q1.) Numerical Skills/Pre-algebra, official practice problems
+373912 | 9094 | 216 | 453 | Solving e^x=ln(x)
+40569 | 2775 | 15 | 360 | Pokeball Mic Explained! (FINALLY)
+1946 | 16 | 1 | 1 | Calculus, Sequence 11 1 #51
+4359 | 69 | 0 | 1 | Check for Linear Independence (2 functions)
+1127 | 18 | 0 | 2 | verifying trigonometric identities, Q16
+38990 | 2208 | 15 | 350 | My First Job Story
+62649 | 2319 | 34 | 213 | Can You Solve This Cubic Equation?
+64792 | 1828 | 24 | 132 | Fourier Series of e^x from -pi to pi
+2872 | 60 | 0 | 3 | Understand reversed power rule for integration, the idea!
+1183 | 7 | 0 | 1 | Laplace transform of the first derivative, L{f't}
+32352 | 771 | 10 | 88 | derivative of x^(2/3) by using the definition of derivative
+55822 | 623 | 16 | 28 | Calculus, 11.9 ln(1+x), Power Series Representation
+8261 | 549 | 7 | 63 | The happiest mathematician just got happier!!
+3726 | 38 | 0 | 1 | Calculus, 11 8 #7, Interval of Convergence R=inf
+171 | 6 | 0 | 1 | Solve Absolute Value = Positive (ex5)
+7375 | 316 | 1 | 65 | Corollary of bezout's lemma, (number theory, discrete math)
+1129 | 4 | 0 | 0 | Q29 MET115
+51702 | 1443 | 19 | 150 | Parseval's Theorem
+7096 | 91 | 5 | 6 | Graphing y=-3^x
+29761 | 355 | 10 | 30 | Calculus Sect 6 4 #23, Calculating Work
+1322 | 3 | 0 | 0 | Q19 MET115
+1194 | 28 | 0 | 1 | Factor completely  Q11 to Q12, difference & sum of two squares
+140225 | 4107 | 66 | 361 | Two Easy-Looking Equations
+30959 | 1540 | 24 | 310 | Cousins of Sine
+3304 | 55 | 1 | 14 | special integrating factor of the form x^n*y^m, sect2.5#14
+366776 | 8805 | 274 | 622 | x^x^x^2017=2017, inspired by a coffin question
+1309 | 8 | 0 | 0 | Q15 MET115 Formula Approach
+17601 | 615 | 2 | 51 | Q10, second derivative of an ellipse, by using implicit differentiation
+1680 | 26 | 0 | 1 | Stewart Calculus, Sect 7 7 #11c Simpson's Rule
+34774 | 1618 | 11 | 202 | Proofs of Law of Sine and Law of Cosine
+11710 | 296 | 2 | 38 | Integral of arctan(x^2) from 0 to 1 using power series, #Calc2Final
+3150 | 111 | 2 | 17 | related rates, particle moving along a hyperbola
+438 | 5 | 0 | 0 | Q9, exponential growth equation (with growth rate)
+1701 | 23 | 0 | 2 | PSQ1
+1885 | 16 | 0 | 1 | 10.1#15 Convert parametric to Cartesian (rectangular)
+55314 | 1018 | 7 | 44 | Auxiliary equations with repeated roots
+11695 | 132 | 0 | 4 | Hydrostatic force, Sect 8 3 #4
+250 | 2 | 0 | 0 | (Q7) Sample #1, Math 141/146 common final, Glendale community college
+5199 | 60 | 2 | 4 | Definition of derivative in terms of a limit, (def 1)
+6269 | 267 | 2 | 44 | Solve dy/dx=x*sqrt(y-1)
+3618 | 52 | 2 | 8 | Compound Interest Formula & Doubling Time
+160847 | 5462 | 74 | 305 | ln(-2), how can we have negative number inside of natural logarithm?
+9876 | 140 | 12 | 11 | Multiply (4x+2)^3
+1245 | 5 | 0 | 1 | Q22 MET115 intercepts approach
+65041 | 1996 | 28 | 262 | How to find the sum of n/2^n
+258 | 5 | 0 | 1 | Math 101&120 Sample 2 (Q3) Common Final Glendale College
+103130 | 1734 | 68 | 68 | Prove the Pythagorean identities
+679 | 4 | 0 | 0 | Elementary Algebra Q8  |  Pierce College math assessment sample MDTP
+912 | 18 | 1 | 2 | verifying trigonometric identities, Q17
+194 | 4 | 0 | 1 | Translation of Functions (part2): shift the graph of a log function, 4 examples
+35007 | 1126 | 18 | 153 | Integral of e^(ikx) from -pi to pi
+3686 | 35 | 1 | 6 | Stewart Calculus, Sect 7 8 #49
+7749 | 430 | 4 | 82 | How I Prepared My Teaching Job Interviews
+36948 | 1600 | 44 | 367 | I Got Put in the Math Jail (2019)
+29680 | 440 | 5 | 34 | Inverse Laplace transform with unit step function, sect7.6#13
+18967 | 573 | 13 | 68 | second derivative of x^x
+51203 | 1090 | 13 | 145 | limit of n!/n^n as n goes to infinite
+523451 | 13827 | 275 | 1089 | ARE YOU TIRED OF THIS KIND OF QUESTIONS (a^b vs. b^a)?
+493464 | 5956 | 185 | 340 | Integral of sec^3x
+17864 | 613 | 7 | 116 | ln(2), Simpson vs. Taylor (rewind)
+8454 | 142 | 4 | 9 | Q46, Integral of (cos(x)+sin(2x))/sin(x)
+32 | 1 | 0 | 0 | Domain for Rational Function Ex1
+46730 | 361 | 18 | 22 | Integral of 1/sec(x)
+18447 | 280 | 6 | 23 | P test for improper integral
+22713 | 249 | 9 | 8 | Q111, Limit of ln(x^7-1)-ln(x^5-1) as x goes to 1+
+30965 | 370 | 10 | 24 | derivative of inverse sinh(x)
+1849 | 8 | 0 | 1 | Q4 MET115 Slope-Intercept Form
+5243 | 131 | 2 | 11 | Mastering "factor completely"
+3727 | 31 | 2 | 2 | equation of the tangent line to y=sec(x) at (pi/3, 2)
+10924 | 115 | 1 | 11 | [Many Reasons of Liking the Casio fx-115ES (plus)] Converting Units
+237997 | 3141 | 65 | 187 | Q26, Integral of (lnx)^2
+229913 | 6724 | 122 | 626 | Quadratic Equation in "5"
+26105 | 1095 | 11 | 83 | Central Angle Theorem
+1414 | 9 | 2 | 2 | Algebra Q1, ACT Compass Official Sample Test Questions
+215 | 3 | 0 | 1 | (Q9) Sample #1, Math 141/146 common final, Glendale community college
+1547 | 35 | 0 | 8 | Ti-84 Tutorial, solving 3 by 3 system of equations
+55009 | 2561 | 23 | 302 | Can Area = Arc Length?
+219438 | 6158 | 86 | 363 | The Gamma function & the Pi function
+16442 | 577 | 4 | 88 | Why 0^inf isn't an indeterminate form but 1^inf is!
+25722 | 936 | 50 | 276 | Pewdiepie VS. T-series, using y=mx+b
+4776 | 79 | 1 | 4 | Exact values of trig functions on quadrantal angles in radians
+506 | 12 | 0 | 2 | (Question) How much is needed to have a net income of $100,000?
+2514 | 22 | 0 | 4 | Sect 3 11 #39, derivative of (1-cosh(x))/(1+cosh(x))
+1556 | 25 | 0 | 3 | Solving for y from z^2=x^2+y^2
+24881 | 510 | 7 | 52 | Convert polar coordinates to rectangular coordinates
+45274 | 965 | 20 | 85 | System of equations with 3 variables (an exam question)
+465 | 3 | 0 | 0 | (Q6.) Sample 3 GCC Math 101/120 Common Final Intermediate Algebra
+3069 | 37 | 2 | 3 | Sect 4.3 #1  increasing/decreasing, concave up/down, inflection points from f
+4187 | 87 | 2 | 11 | Evaluate limits by using conjugate twice
+46 | 1 | 0 | 0 | Solve a system of equations!
+267 | 6 | 0 | 1 | Q3 FAST
+594 | 8 | 0 | 0 | (Q5.) Simplify rational exponent expression
+425 | 9 | 0 | 2 | (Q19.) So, you think you can take the derivative? lovely heart curve!
+14071 | 917 | 4 | 181 | Hey, I did it right!
+500 | 5 | 0 | 0 | (Q9.) Sample 3 GCC Math 101/120 Common Final Intermediate Algebra
+32163 | 921 | 15 | 113 | Quadratic Congruence #2
+1171 | 4 | 0 | 0 | Q27 MET115
+16712 | 298 | 3 | 33 | integral battle#14, (1+x^2)... similar yet different
+713 | 3 | 0 | 0 | Elementary Algebra Q7  |  Pierce College math assessment sample MDTP
+950 | 19 | 0 | 0 | verifying trigonometric identities, Q3
+29093 | 440 | 26 | 177 | Math for fun, 1, 2, 3, 4, 5, 8, ____, ____,
+1275 | 17 | 0 | 0 | Calculus, Comparison Test (LCT), 11 4 #28
+444 | 5 | 0 | 0 | (Q10.) Sample 3 GCC Math 101/120 Common Final Intermediate Algebra
+844 | 29 | 0 | 3 | proving trig identity#1
+16091 | 656 | 9 | 123 | An afternoon with Dr. Peyam, (part1, HE LOVES TEACHING!)
+1777 | 10 | 1 | 1 | Adjusting window on GeoGebra and how to export the view as a picture
+844 | 3 | 0 | 0 | Q66 MET115
+27878 | 739 | 11 | 118 | Brilliant 1+2+3+...+n
+7454 | 73 | 3 | 9 | Interest & Investment Word Problems (System of equations)
+25019 | 409 | 8 | 18 | Amplitude, period, vertical shift, and phase shift
+115642 | 2508 | 44 | 381 | They Put An Innocent Looking Integral On AP CALC BC FRQ 2019
+3948 | 35 | 0 | 0 | 30-60-90 special right triangle, ratio of its sides
+2918 | 30 | 4 | 0 | Multiply (5x^2-2x+3)(5x^2+2x+3)
+1322 | 40 | 0 | 1 | so, u think u can take the derivative... FAST?
+529 | 3 | 0 | 0 | Intermediate Algebra Q9 (with music) | Los Angeles Pierce College math assessment sample
+3381 | 19 | 3 | 4 | dy/dx on TI86
+38489 | 699 | 22 | 143 | Q201(b), nth derivative of x*e^x
+130510 | 4161 | 42 | 332 | solve sin(z)=i
+15685 | 412 | 10 | 119 | Classic Counter Intuitive Problem
+8412 | 294 | 5 | 27 | An Afternoon With Lars (How's Life?)
+18662 | 634 | 9 | 73 | Q14, derivative of sinh^-1(x), two ways
+5234 | 184 | 2 | 24 | Q10, 3rd derivative but not that bad
+14550 | 627 | 4 | 60 | Integral of 1/(a-cos(x)), a greater than 1, Weierstrass Substitution
+22239 | 891 | 10 | 115 | 11.2 (part 2) Intro to Infinite Series (Geometric, Test for Divergence, Harmonic, Telescoping)
+49346 | 648 | 16 | 48 | HE LEARNS THE WALTER LEWIN'S DOTTED LINES!!!
+44 | 1 | 0 | 0 | Sect 4 4 #7
+13230 | 288 | 3 | 15 | first order linear differential equation, 2.3#19
+561 | 10 | 0 | 1 | Q16 Rationalize the denominator by using the conjugate
+140 | 3 | 0 | 1 | Q5 FAST
+29732 | 176 | 11 | 17 | [COMPASS] (Q4.) Numerical Skills/Pre-algebra, official practice problems
+175 | 5 | 0 | 1 | Sarah promotes blackpenredpen
+22151 | 103 | 0 | 4 | [ACCUPLACER] Arithmetic (Q8.) *Second method*  Official Practice Problems
+13909 | 77 | 0 | 4 | [COMPASS] (Q5.) Numerical Skills/Pre-algebra, official practice problems
+42337 | 344 | 20 | 46 | [ACCUPLACER] (Q1.) "Sqrt Method" College-Level Math, Official Practice Problems
+1381 | 3 | 0 | 0 | Q16 MET115
+5065 | 59 | 0 | 4 | Series, 11 2 #33, Sigma nth root of 2
+210779 | 3072 | 79 | 319 | Casio FX-991 EX classwiz calculator tutorial (perfect for algebra, FE exam, EIT exam)
+148230 | 1376 | 110 | 76 | How to solve trig equations, sin(θ)=1/2, θ in [0, 360)
+22391 | 441 | 15 | 211 | Weird u-substitution for the integral of sqrt(1+x^2)
+23209 | 344 | 4 | 21 | Sect 5 5 #73, integral of 1/(1+sqrt(x))^4 from x=0 to x=1
+721 | 9 | 0 | 0 | Quotient rule for derivative example
+26813 | 260 | 5 | 32 | Sect 8 3 #6 Hydrostatic Force, Calculus 2
+28745 | 482 | 9 | 24 | Reduction of order, characteristic equation with repeated root in Cauchy-Euler Equation
+44410 | 1070 | 18 | 96 | sin(3x) & cos(3x), using De Moivre's theorem
+8171 | 104 | 0 | 9 | Calculus Sect 6 4 #20, Calculating Work
+71043 | 2072 | 137 | 510 | e*pi is irrational ? Proof via complex number by a 14 year old subscriber
+10568 | 115 | 2 | 12 | 11 7#2 Root Test, Series (2n+1)^n/(n^(2n))
+29970 | 999 | 9 | 115 | Q73, Integral of a BIG rational function
+793 | 15 | 0 | 0 | verifying trigonometric identities, Q6
+25850 | 290 | 11 | 24 | Quotient rule for first and second derivative for f(x)=x^2/(1+2x)
+13752 | 118 | 6 | 2 | sect 3.3 #5, derivative of sec(x)*tan(x)
+1088 | 2 | 0 | 0 | Q40 MET115
+10596 | 83 | 3 | 11 | ACCUPLACER college level math, Q3
+9789 | 155 | 2 | 8 | Radius and interval of convergence of a power series, using ratio test, ex#2
+6079 | 69 | 0 | 5 | Sect 7 8#31, improper integral of 1/x^4 from -2 to 3
+21678 | 216 | 6 | 18 | Series of sin(1/n^2), Limit comparison test
+12595 | 584 | 5 | 77 | nth term
+752 | 12 | 0 | 1 | Find the domain (in interval notation) of a logarithm function, examples part 3
+42864 | 1401 | 16 | 171 | When the modulus is NOT prime!
+4942 | 62 | 3 | 4 | Understand Comparison Theorem For Improper Integral Ex2
+48349 | 1772 | 13 | 125 | Integral of x^2*cos(x) and wh the DI method works
+1491 | 5 | 0 | 0 | Q8 MET115
+56953 | 2155 | 18 | 155 | improper integral vs. Infinite Series, Good for Calc 2 Final Review
+14476 | 473 | 23 | 117 | Integral of 1/(x^2+1) in the complex world
+213 | 9 | 0 | 1 | Limit, Sect 2 2 #5
+866 | 3 | 0 | 0 | Q56 MET115
+712 | 7 | 0 | 0 | PSQ3
+203 | 5 | 0 | 0 | (Q17.) So, you think you can take the derivative?
+15383 | 430 | 9 | 239 | 台語微積分!!!!!!!!!!!! (有字幕)
+25655 | 1069 | 18 | 132 | inf^0 doesn't always approach 1
+19845 | 658 | 4 | 167 | When can we divide in a congruence?
+57581 | 1560 | 22 | 69 | Math for fun#3, highest & lowest points on a tilted ellipse?
+9712 | 282 | 4 | 35 | Find the critical numbers of 2cos(x)+sin^2(x)
+449810 | 13443 | 208 | 675 | Integral of x^i, so good!
+11871 | 189 | 1 | 12 | telescoping series of arctan(n)-arctan(n+1)
+297868 | 9283 | 221 | 637 | Approximating (1.998)^4 by using differential
+301 | 5 | 0 | 0 | Q2 get rid of x first
+33765 | 1655 | 55 | 389 | 5 common questions about 0 (0 is both even and odd??)
+113772 | 1188 | 36 | 91 | Reduction of orders, 2nd order differential equations with variable coefficients
+265384 | 3687 | 96 | 302 | POWER SERIES SOLUTION TO DIFFERENTIAL EQUATION
+3579 | 51 | 0 | 7 | Series, 11 2 #23, Geometric Series
+81293 | 969 | 26 | 64 | Series sin(1/n) diverges
+19281 | 857 | 10 | 139 | Fibonacci Sequence EXTREME
+994 | 6 | 0 | 4 | Q53 MET115 Music
+836042 | 21376 | 1327 | 2572 | believe in the math, not wolframalpha
+4221 | 165 | 0 | 31 | related rates, one ship sails south and another sails north
+8885 | 326 | 4 | 47 | Test for Divergence (infinite series)
+42926 | 1705 | 17 | 243 | area and arc length
+9549 | 144 | 4 | 14 | 11 7#25 Ratio Test, series n!/e^(n^2)
+2028 | 16 | 0 | 4 | Finding the x intercepts of a parabola
+5115 | 127 | 15 | 76 | 因式分解 ax^2+bx+c, (上集)
+42275 | 553 | 37 | 40 | derivative of inverse secant
+21944 | 310 | 12 | 29 | Laplace transform of t^n, using series
+5187 | 29 | 4 | 4 | d/dx ( sin^4(x) - cos^4(x) )
+565 | 3 | 1 | 0 | Elementary Algebra Q10  |  Pierce College math assessment sample MDTP
+24833 | 1015 | 18 | 101 | Big Putnam Sum (ft. Mu Prime Math)
+135331 | 1982 | 46 | 116 | integral of sin(ln(x)), integration by parts in the u-world
+13195 | 241 | 6 | 10 | Why cover-up method for partial fraction works? sect 7.4 #9
+438864 | 7212 | 175 | 608 | Dear Titan, Yep Under ONE Minute  (UNCUT)
+1040 | 2 | 0 | 0 | Q26 MET115
+13791 | 180 | 4 | 7 | Check for Linear Dependence (of 2 functions)
+10398 | 244 | 12 | 50 | Q2, second derivative of arcsin(x), i.e. inverse sine
+8873 | 536 | 2 | 127 | Bad Math but Right Answer
+405 | 6 | 0 | 0 | How to Solve a Rational Equation?
+27400 | 264 | 7 | 25 | Q276, Taylor Series for e^2x at a =3
+28442 | 1089 | 16 | 150 | symmetric derivative
+28219 | 1020 | 25 | 210 | integral of floor function of x, easy or hard?
+10362 | 589 | 14 | 144 | Confession: I Still Add With My Fingers (trailer)
+2180 | 9 | 0 | 0 | [GCC Math 101/120 Common Final Sample 1] (Q4.) Arithmetic Sequences
+395 | 7 | 0 | 0 | Find all trig function values based on a given one, ex3
+21108 | 166 | 14 | 27 | ACCUPLACER college level math, Q1
+25640 | 332 | 4 | 24 | inverse laplace transform, example 3
+20823 | 379 | 7 | 18 | solve trig equations #1 (double angle formula)
+3711 | 21 | 1 | 1 | 積分 cos^3x, integral of cos^3x
+28759 | 770 | 10 | 137 | Q266, power series for 1/(1-x)^2
+35345 | 368 | 25 | 18 | verifying trigonometric identities, Q18, sin^4x-cos^4x
+26172 | 904 | 17 | 188 | Q1 abc. Midpoint Rule vs. Trapezoidal Rule (with Ti-84)
+27282 | 355 | 2 | 30 | Translation Theorem in s
+375 | 3 | 0 | 1 | (Q13.) Sample 3 GCC Math 101/120 Common Final Intermediate Algebra
+969 | 2 | 0 | 0 | Q50 MET115 Multiplying Rational Expressions
+84480 | 771 | 49 | 32 | Exact values of sin(60), cos(60), tan(60), csc(60), sec(60), cot(60)
+1359 | 5 | 0 | 0 | Q18 MET115
+843 | 5 | 0 | 0 | Algebra Readiness Q4  |  Pierce College math assessment sample
+9537 | 204 | 2 | 12 | cot(arcsin(x/2)) as an algebraic expression
+1333 | 11 | 0 | 5 | Sect 3.9 #15, Related Rates: TWO CARS
+35139 | 1250 | 23 | 150 | A Baby Telescoping Sum
+21050 | 719 | 11 | 76 | Calculus 2 improper integrals (10 examples)
+4068 | 54 | 1 | 1 | Check if 3 functions are LD or LI, Q1a
+1268 | 24 | 0 | 1 | Finding the inverse of a linear function (in 3 minutes)
+5186 | 156 | 4 | 57 | UC Berkeley Campus Tour! blackpenredpen
+430 | 8 | 0 | 0 | Solve a 3 by 3 system of equations!
+474 | 12 | 0 | 0 | Inequalities & Interval Notations In 10 Minutes
+1722 | 28 | 0 | 1 | Evaluate all trig functions from a given point on the terminal side ex1
+12928 | 454 | 10 | 59 | How to Move The Pikachu? (EASY ways to Parametrize)
+22110 | 1030 | 11 | 89 | Integral battle! Algebraic twin, IIT JEE Integral practice
+501 | 5 | 0 | 0 | Q23, Solve a power equation
+44394 | 1453 | 15 | 130 | the cover-up method & why it works! (for partial fractions decomposition)
+165 | 3 | 0 | 1 | Abs Value "less than" Pos (ex4.)
+123663 | 1492 | 30 | 72 | Q50, integral of 1/sqrt(x^2+16)
+5165 | 32 | 1 | 1 | Q9, ACCUPLACER college level math, official sample problems
+2328 | 65 | 0 | 8 | System of equations with 3 variables.
+55955 | 385 | 11 | 14 | [ACCUPLACER] Arithmetic (Q2.) Official Practice Problems
+7892 | 151 | 0 | 2 | Q156, separable differential equation example
+1040 | 4 | 0 | 0 | Q43 MET115 Quadratic Formula
+16625 | 728 | 13 | 147 | Limiting function
+172968 | 4236 | 75 | 305 | All the cube roots of 1, (i.e. cube roots of unity)
+458 | 6 | 0 | 0 | PSQ8 What if 1
+476 | 17 | 0 | 0 | trig formula example: sum-to-product
+368 | 3 | 0 | 0 | (Q21.) Sample 3 GCC Math 101/120 Common Final Intermediate Algebra
+43374 | 1142 | 19 | 139 | Sum of the first n natural numbers, 3 simples ways
+38065 | 931 | 47 | 203 | 0^0^0 approaches ?
+11951 | 153 | 2 | 12 | Series of sin(1/n) diverges, Limit comparison test, sect 11.4#31
+154238 | 1815 | 88 | 120 | factoring 5-term polynomials
+25884 | 942 | 4 | 36 | fun integral battle#7: you might as well do them this way!
+12914 | 517 | 4 | 79 | understand u substitution, (design your own integrals#1)
+40304 | 1224 | 22 | 64 | That Classic Problem cos(20)cos(40)cos(60)
+1798 | 57 | 0 | 7 | Math for fun#13 (w/ Jump cuts) , Three Pretenders!
+18438 | 805 | 5 | 128 | Q125, How to use "The Fact"
+81454 | 2860 | 29 | 184 | Secret Revealed: How I write with two markers in one hand
+164094 | 4353 | 79 | 293 | Newton's method and Omega Constant
+7224 | 59 | 6 | 6 | Sect 3 11 #33, derivative of ln(cosh(x))
+80633 | 1631 | 29 | 131 | Area of Polar Curve r=1+2cos(theta)
+7745 | 304 | 1 | 67 | So you think you can take the derivative, 2018 version, 3 examples
+18979 | 452 | 39 | 229 | My favorite VIRAL PEMADS question!
+15952 | 260 | 7 | 20 | Find an equation of the line in slope-intercept form (given 2 points, parallel, perpendicular)
+101931 | 3395 | 33 | 319 | (a+bi)^(c+di) and (1+i)^(1+i)=?
+136258 | 1433 | 67 | 62 | cos(4x) in terms of cos(x)
+215726 | 6541 | 78 | 319 | Introduction to Hyperbolic Trig Functions
+72960 | 2471 | 26 | 174 | checking the answer of integral of sqrt(tan(x)) by differentiation
+682 | 5 | 0 | 0 | Integral of (u+2)(u-3) from 0 to 1
+1208 | 5 | 0 | 0 | Q30 MET115
+13514 | 547 | 3 | 59 | Laplace Transform, second order linear differential equation (part1)
+747 | 4 | 0 | 0 | Q58 MET115 Setting up proportions
+95976 | 3484 | 35 | 372 | ln(-x), idea by Leon, age unknown...
+77273 | 954 | 28 | 58 | Integral of cos^4(x)
+34383 | 1675 | 7 | 159 | Integration By Parts But Harder (calculus 2 challenge)
+20141 | 1152 | 13 | 155 | Scariest Calc 1 Limit (Reimann Sum)
+88450 | 2287 | 46 | 187 | Dear Mike, Integral of sqrt(lnx)
+38333 | 1863 | 26 | 262 | Message to College Freshmen, Paper Bridge
+7634 | 360 | 5 | 91 | Arrangements and Derangements with Repetition
+5475 | 30 | 0 | 7 | [ACCUPLACER] (Q11.) College-Level Math, Official Practice Problems
+6726 | 468 | 0 | 99 | Halloween special, (ft. blackpenorangepen)
+6097 | 53 | 1 | 11 | Q7, ACCUPLACER college level math, official sample problems
+31379 | 733 | 17 | 69 | convert rectangular coordinates to polar coordinates
+2342 | 35 | 0 | 6 | Check if 3 functions are LD or LI, Q1c
+521 | 8 | 0 | 0 | [GCC Math 101/120 Common Final Sample 1] (Q18.) Solving Quadratic Equation (by Quadratic Formula)
+425 | 7 | 0 | 0 | (Q27.) Sample 3 GCC Math 101/120 Common Final Intermediate Algebra
+16084 | 563 | 4 | 79 | Q313, Centroid formulas of a region bounded by two curves
+267833 | 4397 | 195 | 219 | Dear Ghassan, Log equation with different bases
+10993 | 546 | 6 | 93 | math for fun, logarithm with a lot of 3s
+13123 | 157 | 9 | 9 | Exact values of sin(1140), cos(1140), tan(1140), csc(1140), sec(1140), cot(1140)
+2365 | 60 | 0 | 2 | Evaluate trig function values in radians, using reference triangles (part2)
+191 | 3 | 0 | 0 | (Q21.) Solve Square Root Equation
+363 | 4 | 0 | 0 | (Q19.) Sample 3 GCC Math 101/120 Common Final Intermediate Algebra
+28949 | 755 | 8 | 94 | The appetizer, integral of sin(x)*e^(-bx), integration by parts
+8258 | 159 | 2 | 9 | First Order Linear Differential Equation, 2.3#18
+2095 | 29 | 0 | 8 | Calculus, Sequence 11 1 #18
+15799 | 79 | 2 | 3 | [ACCUPLACER] (Q5.) Elementary Algebra Official Practice Problems
+204 | 1 | 0 | 0 | Q9, the algebra way!
+58172 | 1478 | 26 | 262 | My calc 2 final exam problem!
+904 | 9 | 0 | 0 | first and second derivative of a function, using power rule
+682 | 11 | 0 | 0 | [GCC Math 101/120 Common Final Sample 1] (Q6.) Finding Inverse Function
+20397 | 1072 | 13 | 117 | Integral Battle 2020: Unusual Completing the Square | Putnam & Beyond
+1623 | 23 | 0 | 4 | derivative of ((x^2+1)/(x^2-1))^3
+3658 | 68 | 0 | 3 | Almost-exact differential equation with integrating factor
+22996 | 718 | 8 | 35 | the fact, again (with a definition of e)
+2140 | 19 | 0 | 0 | Calculus, Sequence 11 1 #41
+7876 | 315 | 4 | 45 | dy/dx from polar equation, (exam sol)
+5848 | 212 | 2 | 58 | Q12,  derivative of e^(-2x)*sin(x)
+26408 | 996 | 11 | 136 | Q108, L'Hospital Rule for the 0/0 Indeterminate Form (proof)
+1172 | 3 | 0 | 0 | Q44 MET115 Solve Quadratic Equation, "the height of a ball"
+2791 | 32 | 1 | 2 | 10.1 #11 Convert parametric to Cartesian (rectangular)
+53661 | 1846 | 27 | 108 | FASTEST Euler's Formula proof!
+31843 | 437 | 9 | 30 | Laplace transform of sin(bt), using definition and integration by parts
+36 | 0 | 0 | 0 | Slope from two points ex2
+4988 | 132 | 3 | 6 | Integral battle#17, FAST & UNCUT
+53260 | 1541 | 13 | 49 | weierstrass substitution for integrations, intro
+168148 | 2789 | 35 | 251 | Math for fun, log_2(3) vs. log_3(5)
+1471 | 20 | 0 | 0 | Power rule for derivative, ex2 (don't use quotient rule here)
+5038 | 20 | 0 | 2 | [COMPASS] (Q12.) "Waffle Example" Numerical Skills/Prealgebra, official practice problems
+1954 | 26 | 2 | 1 | Algebra Readiness Q13 | Pierce College math assessment sample
+62445 | 978 | 11 | 40 | solve differential equation with substitution
+386898 | 5260 | 152 | 230 | integral of sec(x), the standard result
+1392 | 6 | 0 | 1 | Q10 MET115
+10339 | 326 | 2 | 37 | Q4, integral of ln(x) from 2 to 6 with n=4 Simpson's Rule
+6707 | 137 | 2 | 11 | First Order Linear Differential Equation, 2 3#22
+46418 | 1952 | 19 | 232 | Integral of 1/(sin^6(x)+cos^6(x))
+3601 | 47 | 2 | 8 | limit as derivative, 3 examples
+12217 | 479 | 2 | 58 | the afterward of integral of 1/(x^3+x), feat. a mysterious guest speaker
+141477 | 5181 | 82 | 272 | delta y vs. dy (differential)
+2672 | 46 | 1 | 3 | Sect 10.2#3  equation of the tangent line to a parametric curve
+4923 | 134 | 4 | 30 | Checking the integral of 1/(x^4+1) by differentiation, for fematika! #bprpLIVE
+110 | 5 | 0 | 0 | MET#18, Solving a linear ineqaulity
+146635 | 4066 | 129 | 721 | Why is 0^0 undefined?
+507 | 8 | 0 | 3 | Q3, ACT Compass Trigonometry (official sample test problems)
+2827 | 110 | 1 | 34 | related rates, angle of sight of a rising ballon
+109 | 3 | 0 | 0 | (Q17) Sample #1, Math 141/146 common final, Solve system of equations by substitution
+60827 | 1881 | 18 | 147 | How to Partial Fractions! (the setups)
+5599 | 58 | 6 | 5 | Finding the inverse of a cubic function (in 3 minutes)
+61304 | 2443 | 20 | 172 | Not Extreme Algebra
+10342 | 528 | 8 | 95 | Integral of 1/(1+cos(x), integral of sqrt(1+cos(x))
+569 | 12 | 0 | 2 | Factor 125m^3+1
+1255 | 25 | 0 | 0 | Definite integral with radical functions
+636 | 5 | 0 | 4 | Visiting Porto's Bakery
+51942 | 1604 | 19 | 125 | The Formula for Taylor Series
+32653 | 384 | 17 | 20 | solve trig equations #2 (double angle formula)
+1659 | 83 | 0 | 7 | Integrals Flashcards (GREAT FOR CALC 2)
+26414 | 651 | 95 | 178 | Epsilon-delta proof of a limit (ex1, linear function), Dr. Peyam's Show
+23615 | 409 | 10 | 41 | Series of (-1)^n/n!
+2116 | 13 | 0 | 3 | Expanding a logarithm (with a square root)
+395 | 2 | 0 | 1 | Find the differential, radical function and chain rule
+29766 | 859 | 9 | 119 | Q168, Differential Equation Mixing Problem
+745 | 29 | 0 | 6 | Solve Absolute Value = Positive (ex1) & (ex2)
+22129 | 260 | 2 | 16 | Convert r=tan(theta)*sec(theta) to Cartesian
+26609 | 637 | 14 | 75 | Gaussian Elimination Marathon, #bprpLIVE
+55681 | 1762 | 22 | 117 | derivative of sqrt(x+y)-sqrt(x-y)=1 (as seen on "so you think you can take the derivative")
+9469 | 143 | 2 | 4 | Sect 7 8#21, integral of ln(x)/x from 1 to inf
+12284 | 170 | 5 | 12 | homogeneous differential equation, sect2.6#10
+23442 | 298 | 12 | 21 | Ti 84 Tutorial, Solve 3 by 3 System of Equations by Matrix (rref!)
+5119 | 92 | 0 | 4 | Exact Differential Equation, 2.4#19
+129037 | 3676 | 45 | 323 | Integral of so many things! (great for calculus 2 review)
+990 | 16 | 0 | 0 | 45-45-90 special right triangle, ratio of its sides
+4915 | 206 | 2 | 60 | Dear Mona, a limit that represents derivative, #calc1test1
+1263 | 32 | 0 | 14 | Porto's Cheese Rolls & Chocolate Chip Cookies, vlog
+470 | 7 | 0 | 1 | Find the domain (in interval notation) of a logarithm function, examples part 2
+762 | 10 | 1 | 2 | Rate, Time, Distance word problems (rational equation)
+14939 | 179 | 4 | 9 | Ti-84 Tutorial, solving 2 by 2 system of equations
+23614 | 900 | 53 | 222 | Minimum distance between e^x and ln(x)
+1115 | 19 | 2 | 3 | Solve trig equation by using reference triangle, ex1
+440 | 7 | 0 | 0 | PSQ6
+36899 | 1435 | 10 | 123 | Hyperbolic trig function, the input is twice of the area
+332833 | 6066 | 157 | 483 | First Order Linear Differential Equation & Integrating Factor (idea/strategy/example)
+53549 | 2141 | 35 | 185 | Integration shortcut! (solution in 5 seconds)
+28035 | 818 | 12 | 69 | vertex formula of a cubic curve, (algebra-student-friendly calculus, part2)
+587 | 7 | 0 | 1 | Q10, exponential decay equation (with decay rate)
+1085 | 4 | 0 | 0 | Q42 MET115 Quadratic Formula
+11320 | 116 | 11 | 10 | derivative of sqrt(1-2x), using the definition of derivative
+5398 | 38 | 0 | 3 | Q18, ACCUPLACER college level math, official sample problems
+2496 | 20 | 2 | 6 | Factor 8X^6-64x^3
+183 | 5 | 0 | 2 | Quadratic Formula (Q6.)
+12535 | 239 | 35 | 41 | Convert rectangular form to polar form of a complex number (feat. Fematika)
+22869 | 692 | 15 | 113 | Bijection Proof (a taste of math proof)
+34264 | 438 | 4 | 40 | Determine the form of a particular solution, sect 4.4#31
+5790 | 43 | 0 | 5 | Q10, ACCUPLACER college level math, official sample problems
+58931 | 2233 | 26 | 231 | An Oxford math admission question, find the biggest integral
+364 | 4 | 0 | 0 | (Q17.) Sample 3 GCC Math 101/120 Common Final Intermediate Algebra
+13823 | 733 | 7 | 142 | Great calc 1 final exam problems!!!
+179582 | 1714 | 104 | 159 | FASTEST Integral
+257 | 7 | 0 | 0 | Solving an equation in quadratic form
+42108 | 1426 | 10 | 163 | !(1/2)
+108 | 3 | 0 | 0 | Order of Operations (Q27, 30) with Positive Whole Number:
+32892 | 375 | 9 | 21 | Q45, integral of (1-tan^2x)/sec^2x
+278 | 5 | 0 | 1 | I didn't pay my voice-over actor enough...
+631 | 9 | 0 | 1 | [GCC Math 101/120 Common Final Sample 1] (Q24.) Solve System of Equations by Cramer's Rule
+120173 | 1574 | 49 | 64 | solve differential with laplace transform, sect 7.5#3
+468 | 5 | 0 | 2 | [GCC Math 101/120 Common Final Sample 1] (Q19.) 1st Formula of Difference Quotient
+223 | 5 | 0 | 3 | [Math for fun] An Interesting BAD question (part 2)
+469 | 15 | 0 | 1 | [ACCUPLACER] Official Practice Problems: Arithmetic Q7
+1104 | 8 | 1 | 6 | Q72 MET115 Mixture Question
+226 | 2 | 0 | 3 | Q8 what if, Rule of Exponents, Negative Power
+24603 | 970 | 14 | 90 | Evil Looking but .... (finished in 4 minutes)
+5415 | 141 | 3 | 24 | Long division of polynomials vs. Synthetic Division
+12270 | 342 | 4 | 43 | Sum of the first n natural numbers, Combinatoric, difference Equation
+10162 | 194 | 2 | 10 | 11 7#38 Limit Comparison Test, Series (2^(1/n)-1)
+1668 | 22 | 0 | 1 | Calculus, Comparison Test (DCT), 11 4 #7
+27954 | 215 | 7 | 21 | [Many Reasons of Liking the Casio fx-115ES (plus)] Order of Operation
+369 | 15 | 0 | 1 | (Q4.) So, you think you can take the derivative?
+53277 | 2044 | 21 | 339 | Q307, Gabriel's Horn, Painters paradox
+400007 | 4916 | 192 | 266 | integral of abs(x)
+6379 | 60 | 2 | 6 | Q110, limit of (e^(2t)-1)/sin(t) as t goes to 0
+42421 | 1555 | 25 | 466 | Cauchy's Repeated Integral Formula
+35843 | 1587 | 14 | 141 | Hard Improper Integral
+59572 | 1052 | 15 | 46 | Comparison Theorem for improper integrals, (the 3 steps, ex1)
+32908 | 322 | 10 | 33 | (Q18)  Graph x is less than or equal to 0 on the xy-plane
+501 | 6 | 1 | 0 | Solving A Quadratic Equation By Taking the square root on both sides (with imaginary number)
+18616 | 776 | 8 | 125 | Simpson vs  Taylor
+36827 | 677 | 38 | 111 | 1*1*1=?   (YOU DID THIS WRONG)
+41166 | 1333 | 31 | 232 | I solved this MIT integral by misteaks!
+7552 | 75 | 2 | 3 | Undefined Slope
+117 | 2 | 0 | 0 | Order of Operations (Q21, 24) with Positive Whole Number:
+7667 | 140 | 2 | 8 | Parallel and perpendicular lines and their slopes
+33697 | 1233 | 26 | 164 | Weierstrass Substitution Explained
+10912 | 339 | 11 | 42 | Converting numbers to different bases, the remainder method with explaination
+7747 | 211 | 0 | 35 | Q7, integral of sin(x)*sec^3(x) vs. integral of tan(x)*sec^3(x)
+33790 | 2663 | 58 | 182 | ln(2) vs. Minecraft (Ft. Dr. Weselcouch)
+3140 | 56 | 1 | 5 | derivative of log base 10 of (x^3+1), with the box
+420 | 6 | 0 | 1 | Evaluate all trig functions from a given point on the terminal side ex2
+109288 | 1435 | 42 | 81 | cos(3x) in terms of cos(x)
+55823 | 893 | 30 | 46 | derivative of tan(x), using quotient rule
+322 | 5 | 0 | 0 | (Q16.) Sample 3 GCC Math 101/120 Common Final Intermediate Algebra
+21128 | 232 | 6 | 14 | Series of (1+1/n)^(n^2), root test
+442 | 8 | 0 | 0 | (Q14.) Subtract Rational Expressions
+50008 | 1505 | 17 | 147 | Solve y’=y
+69486 | 1975 | 37 | 161 | derivative of x^(1/x)
+15415 | 208 | 4 | 9 | Inverse Laplace Transform, Sect 7.4#35
+4747 | 46 | 4 | 2 | implicit differentiation 4cos(x)sin(y)=1
+22719 | 310 | 6 | 18 | Auxiliary equations with repeated complex roots, Sect4.3#37a
+1866 | 9 | 1 | 0 | (Q1.) Graph of negative sqrt(x)
+356 | 12 | 0 | 12 | 20 Tic-Tac-Toe Factoring (part 2, (Q5.) - (Q8.))
+31345 | 195 | 8 | 7 | [ACCUPLACER] Arithmetic (Q9.) Official Practice Problems
+16485 | 724 | 5 | 101 | Dad vs Uncle
+42604 | 1396 | 32 | 196 | Why isn't abs(x) differentiable at x=0? (definition of derivative)
+847 | 18 | 0 | 2 | Q16, simplifying complex fractions
+787671 | 19224 | 466 | 1670 | Math for fun, how many rectangles?
+12536 | 134 | 2 | 6 | Q274, Taylor Series for a polynomial centered at 1
+102301 | 2076 | 70 | 110 | Prove by induction, Sum of the first n cubes, 1^3+2^3+3^3+...+n^3
+7971 | 40 | 0 | 2 | [COMPASS] (Q14.) Numerical Skills/Prealgebra, official practice problems
+45951 | 1704 | 20 | 256 | Sum of sin(n)/n, the complex way
+1742 | 22 | 0 | 1 | Verifying a solution to a differential equation, Sect1.2#3
+7351 | 352 | 2 | 65 | the COMPLEX relationship between tan^-1(x) and tanh^-1(x)
+30023 | 1348 | 13 | 244 | What is a Hyperfactorial?
+8714 | 159 | 2 | 6 | Rewrite in terms of their cofunctions
+101794 | 4312 | 66 | 472 | Bad Math Proofs Explained: 1=2?,  e=π? Can't divide by 0?
+24819 | 1106 | 9 | 233 | 2^(a+bi), ln(a+bi) and sin(a+bi)=?
+7819 | 128 | 6 | 13 | Slide & Divide Factoring, EASY!!! (ft Prof E Tchertchian)
+1034 | 14 | 0 | 0 | derivative of ln(ln(s))
+752 | 5 | 0 | 0 | Q62 MET115 Proportional Variable
+7145 | 434 | 7 | 194 | It's 2am, so I will make a better thumbnail and title tomorrow
+11340 | 439 | 10 | 108 | Domain of a function, 3 harder examples
+667 | 10 | 0 | 0 | verifying trigonometric identities, Q7
+9901 | 219 | 5 | 19 | Solve a differential equation by substitution, v=x^3+y^3, an exam question
+166125 | 4866 | 66 | 372 | BE CAREFUL
+19498 | 434 | 9 | 45 | Sect 2.5, #20, Investigating discontinuities from a Piecewise Function
+49110 | 601 | 28 | 41 | tan(3x) in terms of tan(x)
+1787 | 12 | 1 | 2 | Graph lines & find point of intersetion on GeoGebra
+4686 | 159 | 0 | 20 | Evaluate trig function values in radians, using reference triangles
+5664 | 40 | 1 | 7 | Q17, ACCUPLACER college level math, official sample problems, inverse of a function
+9899 | 44 | 3 | 0 | [COMPASS] (Q11.) Numerical Skills/Pre-algebra, official practice problems
+1589 | 13 | 0 | 1 | Stewart Calculus, Sect 7 8 #69
+5655 | 84 | 2 | 5 | dy/dx for r=sec^2(theta)
+642 | 7 | 0 | 0 | Q6, ACT Compass Trigonometry (official sample test problems)
+6947 | 56 | 5 | 6 | Derivative of (arctan(x))^2
+29839 | 860 | 12 | 120 | Proof for fun, log base 2 of 3 is irrational
+478258 | 12336 | 337 | 1242 | Impossible?
+443 | 5 | 1 | 0 | (Q22.) Sample 3 GCC Math 101/120 Common Final Intermediate Algebra
+35010 | 945 | 16 | 99 | Solution to that weird u-substitution, blackballwhitechalk
+369 | 13 | 0 | 3 | Find all trig function values based on a given one, ex2
+10700 | 107 | 2 | 10 | Convert r = 4sec(theta) to a cartesian equation
+161760 | 4672 | 135 | 499 | Factoring x^2+y^2?
+31 | 1 | 0 | 0 | Slope from two points ex3
+7819 | 391 | 6 | 79 | How to Prada Lu (thumbnail by @eburahimo)
+12949 | 409 | 8 | 56 | IIT JEE Integral of 1/(4-cos(x))^2 from 0 to pi, EASY!
+13491 | 448 | 6 | 96 | So you think you can take the derivative, practice#2, 3 examples
+29835 | 339 | 12 | 25 | Factor 27x^3+1
+30197 | 1166 | 43 | 315 | Sum of all n^2, trivial zero of the zeta function
+10242 | 308 | 5 | 118 | Power Ball Lottery Jackpot, Combinations & Probability
+242 | 5 | 1 | 0 | so close!
+1728 | 38 | 0 | 2 | Write the equation of a circle in standard form by completing the square
+1284 | 4 | 0 | 0 | Q33 MET115 Music
+48349 | 1678 | 24 | 137 | 10 Series That You Can Do In Your Head (secret weapon: The List)
+489 | 7 | 0 | 8 | Q21, Solving a Square Root Equation
+1091 | 48 | 1 | 19 | LA MARATHON 2017 EXPO VLOG! (FAKE BEER)
+210817 | 2327 | 83 | 163 | Integral of sqrt((1-x)/(1+x))
+1894 | 21 | 0 | 3 | (Q1.) Sample 3 GCC Math 101/120 Common Final Intermediate Algebra
+24501 | 726 | 6 | 105 | Graph of y=x^x
+7124 | 87 | 1 | 6 | implicit differentiation arctan(x^2*y)=x+x*y^2
+26178 | 677 | 9 | 78 | 11.10 (Part 2) Power Series for e^x centered at 2
+903 | 3 | 0 | 2 | Q67 MET115
+375 | 7 | 0 | 0 | Q14 Fast
+3064 | 27 | 3 | 5 | Write y in terms of x from a parametric equation, uniqlo x kaws, snoopy shirt
+3101 | 35 | 0 | 5 | Euler's Method example,  Sect 9.2 #23
+50301 | 634 | 74 | 54 | Calculus, derivative of inverse sine
+126 | 7 | 0 | 1 | Q19 Fast
+5272 | 126 | 1 | 9 | Series of n(1+n^2)^p, sect11.3#31
+4963 | 137 | 2 | 15 | Convergence tests, AP calc MCQs, see description
+615 | 11 | 0 | 1 | [COMPASS] (Q12.) Numerical Skills/Prealgebra, official practice problems
+208521 | 2827 | 101 | 239 | Integral of e^(x^2) & the Imaginary Error Function
+1318 | 11 | 0 | 0 | Sect 3.9 #19, Related Rates: AREA OF A TRIANGLE
+6927 | 131 | 1 | 6 | Sect 2.2, #18
+3050 | 36 | 0 | 1 | Calculus, Sequence 11 1 #17
+974 | 4 | 2 | 0 | Q69 MET115
+1267 | 88 | 3 | 21 | Run for fun, around Pierce College after Math125
+10520 | 202 | 1 | 10 | Special integrating factor for almost exact equation, mu(y)
+14821 | 148 | 5 | 7 | [Calculus] Sect 7.4 #9, Integral of (5x+1)/((2x+1)(x-1)), Partial Fraction, Stewart Calc 7th ET ed
+504 | 6 | 0 | 1 | (Q23.) Sample 3 GCC Math 101/120 Common Final Intermediate Algebra
+35878 | 1556 | 28 | 261 | Strong Induction Proof
+25715 | 192 | 3 | 17 | [ACCUPLACER] Arithmetic (Q13.) Official Practice Problems
+812 | 4 | 0 | 1 | Q52 what if
+10518 | 20 | 6 | 1 | Minions at Walmart!
+181 | 5 | 0 | 0 | (Q18.) So, you think you can take the derivative?
+1662 | 48 | 1 | 8 | How to create your OWN differential equation!
+69665 | 2625 | 27 | 166 | Math for fun#16, I DIDN'T EVEN NEED MY GLASSES
+4766 | 175 | 2 | 19 | Parametric vs. Cartesian (vid#3): First Derivative dy/dx
+4354 | 89 | 1 | 5 | Inverse laplace transform, translation in s vs translation in t
+933 | 8 | 0 | 4 | [GCC Math 101/120 Common Final Sample 1] (Q22.) Simplify Exponents
+159770 | 4499 | 90 | 445 | Indeterminate challenge
+42863 | 454 | 17 | 27 | Laplace transform of sqrt(t), without using the gamma function
+6646 | 223 | 6 | 44 | not-boring fractions, (github link in description for my fellow math teachers)
+22802 | 1302 | 26 | 209 | Q133, if I only have 3 minutes left in my calculus class
+83029 | 815 | 45 | 55 | Laplace transform of a piecewise function, sect7.2#11
+73446 | 1831 | 29 | 121 | Q56, integral of sqrt(1+x^2)/x vs integral of x/sqrt(1+x^2)
+1248 | 4 | 0 | 0 | Q24 MET115
+3718 | 42 | 1 | 2 | derivative of x^-2 using the definition
+72440 | 1746 | 27 | 133 | Integral of sin^n(x), Reduction Formula
+1054 | 26 | 0 | 3 | Rational Functions: find the domain
+90166 | 1312 | 26 | 89 | Q52, integral of sqrt(x^2-9)/x^3
+67220 | 569 | 89 | 73 | CAN YOU FACTOR THESE:  x^4+5x^2+9 vs. x^2+5x+9
+40516 | 364 | 8 | 68 | [ACCUPLACER] Arithmetic (Q6.) Official Practice Problems
+32014 | 944 | 16 | 184 | Sum of two periodic functions, is it still periodic? Why or why not?
+4566 | 28 | 1 | 3 | Q11, ACCUPLACER college level math, official sample problems
+360 | 4 | 0 | 0 | Q30, how to solve a log equation (combine first!)?
+174 | 5 | 1 | 2 | DSC 0114
+45388 | 484 | 59 | 28 | Factor 8X^3+27Y^3
+3243 | 28 | 1 | 0 | Stewart Calculus, Sect 9 1 #5a
+21952 | 706 | 6 | 82 | Related Rates (compilation), Calculus 1, AP calculus
+17351 | 580 | 13 | 54 | Average velocity vs. average speed
+2300 | 27 | 0 | 1 | Calculus, 11 3 #26 (direct comparison)
+4599 | 26 | 1 | 9 | Q2b, how to find the K, on TI84
+6732 | 73 | 1 | 13 | Sect 7 1 #22 "DI method", integral of (arcsin(x))^2, integral of (sin^-1x)^2
+60621 | 566 | 28 | 29 | Q25, Integral of t*e^(-3t), Integration by Parts
+206 | 5 | 0 | 0 | Abs Value "less than" Pos (ex3.)
+27717 | 1699 | 18 | 361 | 2 legit proofs & 1 false proof
+500 | 6 | 0 | 0 | MET1
+14804 | 923 | 23 | 165 | Differentoate x^x
+22176 | 740 | 11 | 67 | Graphing f(x)=x^2-x-ln(x)
+7029 | 287 | 3 | 61 | How I make my thumbnails! (Requested)
+99814 | 1204 | 36 | 74 | integral of sqrt(1-4x^2) ,Trig Substitution
+124831 | 3901 | 58 | 342 | Dear Jamie, Supreme Integral with Feynman's Trick
+31953 | 345 | 7 | 12 | Q15, derivative of tanh^-1(x)
+19174 | 249 | 6 | 22 | Evaluate sin(15º)cos(15º)
+16062 | 370 | 4 | 27 | First Order Linear Differential Equation, 2.3#29
+1728 | 11 | 1 | 1 | Intermediate Algebra Q1 (with music) | Los Angeles Pierce College math assessment sample
+17780 | 375 | 36 | 80 | sin(1°)sin(3°)sin(5°)...sin(179°), #bprpLIVE
+10219 | 53 | 5 | 5 | Find min/MAX on GeoGebra
+138769 | 4384 | 55 | 279 | Lambert W Function Intro &  x^x=2
+42825 | 1182 | 27 | 249 | Solve x^x^x=2 | Newton's Method
+142052 | 6235 | 51 | 388 | Feynman's Technique of Integration
+22286 | 349 | 12 | 25 | Sect 2.6, #27, limit at infinity
+9482 | 42 | 1 | 3 | [ACCUPLACER] (Q12.) Elementary Algebra Official Practice Problems
+17080 | 342 | 5 | 20 | math for fun: tanh^-1(sin(x))=ln|sec(x)+tan(x)|
+192961 | 5345 | 86 | 654 | Former McDonald's Worker Does a Number Theory Proof
+5425 | 276 | 0 | 23 | Parametric vs. Cartesian (vid#2): Travel Backwards
+598 | 1 | 0 | 0 | Algebra Readiness Q8  |  Pierce College math assessment sample
+781 | 3 | 0 | 0 | Q61 MET115
+39837 | 1089 | 33 | 101 | Derivative of sin(x) and cos(x), PROOF
+3333 | 52 | 0 | 3 | Sect 5 5 #27, Integrals with U-Substitution
+242 | 6 | 0 | 0 | (Q9.) So, you think you can take the derivative?
+471 | 13 | 1 | 6 | Q12, how to multiply rational expressions
+4035 | 26 | 0 | 3 | ACCUPLACER college level math, Q13
+33693 | 730 | 7 | 57 | Q264, power series expansion of a rational function
+73738 | 940 | 70 | 29 | Calculus, derivative of inverse tangent
+92361 | 3067 | 20 | 242 | The solution to the VIRAL Chinese university wifi password
+72586 | 1808 | 31 | 81 | Q62, Integral by completing the square, and u sub, calculus 2
+13889 | 619 | 10 | 165 | Q7, An example that the trapezoidal rule is better than the midpoint rule
+37047 | 1876 | 76 | 542 | b^0=1 is a definition
+54 | 2 | 0 | 0 | Sect 4 9 #7
+1071 | 12 | 1 | 4 | PSQ9
+15595 | 191 | 3 | 14 | [Calculus] Sect 7.4 #21, Integral of (x^3+4)/(x^2+4), Partial Fraction, Stewart Calc 7th ET ed
+25013 | 1049 | 14 | 203 | Reading YouTube Comments to My Calc 2 Students (last day of the class)
+68124 | 1133 | 19 | 78 | hyperbolic substitution, integral of sqrt(1+x^2)
+21773 | 153 | 12 | 14 | Laplace transform of 1/sqrt(t), *SPEED RUN*
+44743 | 677 | 10 | 36 | integration with completing the square, Sect 7.4 #29
+85 | 3 | 0 | 0 | Q27 FAST
+14228 | 149 | 8 | 11 | Derivative of cos(sin^-1(x))
+177134 | 2080 | 71 | 81 | integral of ln(x), via DI method
+271 | 13 | 0 | 0 | Solution! How much is needed to have a net income of $100,000?
+112827 | 2008 | 44 | 149 | EXACT Equations (idea/strategy/example)
+324 | 7 | 0 | 0 | the stairs at Glendale Community College, summer 2015
+573 | 10 | 0 | 2 | Integral of (1+2y)^2 from 1 to 2 (with u sub first)
+325 | 6 | 0 | 1 | [GCC Math 101/120 Common Final Sample 1] (Q19.) 2nd Formula of Difference Quotient
+16794 | 840 | 8 | 69 | An Afternoon with Professor Penn
+10464 | 385 | 6 | 35 | Integral Formula: Area
+5696843 | 95374 | 4453 | 10483 | a Cambridge interview problem: sqrt(3-2sqrt(2))=?
+45124 | 1495 | 72 | 214 | Why We Use Radians In Calculus?
+85257 | 839 | 44 | 57 | Factor x^3-64 vs Factor x^3-64x
+56684 | 1810 | 20 | 204 | Q117, 0^inf vs inf^0
+708 | 3 | 0 | 1 | Intermediate Algebra Q14 (with music) | Los Angeles Pierce College math assessment sample
+414 | 6 | 0 | 0 | Sect 4 9 #33
+177 | 4 | 0 | 0 | (Q24) Sample #1, Math 141/146 common final, Glendale community college
+50294 | 1701 | 34 | 151 | Changing Order of a  Double Summation
+4419 | 17 | 0 | 1 | [ACCUPLACER] (Q13.) "2nd method" Elementary Algebra Official Practice Problems
+3853 | 59 | 1 | 7 | Equation of a line perpendicular to the given line
+462 | 10 | 0 | 0 | 3 by 3 system of equations (warm up)
+1073607 | 16830 | 686 | 1146 | My First Quintic Equation
+199205 | 4814 | 97 | 429 | A number theory proof
+16733 | 191 | 6 | 9 | verifying trigonometric identities, Q10, csc^2x+sec^2x
+2119 | 27 | 0 | 1 | Calculus, Comparison Test (LCT), 11 4 #5
+28545 | 887 | 19 | 115 | There are infinitely many primes (Euclid's proof)
+171577 | 3942 | 51 | 337 | negative factorial
+729 | 7 | 0 | 1 | Quotient rule for derivative, ex2
+2225 | 33 | 4 | 4 | Factor completely t^4-25t^2+144
+70840 | 2746 | 44 | 295 | If WolframAlpha Can't Factor It, Can We?
+159714 | 6117 | 106 | 591 | You, Me and The Legend of Question 6
+3298 | 44 | 0 | 1 | Calculus, 11 9 #9 2nd way, Power Series Representation
+10410 | 51 | 1 | 2 | [COMPASS] (Q7.) Numerical Skills/Pre-algebra, official practice problems
+806 | 6 | 0 | 2 | Elementary Algebra Q15 | Pierce College math assessment sample MDTP
+19262 | 101 | 3 | 16 | [ACCUPLACER] Arithmetic (Q19.) Official Practice Problems
+5960 | 124 | 7 | 108 | another logic/math puzzle (just the problem)
+2021 | 48 | 1 | 8 | A SHOT OF VODKA... (the afterward)
+8742 | 318 | 3 | 57 | Q1, u-sub & u-sub with solving for x
+21137 | 214 | 2 | 5 | Sect 5 5 #23, Integral of sec^2x*tan^3x
+9883 | 44 | 2 | 2 | [ACCUPLACER] (Q9.) Elementary Algebra Official Practice Problems
+66999 | 2547 | 19 | 238 | Disc/Washer Method vs. Shell Method (rotated about different lines)
+17968 | 1022 | 14 | 182 | Repeating decimal puzzle
+27530 | 698 | 9 | 46 | Integral battle#18, u sub (GONE LONG)
+5550 | 230 | 5 | 51 | Dear Andy, (solution to the puzzle)
+485 | 6 | 0 | 0 | Q5, evaluate f(-1/2) when f(x)=9^x
+383 | 5 | 0 | 1 | (Q9.) Simplify and Combine Expressions with Cube Roots
+14055 | 523 | 4 | 96 | Integral of 1/(sqrt(x+1)+sqrt(x))
+2887 | 110 | 1 | 12 | Q3, easy u substitutions
+9820 | 222 | 10 | 75 | e^pi vs. pi^e, 中文版
+6390 | 69 | 3 | 4 | Sect 7 8#15, improper integral of sin^2x from 0 to inf
+24447 | 1107 | 7 | 157 | Crazy Derivative
+1485 | 17 | 0 | 2 | Stewart Calculus, Sect 9 1 #9
+12364 | 78 | 3 | 3 | [ACCUPLACER] (Q5.) "y=mx+b" College-Level Math, Official Practice Problems
+59255 | 667 | 19 | 66 | second derivative of ln(x+sqrt(1+x^2))
+7267 | 283 | 3 | 34 | Comparison Theorem for improper integral (exam sol)
+3375 | 51 | 1 | 3 | 11.7#16 Both LCT and DCT
+149182 | 2434 | 144 | 193 | Proof by intuition done by Leonhard Euler, sum of 1/n^2, (feat. Max)
+38409 | 1800 | 24 | 233 | arctan(1/2)+arctan(1/3)=?
+31490 | 232 | 10 | 27 | limit of (e^x-1-x)/x^2 as x goes to 0, L'Hospital's Rule
+615 | 11 | 0 | 0 | Integral of (x/2-2/x) from 1 to 2
+61877 | 627 | 26 | 39 | Laplace Transform of t^2
+21477 | 675 | 8 | 137 | Easiest Quadratic Congruence
+131 | 3 | 0 | 0 | Q2 Fast
+2757 | 111 | 2 | 22 | converting radians to degrees & degrees to radians, trig hw help
+2927 | 20 | 1 | 1 | Calculus, P series, 11 3 #3
+26303 | 291 | 2 | 17 | Undetermined Coefficients, ex2, f(t) is a sine or cosine function
+32910 | 962 | 8 | 146 | 10 Integral Battles
+1676 | 33 | 1 | 2 | Find a solution to trig equations (cofunction identity)
+7293 | 69 | 0 | 3 | Calculus, 1/(1-3x), Power Series Representation
+5878 | 35 | 0 | 3 | [ACCUPLACER] (Q9.) College-Level Math, Official Practice Problems
+38959 | 1717 | 16 | 218 | An Infinite System of Equations? (Putnam exam 1969)
+18190 | 536 | 10 | 64 | PROVE THIS, sum-to-product identity for sine, bprp retro!
+1332 | 19 | 0 | 2 | Fundamental theorem of calculus (part 1) example#2
+56120 | 903 | 18 | 53 | Power series of ln(1+x), ALL DETAILS!
+342 | 4 | 0 | 0 | Intermediate Algebra Q11 (with music) **the algebra way**
+53554 | 2205 | 16 | 212 | Q54, Integral of sqrt(x^2+4x+5), trig sub with completing the square
+254 | 6 | 0 | 0 | (Q6.) So, you think you can take the derivative?

@@ -1,0 +1,95 @@
+122277 | 3789 | 50 | 430 | I Created a New Q&A Website for Coders with Python | Devlog #1
+1490859 | 45143 | 589 | 2571 | What Programming Language Should I Learn First?
+261799 | 4485 | 78 | 326 | Making a To-Do App with Django | Web Development Tutorial | Build a Startup #3
+550643 | 11378 | 176 | 433 | 6 Python Exercise Problems for Beginners - from CodingBat (Python Tutorial #14)
+1174346 | 29107 | 501 | 1580 | Computer Science vs Software Engineering - Which One Is A Better Major?
+22831 | 851 | 14 | 60 | What's It Really Like To Intern At Google? (LIVE with a former Google software engineer intern)
+177684 | 3625 | 36 | 284 | List Comprehension Basics with Python (Python Tutorial #12)
+823832 | 13765 | 137 | 1188 | Introduction To Lists In Python (Python Tutorial #4)
+37476 | 1496 | 39 | 440 | I'll be taking some time off from this channel.
+119674 | 2957 | 77 | 371 | Why and How I Used Vue.js for My Python/Django Web App (and why not React)
+1071944 | 26735 | 385 | 1396 | What Is Dynamic Programming and How To Use It
+375934 | 7386 | 88 | 453 | Classes and Objects with Python - Part 2 (Python Tutorial #10)
+395489 | 5369 | 277 | 408 | Dynamic Programming Interview Question #1 - Find Sets Of Numbers That Add Up To 16
+197094 | 4682 | 264 | 519 | A Day In The Life Of A Computer Science Student
+132470 | 4871 | 61 | 242 | Best Resources for Learning Machine Learning? What Is ML Anyway? Q&A with ML Engineers!
+149520 | 4529 | 120 | 351 | 5 Debugging Tips Every Developer Should Know | Build a Startup #7
+23257 | 558 | 8 | 98 | Announcing Our First Meetup (in Toronto) + Discord Server!
+1785192 | 37272 | 396 | 2498 | How to Use If Else Statements in Python (Python Tutorial #2)
+147612 | 2810 | 56 | 192 | Google Coding Interview - Universal Value Tree Problem
+133301 | 3096 | 108 | 299 | What Is a Quantum Computer? Explained with a Simple Example
+148192 | 2590 | 31 | 278 | How To Use Sets in Python (Python Tutorial #13)
+523023 | 11117 | 147 | 770 | Introduction to Linked Lists (Data Structures & Algorithms #5)
+90766 | 2778 | 58 | 256 | A Complete Overview of Quicksort (Data Structures & Algorithms #11)
+258673 | 6146 | 47 | 371 | Introduction to Classes and Objects - Part 2 (Data Structures & Algorithms #4)
+197280 | 5206 | 101 | 409 | Real Talk with Google Software Engineer
+111269 | 4209 | 90 | 447 | Web Development Essentials 2020 (w/ Chris Castiglione)
+2642614 | 77615 | 1605 | 3985 | Top 5 Programming Languages to Learn to Get a Job at Google, Facebook, Microsoft, etc.
+70147 | 3434 | 29 | 117 | 4 Best Ways to Apply for Software Engineer Jobs
+422266 | 4521 | 233 | 474 | Facebook Coding Interview Question and Answer #1: All Subsets of a Set
+52701 | 1742 | 17 | 172 | Introduction to Stacks and Queues (Data Structures & Algorithms #12)
+116951 | 3487 | 66 | 320 | A YouTuber's Minimalist Apartment + Equipment Setup Tour
+5800263 | 199833 | 8681 | 9385 | Why I Left My $100,000+ Job at Google
+73338 | 1174 | 47 | 117 | Coding Interview: Can You RANDOMLY Reorder Array in O(N)?
+78374 | 2456 | 60 | 179 | What Is Competitive Programming and How To Prepare For It (LIVE with Gaurav Sen)
+117095 | 2254 | 53 | 233 | Coding Twitter Integration & I Won A Startup Competition! (VLOG) | Build a Startup #6
+568040 | 19488 | 204 | 595 | Resources for Learning Data Structures and Algorithms (Data Structures & Algorithms #8)
+256278 | 9602 | 110 | 348 | How I Got an Internship at Microsoft
+344716 | 4892 | 61 | 509 | More About For Loops in Python & Solutions to the Last 2 Problems (Python Tutorial #7)
+340577 | 4648 | 63 | 335 | How To Use Dictionaries In Python (Python Tutorial #8)
+224046 | 2448 | 161 | 260 | Amazon Coding Interview: Count Negative Integers in Row/Column-Wise Sorted Matrix
+551233 | 7286 | 116 | 1559 | While Loops and The Break Statement in Python (Python Tutorial #6)
+452240 | 6151 | 279 | 493 | Amazon Coding Interview Question - K Closest Points to the Origin
+77159 | 1853 | 51 | 109 | How They Built A Startup While Traveling ($500,000 / year in revenue)
+48556 | 2031 | 20 | 360 | I'm back from my vacation! Plus a few announcements.
+1498618 | 29989 | 468 | 924 | Data Structures & Algorithms #1 - What Are Data Structures?
+1122656 | 25913 | 478 | 1291 | Introduction to Big O Notation and Time Complexity (Data Structures & Algorithms #7)
+150484 | 8506 | 71 | 538 | How I Learned English (didn’t speak it until I was 18)
+111083 | 1762 | 77 | 109 | Longest Common Subsequence (Dynamic Programming)
+210538 | 3362 | 40 | 311 | Using Boolean in Python (Python Tutorial #11)
+181657 | 4242 | 56 | 303 | What My Software Engineer Resume Looks Like
+1560038 | 25107 | 364 | 2534 | How To Use Functions In Python (Python Tutorial #3)
+407162 | 7846 | 173 | 587 | Introduction to Recursion (Data Structures & Algorithms #6)
+973155 | 21171 | 232 | 688 | Intro to Data Analysis / Visualization with Python, Matplotlib and Pandas | Matplotlib Tutorial
+1284490 | 56768 | 611 | 1771 | How I Got a Job at Google as a Software Engineer (without a Computer Science Degree!)
+116115 | 2997 | 28 | 269 | Making a Snake Game Where You're the Food in Python
+15442 | 510 | 20 | 48 | What’s It Like To Be A Program Manager Intern At Microsoft? (LIVE with a former Microsoft intern)
+65047 | 1667 | 32 | 195 | 5 Tips for Getting a Data Science Job [INTERVIEW]
+1395505 | 28220 | 760 | 1190 | Watch me build a real startup with Python and JavaScript | Web Development | Build A Startup #1
+333023 | 6597 | 196 | 240 | Problem Solving Technique #1 for Coding Interviews with Google, Amazon, Microsoft, Facebook, etc.
+162065 | 2167 | 224 | 147 | Learn Counting Sort Algorithm in LESS THAN 6 MINUTES!
+289184 | 7138 | 164 | 561 | How He Got a $240K Software Eng Job, Got Through Depression, and More (ft. Joma Tech)
+152331 | 7308 | 117 | 912 | I was hospitalized for a week. Here are 3 lessons I learned from it
+49945 | 761 | 24 | 44 | Dynamic Programming Tutorial with Fibonacci Sequence
+963614 | 19192 | 456 | 861 | 5 Problem Solving Tips for Cracking Coding Interview Questions
+154109 | 2686 | 64 | 91 | Radix Sort Algorithm Introduction in 5 Minutes
+90730 | 2742 | 31 | 237 | Introduction to Binary Search (Data Structures & Algorithms #10)
+4288375 | 139089 | 2055 | 3354 | How I Learned to Code - and Got a Job at Google!
+1379413 | 52846 | 1163 | 1306 | Think you're not smart enough to work at Google? Well, think again.
+6625188 | 147234 | 2029 | 7786 | Python Tutorial for Absolute Beginners #1 - What Are Variables?
+1059213 | 16636 | 229 | 3288 | Introduction to For Loops in Python (Python Tutorial #5)
+109295 | 2424 | 41 | 168 | Using Dynamic Programming to Solve a Real-World Problem! | Build a Startup #5
+927857 | 16651 | 238 | 1100 | Classes and Objects with Python - Part 1 (Python Tutorial #9)
+105158 | 2985 | 36 | 306 | Introduction to Hash Tables and Dictionaries (Data Structures & Algorithms #13)
+2846802 | 84358 | 1226 | 2144 | What Can You Do with Python? - The 3 Main Applications
+103915 | 2956 | 30 | 249 | Introduction to Trees (Data Structures & Algorithms #9)
+110641 | 3604 | 57 | 189 | Complete Data Science Career Guide with Former Facebook Data Scientist Joma
+363763 | 7351 | 123 | 580 | How To Create A Twitter Bot With Python | Build a Startup #4
+433884 | 6741 | 189 | 543 | Facebook Coding Interview Question - How Many Ways to Decode This Message?
+80203 | 751 | 51 | 53 | Microsoft Coding Interview Question and Answer: Lowest Common Ancestor
+320242 | 3597 | 340 | 189 | 0-1 Knapsack Problem (Dynamic Programming)
+74077 | 1008 | 21 | 74 | Coding Interview Question and Answer: Longest Consecutive Characters
+1233238 | 34304 | 964 | 1734 | Best laptops for programming? How to get a job at Google? - And other FAQ’s!
+1392051 | 19897 | 690 | 1401 | Amazon Coding Interview Question - Recursive Staircase Problem
+2115405 | 78981 | 725 | 1888 | How to Learn to Code - Best Resources, How to Choose a Project, and more!
+438415 | 10132 | 102 | 496 | An Overview of Arrays and Memory (Data Structures & Algorithms #2)
+246430 | 8974 | 114 | 372 | Python books for beginners? What Python projects to work on? | 2 Python Beginner FAQ’s!
+1851359 | 25703 | 1252 | 1764 | Google Coding Interview Question and Answer #1: First Recurring Character
+130304 | 1737 | 188 | 234 | Coding Interview Question: Tower Hopper Problem
+151529 | 2488 | 103 | 90 | 4 Hacks for Finding the Optimal Answer in Coding Interview QUICKLY!
+649956 | 9189 | 255 | 604 | How to Crack a Google Coding Interview - An Ex-Googler’s Guide
+457493 | 7523 | 477 | 435 | Kadane's Algorithm to Maximum Sum Subarray Problem
+688098 | 18405 | 172 | 1002 | Introduction to Classes and Objects - Part 1 (Data Structures & Algorithms #3)
+236599 | 4255 | 58 | 331 | Making a Hello World App with Django | Web Development | Build a Startup #2
+47803 | 2789 | 102 | 359 | Why I Left Google To Be A YouTuber FULL-TIME (and NOT part-time!)
+328773 | 17096 | 139 | 701 | How to GET STUFF DONE When You Don’t Feel Like It!
