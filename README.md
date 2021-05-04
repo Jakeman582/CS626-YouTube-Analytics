@@ -58,10 +58,10 @@ There are 3 MapReduce jobs defined in 3 separate packages for performing video t
 There are 3 MapReduce jobs defined in 3 separate packages for performing channel clustering, again which must be performed in sequence (after completing step 1 in the video title analysis section.)
 
 4.) The Lister package
-    This package searchesa through every single video title collected from the API and lists out the words that have been used, and stores them in a file so they can be refernced later.
+    This package searchesa through every single video title collected from the API and lists out the words that have been used, and stores them in a file so they can be refernced later. As of now, the output_directory must be specified as "output/Project/GlobalWordCount/" since the job in step 5 reads from this location directly.
     
     Example usage:
-      linux hadoop jar Project.jar Lister.TitleWordCounter <output_file_from_step_1> <new_output_directory>
+      linux hadoop jar Project.jar Lister.TitleWordCounter <output_file_from_step_1> output/Project/GlobalWordCount/
 
 5.) The Counter package
     This package goes through every YouTuber's list of videos and does a word count. The word counts are stored in a vector whose components represent the ordered list of words found in step 1 of the clustering procedures. All word vectors are stored in one output file for the final procedure.
