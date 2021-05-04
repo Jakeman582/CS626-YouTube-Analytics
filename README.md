@@ -42,11 +42,11 @@ There are 3 MapReduce jobs defined in 3 separate packages for performing video t
 
 2.) The Analyser package
     This package takes the SequenceFile generated as loutput from step 1 to calculate per-channel averages and global averages.
-    Currently, the output directory must be specified as described in the source code for the Filter MapReduce job as it has been hardcoded.
+    Currently, the output directory must be specified as "output/Project/ChannelFile" for the Filter MapReduce job as it has been hardcoded.
 
 
     Example usage:
-      linux> hadoop jar Project.jar Analyser.YouTubeAnalyser <output_file_from_step_1> <new_output_directory>
+      linux> hadoop jar Project.jar Analyser.YouTubeAnalyser <output_file_from_step_1> output/Project/ChannelFile
 
 3.) The Filter package
     This package contains a MapReduce job to filter out videos for each YouTuber that do not have higher-than-average metrics, and produces files for every YouTuber containing only thoise titles tnhat should be used to train an NLP engine to generate new sentences.
