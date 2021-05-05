@@ -4,13 +4,16 @@ This repository contains a collection of scripts and MapReduce jobs that perform
 This analysis can be broken up into 3 stages:
 
 1.) Data Scraping
-    Python scripts are used to contact the YouTube API and collect video metadaata for a given input file containing YouTube channels.
+
+Python scripts are used to contact the YouTube API and collect video metadaata for a given input file containing YouTube channels.
 
 2.) Video Title Analysis
-    A set of MapReduce jobs are used to calculate each channel's average number of views, average number of comments, and average like:dislike ratio. We then filter each channel's videos to produce a list of titles that have a higher-than-average view count, comment count, and like:dislike ratio.
+
+A set of MapReduce jobs are used to calculate each channel's average number of views, average number of comments, and average like:dislike ratio. We then filter each channel's videos to produce a list of titles that have a higher-than-average view count, comment count, and like:dislike ratio.
 
 3.) Channel Clustering
-    Based on the words used in the titles of YouTube videos, a set of MapReduce jobs attempt to cluster YouTube channels into related groups.
+
+Based on the words used in the titles of YouTube videos, a set of MapReduce jobs attempt to cluster YouTube channels into related groups.
 
 ***Overarching goals***
 
